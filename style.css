@@ -70,3 +70,23 @@ main {
 .menu a:focus {
     background: #eee;
 }
+
+.beacon-list {
+    padding-left: 1.5rem;
+}
+
+.beacon-list li {
+    margin: 0.75rem 0;
+}
+
+table {
+    border-collapse: collapse;
+    margin: 1.5rem 0;
+}
+
+th,
+td {
+    border: 1px solid currentColor;
+    padding: 0.4rem 0.65rem;
+    text-align: left;
+}
