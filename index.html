@@ -3,22 +3,32 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>afandura</title>
+    <title>Book of Ixoria Mora</title>
     <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
+    <main>
+        <h1>Book of Ixoria Mora</h1>
 
-    <h1>afandura</h1>
-
-    <p>
-        <button onclick="window.location.href='worldBuilding/worldBuildingIndex.html'">World</button>
-    </p>
-
-    <p>
-        <button onclick="dummy()">Dummy</button>
-    </p>
-
-    <script src="script.js"></script>
+        <nav class="contents" aria-label="Book contents">
+            <ul class="menu menu-level-1">
+                <li>
+                    <span class="menu-label">Lost Lore</span>
+                </li>
+                <li>
+                    <span class="menu-label" aria-haspopup="true">Beacon Dynasty</span>
+                    <ul class="menu menu-level-2">
+                        <li>
+                            <a href="worldBuilding/WB_BeaconDynasty_Aurelia.html">Aurelia</a>
+                        </li>
+                        <li>
+                            <span class="menu-label">The Aurelate</span>
+                        </li>
+                    </ul>
+                </li>
+            </ul>
+        </nav>
+    </main>
 </body>
 </html>
