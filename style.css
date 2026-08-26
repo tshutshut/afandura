@@ -12,6 +12,7 @@ main {
 .contents {
     display: inline-block;
     position: relative;
+    width: 16rem;
 }
 
 .contents-container .contents {
