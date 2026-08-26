@@ -1,0 +1,13 @@
+# WB - Beacon Dynasty - Aurelia's Beginnings
+
+## Aurelia's Beginnings
+
+Aurelia was born in an insignificant village to ordinary parents during an age when the ancient Veilsteps were little more than forgotten ruins. Although her family possessed no notable status or magical heritage, Aurelia displayed unusual magical markings from birth, hinting that she carried an innate gift unlike those around her.
+
+As she grew older, Aurelia developed an insatiable curiosity about the remnants of older civilizations. While exploring beyond her village as a young adult, she discovered one of the dormant Veilsteps. Through circumstances she did not fully understand, she accidentally awakened the ancient gateway.
+
+Realizing that no one else could reproduce what she had done, Aurelia understood that she possessed a unique ability. Rather than revealing her discovery, she kept it secret and began searching for other Veilsteps scattered across the continent.
+
+Over the following years, Aurelia quietly rediscovered and reactivated additional Veilsteps while carefully concealing the method by which they could be awakened. Each rediscovered gateway expanded her understanding of the ancient network and revealed the immense potential it held.
+
+These discoveries laid the foundation for her greatest achievement. Armed with a growing network of restored Veilsteps, Aurelia began forging alliances, encouraging trade, sharing knowledge, and, when diplomacy failed, using military strength to unite the continent. These efforts would ultimately lead to the birth of the Aurelate and the beginning of the Beacon Dynasty.
