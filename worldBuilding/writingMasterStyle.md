@@ -75,3 +75,7 @@ The goal is **atmospheric rather than poetic**, and **weighty rather than ornate
 ## Core Principle
 
 The writing should feel as though someone is recording the history and cultures of a real world: a world shaped by time, loss, endurance, memory, and change.
+
+## HTML Formatting
+
+For HTML pages, bold font is only allowed for titles and headlines, and must not be used within the actual text.
