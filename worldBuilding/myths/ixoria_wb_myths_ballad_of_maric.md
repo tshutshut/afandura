@@ -15,7 +15,7 @@ and stranger still somehow.
 His mother would not look at him,
 his father barred the door.
 The neighbors whispered in the lane
-as Maric stood outside once more.
+"Maric is done this time for sure!".
 
 He took his coat, he took his purse,
 and took the road alone.
@@ -23,17 +23,17 @@ He did not know where he would sleep,
 or where he would call home.
 
 And that was the beginning
-of Maric's unlucky road.
+of Maric's unlucky plight.
 He walked until the morning passed,
-and hunger claimed its toll.
+and hunger won the fight.
 
 He stopped beside a crowded street,
 and checked his purse with care.
 But when he looked, the purse was gone,
-and no thief could be seen there.
+and no thief was seen there.
 
 The thief was quick, the thief was thin,
-the thief was quick of hand.
+the thief was swift of hand.
 He vanished through the market crowd
 and disappeared from land.
 
@@ -42,20 +42,40 @@ and laughing at his prize,
 another thief came down the road
 with mischief in his eyes.
 
-He took the first thief's stolen purse
+He took the first thief's purse
 and hurried on his way.
-But luck, it seems, had followed him
+Luck, it seems, had followed him
 since early in the day.
 
-A city guard came round the bend
-and caught the second thief.
-He searched the purse, he found Maric's name,
-and thought the matter brief.
+Maric came upon a narrow lane
+and there he saw the thief,
+Who sat beside a market wall
+and counted coins with glee.
 
-“You'll come with me,” the guard declared.
-Maric answered, “But I'm robbed!”
+Maric knew his purse at once,
+the leather, clasp, and thread.
+He reached to take it from the thief,
+but first the thief had fled.
 
-The guard replied, “Tell that to the judge.”
+They wrestled in the crowded street,
+and Maric cried, “That’s mine!”
+A guard came running at the sound,
+and seized them both in time.
+
+“That purse is mine!” the thief cried out,
+“He tried to take my gold!”
+The guard looked first at Maric’s horns,
+then did as he was told.
+
+For who would trust a devil’s word
+against an honest man?
+The thief was freed, and Maric chained,
+before he could explain.
+
+They marched him to the prison cart
+and fastened iron tight.
+His purse was gone, his freedom too,
+before the fall of night.
 
 And that was Maric's luck.
 
@@ -67,7 +87,7 @@ the horse began to wail.
 For by the roadside, green and proud,
 there stood a cabbage head.
 The horse saw only dinner there;
-the horse ignored the dead.
+the horse ignored the threat.
 
 The driver pulled the reins in vain,
 the horse refused to steer.
@@ -91,7 +111,6 @@ which saved his life outright.
 
 The guards believed him dead, of course.
 The innkeeper did not.
-
 He stared at Maric, dripping stew,
 and shouted, “What you've got!”
 
@@ -109,17 +128,15 @@ I suppose I'll hire you.”
 
 Maric had never cooked before.
 He said as much quite plain.
-
 The innkeeper replied, “Then learn.”
-
-And handed him a grain.
+And handed him some grain.
 
 For three short days Maric worked
 and tried to keep things right.
 Then smoke began to fill the hall,
 and someone shouted, “FIRE!”
 
-The kitchen burned, the curtains burned,
+The kitchen burned, the curtains blazed,
 the roof began to glow.
 Maric ran out through the front door
 with nowhere else to go.
@@ -130,7 +147,7 @@ and straight into a wedding band
 that blocked the whole main track.
 
 The fiddler dropped his fiddle.
-The bride's old father raised his cup.
+The bride's father raised his cup.
 He looked at Maric, dressed in smoke—
 
 And that was Maric's luck.
@@ -140,10 +157,10 @@ And that was Maric's luck.
 They put a hat upon his head
 and handed him some wine.
 
-Someone gave him a fiddle.
+Someone gave him the fiddle.
 Someone gave him bread.
 Someone asked him for a wedding song.
-Maric shook his head.
+But Maric shook his head.
 
 He could not play the fiddle.
 He could barely hold the tune.
@@ -153,7 +170,7 @@ that noise is music soon.
 So everyone began to dance,
 and Maric danced along.
 He struck the fiddle once or twice,
-which made the whole thing worse.
+which made the whole thing wrong.
 
 The bride's old uncle joined the dance.
 The groom fell in the punch.
@@ -161,9 +178,9 @@ The bride began to laugh so hard
 she nearly lost her lunch.
 
 The father called for one more round.
-The musicians played faster.
+The music picked up speed.
 Maric tried to leave the room,
-but stepped upon a plaster.
+but stepped upon some seeds.
 
 The floor gave way beneath his feet.
 The wedding gave a scream.
@@ -173,8 +190,7 @@ the tables and the stream.
 He landed in the dark below,
 where rats had made their home.
 But rats were not what waited there—
-
-A smuggler's tunnel wound beneath the stone.
+But a smuggler's tunnel in stone.
 
 And that was Maric's luck.
 
@@ -190,21 +206,17 @@ and maybe find a purse.
 
 At last he saw the daylight shine.
 He climbed toward open air.
-
 He emerged beside a prison gate.
-
 The guards were waiting there.
 
 They saw his horns. They saw his face.
 They saw the road below.
 One guard shouted, “There he is!”
-
-Maric whispered, “Oh no.”
+And Maric whispered, “Oh no.”
 
 They seized him once again,
 and dragged him to the square.
 The captain said, “You escaped before!”
-
 Maric said, “I wasn't there.”
 
 The captain did not understand.
@@ -231,18 +243,16 @@ and then it met its fate.
 
 The gate fell inward with a crash.
 The guards all scattered wide.
-Maric was standing just beyond it,
+Maric was standing just beyond,
 with nobody at his side.
 
 He looked at all the broken wood.
 He looked at all the guards.
 He dusted off his coat and said,
-
 “I think I'll leave the yard.”
 
 And so he walked away from jail,
 though this much must be said:
-
 Maric escaped the prison
 without ever going in.
 
@@ -421,4 +431,4 @@ Don't curse the road.
 
 Don't curse your fate.
 
-**And that was Maric's luck.**
+Blame it on Maric's luck.
