@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Ballad of Maric | Book of Ixoria Mora</title>
+    <link rel="stylesheet" href="../../style.css">
+</head>
+
+<body>
+    <main>
+        <nav aria-label="Page navigation">
+            <a class="contents-link" href="../../index.html">Index</a>
+        </nav>
+
+        <h1>The Ballad of Maric</h1>
+        <p><em>A song of Devil's Luck</em></p>
+
+        <div id="ballad"></div>
+    </main>
+
+    <script>
+        fetch("ixoria_wb_myths_ballad_of_maric.md")
+            .then(response => response.text())
+            .then(markdown => {
+                const container = document.getElementById("ballad");
+                const blocks = markdown.trim().split(/\n\s*\n/);
+
+                blocks.forEach((block, index) => {
+                    const lines = block.split("\n");
+                    const first = lines[0];
+
+                    if (first.startsWith("# ")) {
+                        if (index === 0) return;
+                        const heading = document.createElement("h1");
+                        heading.textContent = first.substring(2);
+                        container.appendChild(heading);
+                        return;
+                    }
+
+                    if (/^\*[^*]+\*$/.test(block.trim())) {
+                        const subtitle = document.createElement("p");
+                        const em = document.createElement("em");
+                        em.textContent = block.trim().slice(1, -1);
+                        subtitle.appendChild(em);
+                        container.appendChild(subtitle);
+                        return;
+                    }
+
+                    const paragraph = document.createElement("p");
+                    lines.forEach((line, lineIndex) => {
+                        if (lineIndex > 0) paragraph.appendChild(document.createElement("br"));
+
+                        const parts = line.split(/(\*\*[^*]+\*\*)/g);
+                        parts.forEach(part => {
+                            if (part.startsWith("**") && part.endsWith("**")) {
+                                const strong = document.createElement("strong");
+                                strong.textContent = part.slice(2, -2);
+                                paragraph.appendChild(strong);
+                            } else {
+                                paragraph.appendChild(document.createTextNode(part));
+                            }
+                        });
+                    });
+                    container.appendChild(paragraph);
+                });
+            })
+            .catch(() => {
+                document.getElementById("ballad").textContent = "Unable to load the ballad.";
+            });
+    </script>
+</body>
+</html>
