@@ -22,4 +22,4 @@ The fifth level, the Oath, marks the limit of the traditional pilgrimage. There 
 
 A pilgrim who reaches the Oath has reached the furthest point of the First Wound that the rite permits. From there, the journey turns upward.
 
-The pilgrim returns to the Halo, where their possessions are returned and the red robes are removed. The descent is complete, but the pilgrimage is not. The Line continues beyond the Open Hollow.
+The pilgrim returns to the Halo, though their possessions are not returned. They can now move on to the second site.
