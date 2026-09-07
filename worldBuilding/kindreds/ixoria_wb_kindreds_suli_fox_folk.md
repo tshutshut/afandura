@@ -1,0 +1,17 @@
+# WB - Kindreds - Suli
+
+The Suli are humanoid foxes whose oldest communities lie within the forests of Exoria. Their ancestral dens remain thriving communities, though many Suli eventually leave them. Some settle in villages, others in cities, ports, or along the roads, drawn by trade and opportunity. They are clever, adaptable, and rarely indifferent to profit. A Suli may become a merchant, craftsman, gambler, thief, entertainer, or almost anything else that rewards a quick mind and a willingness to seize an opportunity.
+
+The Suli are divided into four great families, each distinguished by its fur and by a craft passed down through generations. The silver-furred Suli-Lei are skilled in chemistry, producing compounds and potions from natural materials whose effects may be useful, harmful, or simply unusual. The red-furred Suli-Ru are known for pyrotechnics, making fireworks, smoke bombs, sparks, and small explosives, often turning their craft into a profitable trade. The white-furred Suli-Thi are masters of forgery, capable of reproducing documents, artworks, instruments, and valuables closely enough to deceive all but the most discerning eye. The black-furred Suli-Kal devote themselves to games, gambling, wagers, and contests of both chance and strategy. The families compete fiercely and are not above sabotaging one another, yet their rivalry ends where the interests of the Suli as a whole begin.
+
+Every family maintains an ancestral den somewhere within the forests of Exoria. Outsiders may know the forest and even the general region in which a den lies, but finding the den itself is another matter. False entrances, concealed paths, misleading trails, and chambers hidden behind ordinary woodland have protected these places for generations. The location of a true den is among the most closely guarded secrets of the Suli. Families may know one another's secrets and occasionally boast of doing so, but no Suli, regardless of family or birthplace, willingly reveals a true den to an outsider.
+
+The families mingle freely, and children of mixed families are accepted without distinction. A Suli may choose to live in whichever den they prefer, and once settled there, their strongest loyalty belongs to that den rather than to the family from which they came. Among the Suli, where one belongs matters more than where one began.
+
+For all their dealings with the wider world, the Suli remain wary of outsiders. This caution becomes something harsher when Wolfkin are involved. The hostility between the two peoples is old, visceral, and rarely concealed.
+
+In spring comes Foxes' Foolery, a festival during which every Suli knows that another family, den, or individual is likely preparing some elaborate trick, theft, wager, or scheme. The exact nature of the deception is never known in advance, so businesses become guarded, valuables disappear into safer places, and everyone watches their neighbours a little more carefully than usual. The schemes may involve fortunes or reputations, but serious injury and death are not the point. The pleasure lies in the cleverness of the attempt, the quality of the deception, and the satisfaction of discovering how it was done.
+
+Among the Suli, rivalry is expected, suspicion is useful, and trust is rarely given without reason. Yet when an outsider threatens them, the old divisions become secondary. They have a saying for this:
+
+“Argue among foxes, but hunt the wolf together.”
