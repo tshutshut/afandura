@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Casting Spells 1.2</title>
+    <link rel="stylesheet" href="../style.css">
+</head>
+<body>
+    <main>
+        <nav aria-label="Page navigation">
+            <a class="contents-link" href="../index.html">Index</a>
+        </nav>
+
+        <h1>Casting Spells 1.2</h1>
+
+        <p>This page describes how spells are defined, cast, and improved through use. Every spell has its own stat block and Complexity, while players develop Proficiency in the Spell Branches they practice. Together, a spell's Complexity and the player's Proficiency determine its Casting Difficulty. Successful casts contribute towards a common progression pool shared by all spells belonging to the same Spell Branch.</p>
+
+        <p>Spellcasting is designed to remain simple to use and track. There are no spell slots, no distinction between cantrips and spells, and no universal limit to how often a spell may be cast. If a spell has restrictions on its use, these are stated directly within the spell itself.</p>
+
+        <h2>1. Spell Stat Block</h2>
+
+        <p>Each spell is presented through a stat block containing its individual properties and the information needed to cast it.</p>
+        <p>The information is presented in the following order:</p>
+
+        <ul>
+            <li><strong>Name</strong></li>
+            <li><strong>Description</strong></li>
+            <li><strong>Spell Branch</strong></li>
+            <li><strong>Complexity</strong> — Tier I to Tier V</li>
+            <li><strong>Damage / Effect</strong></li>
+            <li><strong>Range / Area of Effect</strong></li>
+            <li><strong>Duration</strong></li>
+            <li><strong>Usage Limits</strong> — Unlimited, Once per Long Rest, or another restriction when applicable</li>
+        </ul>
+
+        <p>Proficiency is not part of a spell's stat block. It belongs to the player and represents their experience with the Spell Branch to which the spell belongs.</p>
+
+        <h3>Spell Complexity</h3>
+
+        <p>Complexity represents the inherent difficulty of a spell. It is fixed for each spell and does not change as the player becomes more proficient.</p>
+
+        <table>
+            <thead>
+                <tr><th>Complexity</th><th>Description</th></tr>
+            </thead>
+            <tbody>
+                <tr><td><strong>Tier I</strong></td><td>Simple spells producing minor or straightforward magical effects.</td></tr>
+                <tr><td><strong>Tier II</strong></td><td>More involved spells requiring greater control or producing more substantial effects.</td></tr>
+                <tr><td><strong>Tier III</strong></td><td>Advanced spells capable of producing significant magical effects.</td></tr>
+                <tr><td><strong>Tier IV</strong></td><td>Powerful spells requiring considerable magical control to cast successfully.</td></tr>
+                <tr><td><strong>Tier V</strong></td><td>The most complex spells, representing exceptionally difficult and powerful uses of magic.</td></tr>
+            </tbody>
+        </table>
+
+        <h2>2. Casting Difficulty</h2>
+
+        <h3>Spell Proficiency</h3>
+
+        <p>Spell Proficiency represents a player's experience and familiarity with a particular Spell Branch.</p>
+
+        <p>Proficiency is tracked separately for each Spell Branch and applies to every spell the character knows within that branch. A character may therefore be highly proficient in one Spell Branch while having little experience in another.</p>
+
+        <p>Proficiency is divided into five levels:</p>
+
+        <table>
+            <thead>
+                <tr><th>Proficiency</th><th>Description</th></tr>
+            </thead>
+            <tbody>
+                <tr><td><strong>Novice</strong></td><td>The player has little experience with the Spell Branch. Its magic remains unfamiliar, and even relatively simple spells may require concentration and effort to cast successfully.</td></tr>
+                <tr><td><strong>Apprentice</strong></td><td>The player has developed a basic understanding of the Spell Branch. Simple spells have become familiar, while more complex magic still presents a considerable challenge.</td></tr>
+                <tr><td><strong>Practiced</strong></td><td>The player is comfortable with the Spell Branch and has repeatedly used magic belonging to it. Basic spells require little effort, and more demanding spells can be attempted with greater confidence.</td></tr>
+                <tr><td><strong>Expert</strong></td><td>The player has extensive experience with the Spell Branch. Most of its magic has become familiar, leaving only its most complex spells difficult to perform.</td></tr>
+                <tr><td><strong>Master</strong></td><td>The player possesses exceptional familiarity with the Spell Branch. Even highly complex magic can be attempted with confidence, while lesser spells have become routine.</td></tr>
+            </tbody>
+        </table>
+
+        <p>A Spell Branch in which the player has never practiced has no developed Proficiency. When the player first begins using magic from that branch, they begin as a <strong>Novice</strong>.</p>
+
+        <p>Learning a new spell from a Spell Branch the player already practices does not create a new Proficiency. The spell uses the player's existing Proficiency in that branch.</p>
+
+        <h3>Determining Casting Difficulty</h3>
+
+        <p>Casting Difficulty is determined by comparing the spell's <strong>Complexity</strong> with the player's current <strong>Proficiency</strong> in its Spell Branch.</p>
+
+        <table>
+            <thead>
+                <tr><th>Spell Tier</th><th>Novice</th><th>Apprentice</th><th>Practiced</th><th>Expert</th><th>Master</th></tr>
+            </thead>
+            <tbody>
+                <tr><td><strong>Tier I</strong></td><td>Easy</td><td>Easy</td><td>Automatic</td><td>Automatic</td><td>Automatic</td></tr>
+                <tr><td><strong>Tier II</strong></td><td>Moderate</td><td>Easy</td><td>Easy</td><td>Automatic</td><td>Automatic</td></tr>
+                <tr><td><strong>Tier III</strong></td><td>Hard</td><td>Moderate</td><td>Easy</td><td>Easy</td><td>Automatic</td></tr>
+                <tr><td><strong>Tier IV</strong></td><td>Very Hard</td><td>Hard</td><td>Moderate</td><td>Easy</td><td>Easy</td></tr>
+                <tr><td><strong>Tier V</strong></td><td>Nearly Impossible</td><td>Very Hard</td><td>Hard</td><td>Moderate</td><td>Easy</td></tr>
+            </tbody>
+        </table>
+
+        <p>The resulting difficulty determines the roll required for the spell to succeed:</p>
+
+        <table>
+            <thead>
+                <tr><th>Difficulty</th><th>Required Roll</th></tr>
+            </thead>
+            <tbody>
+                <tr><td><strong>Automatic</strong></td><td>No roll required</td></tr>
+                <tr><td><strong>Easy</strong></td><td>d20 ≥ 6</td></tr>
+                <tr><td><strong>Moderate</strong></td><td>d20 ≥ 10</td></tr>
+                <tr><td><strong>Hard</strong></td><td>d20 ≥ 14</td></tr>
+                <tr><td><strong>Very Hard</strong></td><td>d20 ≥ 17</td></tr>
+                <tr><td><strong>Nearly Impossible</strong></td><td>Natural 20 only</td></tr>
+            </tbody>
+        </table>
+
+        <p>A critical success or critical failure follows the normal game rules and is interpreted by the Game Master.</p>
+
+        <h2>3. Spell Progression</h2>
+
+        <p>Proficiency develops through <strong>meaningful successful casts</strong>.</p>
+
+        <p>Progression is tracked by Spell Branch rather than by individual spell. Whenever a character successfully casts a spell in a meaningful situation, that success contributes to the progression pool of the Spell Branch to which the spell belongs.</p>
+
+        <p>All spells within the same Spell Branch contribute to the same pool. A character who successfully uses several different spells from the same branch is therefore developing the same Proficiency.</p>
+
+        <p>Meaningful casts may include:</p>
+        <ul>
+            <li>Combat.</li>
+            <li>Solving puzzles.</li>
+            <li>Overcoming obstacles.</li>
+            <li>Helping allies.</li>
+            <li>Advancing the story.</li>
+        </ul>
+
+        <p>Repeated casting without narrative purpose does not contribute to progression. The Game Master has the final say on whether a successful cast counts.</p>
+
+        <p>A meaningful cast that is <strong>Automatic</strong> still counts as a successful cast for progression.</p>
+
+        <h3>Affinity and Progression</h3>
+
+        <p>Affinity represents the Spell Branches toward which a character's Magic Tree grows most naturally.</p>
+
+        <p>During character creation, a magic-wielding character receives <strong>4 Affinity Points</strong>, which may be concentrated in one Spell Branch or distributed among several. The number of points assigned to a branch determines its <strong>Affinity Rank</strong>, from 1 to 4. A branch with no assigned Affinity Points has an Affinity Rank of 0.</p>
+
+        <p>Affinity does not restrict which Spell Branches a character may develop. A character may practice and eventually master a branch even if they have no affinity for it. Affinity only changes how quickly Proficiency develops.</p>
+
+        <p>Each Affinity Rank reduces the number of successful casts required to advance Proficiency by approximately 10% of the base requirement.</p>
+
+        <table>
+            <thead>
+                <tr><th>Affinity Rank</th><th>Novice → Apprentice</th><th>Apprentice → Practiced</th><th>Practiced → Expert</th><th>Expert → Master</th></tr>
+            </thead>
+            <tbody>
+                <tr><td><strong>0 — No Affinity</strong></td><td>12</td><td>24</td><td>36</td><td>48</td></tr>
+                <tr><td><strong>1</strong></td><td>11</td><td>22</td><td>32</td><td>43</td></tr>
+                <tr><td><strong>2</strong></td><td>10</td><td>19</td><td>29</td><td>38</td></tr>
+                <tr><td><strong>3</strong></td><td>8</td><td>17</td><td>25</td><td>34</td></tr>
+                <tr><td><strong>4</strong></td><td>7</td><td>14</td><td>22</td><td>29</td></tr>
+            </tbody>
+        </table>
+
+        <p>Values are rounded to the nearest whole successful cast.</p>
+
+        <p>Spell Complexity does not alter the number of successful casts required for progression. Complexity determines how difficult an individual spell is to cast, while Affinity determines how quickly the player develops Proficiency in the Spell Branch as a whole.</p>
+
+        <p>For example, a player with <strong>Affinity Rank 2</strong> in Force who is currently an <strong>Apprentice</strong> needs <strong>19 meaningful successful casts</strong> from Force spells to become Practiced. Those successes may come from any combination of spells belonging to the Force branch.</p>
+
+        <p>When the required number of successful casts is reached, the player's Proficiency in that Spell Branch advances by one level. The progression counter then begins again for the next Proficiency level.</p>
+    </main>
+</body>
+</html>
