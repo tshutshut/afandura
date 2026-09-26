@@ -197,67 +197,15 @@ A character may develop any Spell Branch available to them, even if they have no
 
 Magic is divided into seven Spell Branches. Each branch describes the kind of change a spell produces and the part of the world that the magic acts upon.
 
-#### Form — Alter and Reshape
-
-Form governs the physical properties of something that already exists.
-
-It can change shape, size, texture, hardness, temperature, density, or material state. It does not move something from one place to another, and it does not create something from nothing. It changes what is already there.
-
-Examples include hardening stone, softening metal, freezing water, enlarging an object, shrinking something, or reshaping part of a body.
-
-#### Force — Move and Arrest
-
-Force governs motion, momentum, pressure, and impact.
-
-It can push, pull, lift, accelerate, slow, stop, attract, or repel. Force moves something through space, but it does not change the relationship between locations themselves.
-
-Examples include throwing an enemy backward, stopping a falling object, lifting something into the air, pulling an object toward the caster, or creating a concussive impact.
-
-#### Space — Relocate and Bridge
-
-Space governs position, distance, and the relationship between locations.
-
-It can move something from one place to another without requiring it to travel normally through the intervening distance. It can also open, close, awaken, or maintain passages that connect otherwise separate locations.
-
-Examples include teleportation, opening a portal, exchanging the positions of two objects, shortening a journey, or creating a passage between distant locations.
-
-#### Manifestation — Create and Dismiss
-
-Manifestation governs magical phenomena that exist because a spell has brought them into being.
-
-It can create magical flame, light, mist, spectral objects, temporary constructs, and other effects that were not previously present. It can also cause those manifestations to disappear again.
-
-Manifestation acts on the presence of a magical phenomenon itself. It does not break a bond between two existing things. If the magic ends, the manifestation simply ceases to be present.
-
-Examples include creating a magical flame, summoning a spectral weapon, producing a wall of light, conjuring mist, or dismissing any of those effects.
-
-#### Perception — Reveal and Obscure
-
-Perception governs what can be sensed, noticed, or understood.
-
-It can reveal things that would normally remain hidden, improve the senses, detect magical effects, or make information clearer. It can also hide, distort, disguise, silence, or otherwise interfere with what another person perceives.
-
-Examples include invisibility, magical disguise, detecting magic, revealing hidden writing, suppressing sound, enhancing sight, or creating false sensory impressions.
-
-#### Connection — Bind and Unbind
-
-Connection governs magical relationships between two or more things.
-
-It can create, strengthen, maintain, or restrict a connection between people, objects, places, or magical effects. It can also undo that connection while leaving the things on either side of it intact.
-
-Connection therefore acts on the link itself, not on the existence of the things being linked. Breaking a magical bond does not necessarily destroy either object, person, or effect involved.
-
-Examples include binding a creature to a location, linking two objects, sealing a doorway, anchoring an effect, establishing a ward, releasing a magical restraint, or undoing a magical tether.
-
-#### Vitality — Sustain and Diminish
-
-Vitality governs the functions and condition of living things.
-
-It can heal, strengthen, restore, stimulate growth, remove illness, or support the natural processes of a living body. It can also weaken, exhaust, wither, injure, infect, or otherwise interfere with those same processes.
-
-Vitality affects how something lives and functions. It does not primarily reshape the physical structure of the body; that belongs to Form.
-
-Examples include closing wounds, restoring strength, accelerating plant growth, causing fatigue, purging poison, spreading disease, or weakening living tissue.
+| Spell Branch | Description | Examples |
+|---|---|---|
+| **Form: Alter and Reshape** | Form governs the physical properties of something that already exists. It can change shape, size, texture, hardness, temperature, density, or material state. It does not move something from one place to another, and it does not create something from nothing. It changes what is already there. | Hardening stone, softening metal, freezing water, enlarging an object, shrinking something, or reshaping part of a body. |
+| **Force: Move and Arrest** | Force governs motion, momentum, pressure, and impact. It can push, pull, lift, accelerate, slow, stop, attract, or repel. Force moves something through space, but it does not change the relationship between locations themselves. | Throwing an enemy backward, stopping a falling object, lifting something into the air, pulling an object toward the caster, or creating a concussive impact. |
+| **Space: Relocate and Bridge** | Space governs position, distance, and the relationship between locations. It can move something from one place to another without requiring it to travel normally through the intervening distance. It can also open, close, awaken, or maintain passages that connect otherwise separate locations. | Teleportation, opening a portal, exchanging the positions of two objects, shortening a journey, or creating a passage between distant locations. |
+| **Manifestation: Create and Dismiss** | Manifestation governs magical phenomena that exist because a spell has brought them into being. It can create magical flame, light, mist, spectral objects, temporary constructs, and other effects that were not previously present. It can also cause those manifestations to disappear again. Manifestation acts on the presence of a magical phenomenon itself, not on a bond between two existing things. | Creating a magical flame, summoning a spectral weapon, producing a wall of light, conjuring mist, or dismissing any of those effects. |
+| **Perception: Reveal and Obscure** | Perception governs what can be sensed, noticed, or understood. It can reveal things that would normally remain hidden, improve the senses, detect magical effects, or make information clearer. It can also hide, distort, disguise, silence, or otherwise interfere with what another person perceives. | Invisibility, magical disguise, detecting magic, revealing hidden writing, suppressing sound, enhancing sight, or creating false sensory impressions. |
+| **Connection: Bind and Unbind** | Connection governs magical relationships between two or more things. It can create, strengthen, maintain, or restrict a connection between people, objects, places, or magical effects. It can also undo that connection while leaving the things on either side of it intact. Connection acts on the link itself, not on the existence of the things being linked. | Binding a creature to a location, linking two objects, sealing a doorway, anchoring an effect, establishing a ward, releasing a magical restraint, or undoing a magical tether. |
+| **Vitality: Sustain and Diminish** | Vitality governs the functions and condition of living things. It can heal, strengthen, restore, stimulate growth, remove illness, or support the natural processes of a living body. It can also weaken, exhaust, wither, injure, infect, or otherwise interfere with those same processes. Vitality affects how something lives and functions rather than primarily reshaping its physical structure. | Closing wounds, restoring strength, accelerating plant growth, causing fatigue, purging poison, spreading disease, or weakening living tissue. |
 
 ### Affinity Points
 
