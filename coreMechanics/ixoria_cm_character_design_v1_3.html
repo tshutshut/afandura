@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Character Design 1.3</title>
+    <link rel="stylesheet" href="../style.css">
+</head>
+<body>
+    <main>
+        <nav aria-label="Page navigation">
+            <a class="contents-link" href="../index.html">Index</a>
+        </nav>
+
+        <h1>Character Design 1.3</h1>
+
+        <p>This document contains the rules needed to create a playable character in Ixoria Mora. Character creation follows seven steps, beginning with the choice of a race and ending with Natural Armor Class. Follow each step in order and record the resulting information on your character sheet.</p>
+
+        <h2>Character Creation</h2>
+        <ol>
+            <li>Choose a race.</li>
+            <li>Choose a class.</li>
+            <li>Choose an alignment.</li>
+            <li>Determine your social class.</li>
+            <li>Calculate your attributes and modifiers.</li>
+            <li>Calculate Hit Points.</li>
+            <li>Record Natural Armor Class.</li>
+        </ol>
+
+        <h2>Step 1 — Choose a Race</h2>
+        <h3>The Races of Ixoria Mora</h3>
+        <p>Choose your character's race from the table below. Each race modifies the six attributes used to define a character: Strength (STR), Agility (AGI), Endurance (END), Perception (PER), Intelligence (INT), and Charisma (CHA).</p>
+        <p>All attributes begin at 10. The symbols in the table indicate how much should later be added to or subtracted from that starting value.</p>
+        <p><strong>Modifier Key:</strong><br>++ : +4 // + : +2 // = : 0 // − : −2 // −− : −4</p>
+
+        <table>
+            <thead><tr><th>Race</th><th>STR</th><th>AGI</th><th>END</th><th>PER</th><th>INT</th><th>CHA</th><th>Description</th></tr></thead>
+            <tbody>
+                <tr><td>Human</td><td>=</td><td>=</td><td>=</td><td>=</td><td>=</td><td>=</td><td></td></tr>
+                <tr><td>Elf</td><td>−</td><td>+</td><td>−</td><td>++</td><td>+</td><td>=</td><td></td></tr>
+                <tr><td>Dwarf</td><td>+</td><td>−</td><td>++</td><td>=</td><td>=</td><td>−</td><td></td></tr>
+                <tr><td>Halfling</td><td>−−</td><td>++</td><td>−</td><td>+</td><td>=</td><td>+</td><td></td></tr>
+                <tr><td>Gnome</td><td>−−</td><td>+</td><td>−</td><td>=</td><td>++</td><td>=</td><td></td></tr>
+                <tr><td>Half-Elf</td><td>=</td><td>=</td><td>=</td><td>+</td><td>=</td><td>+</td><td></td></tr>
+                <tr><td>Half-Orc</td><td>++</td><td>=</td><td>+</td><td>−</td><td>−</td><td>−−</td><td></td></tr>
+                <tr><td>Dragonborn</td><td>+</td><td>−</td><td>+</td><td>=</td><td>=</td><td>+</td><td></td></tr>
+                <tr><td>Tiefling</td><td>−</td><td>=</td><td>=</td><td>+</td><td>+</td><td>++</td><td></td></tr>
+                <tr><td>Wolf Beastkin</td><td>=</td><td>+</td><td>+</td><td>++</td><td>−</td><td>=</td><td></td></tr>
+                <tr><td>Dog Beastkin</td><td>=</td><td>=</td><td>+</td><td>+</td><td>−</td><td>++</td><td></td></tr>
+                <tr><td>Cat Beastkin</td><td>−</td><td>++</td><td>−</td><td>+</td><td>=</td><td>=</td><td></td></tr>
+                <tr><td>Lion Beastkin</td><td>++</td><td>=</td><td>+</td><td>=</td><td>−</td><td>+</td><td></td></tr>
+                <tr><td>Fox Beastkin</td><td>−</td><td>+</td><td>−</td><td>+</td><td>++</td><td>=</td><td></td></tr>
+                <tr><td>Bear Beastkin</td><td>+</td><td>−−</td><td>++</td><td>+</td><td>−−</td><td>=</td><td></td></tr>
+                <tr><td>Owl Beastkin</td><td>−</td><td>+</td><td>−</td><td>++</td><td>+</td><td>=</td><td></td></tr>
+                <tr><td>Crow Beastkin</td><td>−</td><td>+</td><td>−</td><td>+</td><td>++</td><td>=</td><td></td></tr>
+                <tr><td>Frog Beastkin</td><td>−−</td><td>++</td><td>=</td><td>+</td><td>+</td><td>−</td><td></td></tr>
+                <tr><td>Lizard Beastkin</td><td>=</td><td>+</td><td>++</td><td>=</td><td>−</td><td>−</td><td></td></tr>
+                <tr><td>Monkey Beastkin</td><td>−</td><td>++</td><td>−</td><td>=</td><td>+</td><td>+</td><td></td></tr>
+            </tbody>
+        </table>
+
+        <h2>Step 2 — Choose a Class</h2>
+        <p>Choose a class for your character. Each class modifies two attributes, granting <strong>+2 to one attribute</strong> and <strong>+1 to another</strong>. Your chosen class also provides an <strong>HP Bonus</strong>, which will be used when calculating your Hit Points during Step 6.</p>
+        <table>
+            <thead><tr><th>Class</th><th>+2 Attribute</th><th>+1 Attribute</th><th>HP Bonus</th></tr></thead>
+            <tbody>
+                <tr><td>Barbarian</td><td>STR</td><td>END</td><td>+4</td></tr>
+                <tr><td>Bard</td><td>CHA</td><td>AGI</td><td>+0</td></tr>
+                <tr><td>Cleric</td><td>PER</td><td>CHA</td><td>+1</td></tr>
+                <tr><td>Druid</td><td>PER</td><td>INT</td><td>+1</td></tr>
+                <tr><td>Fighter</td><td>STR</td><td>AGI</td><td>+3</td></tr>
+                <tr><td>Monk</td><td>AGI</td><td>END</td><td>+2</td></tr>
+                <tr><td>Paladin</td><td>STR</td><td>CHA</td><td>+3</td></tr>
+                <tr><td>Ranger</td><td>PER</td><td>AGI</td><td>+2</td></tr>
+                <tr><td>Rogue</td><td>AGI</td><td>INT</td><td>+1</td></tr>
+                <tr><td>Sorcerer</td><td>CHA</td><td>INT</td><td>+0</td></tr>
+                <tr><td>Warlock</td><td>CHA</td><td>PER</td><td>+0</td></tr>
+                <tr><td>Wizard</td><td>INT</td><td>PER</td><td>+0</td></tr>
+            </tbody>
+        </table>
+
+        <h2>Step 3 — Choose an Alignment</h2>
+        <p>Alignment provides a simple way to describe your character's general moral outlook and their relationship with order and freedom. Choose one of the nine alignments below.</p>
+        <table>
+            <thead><tr><th></th><th>Lawful</th><th>Neutral</th><th>Chaotic</th></tr></thead>
+            <tbody>
+                <tr><th>Good</th><td>Lawful Good</td><td>Neutral Good</td><td>Chaotic Good</td></tr>
+                <tr><th>Neutral</th><td>Lawful Neutral</td><td>True Neutral</td><td>Chaotic Neutral</td></tr>
+                <tr><th>Evil</th><td>Lawful Evil</td><td>Neutral Evil</td><td>Chaotic Evil</td></tr>
+            </tbody>
+        </table>
+
+        <h2>Step 4 — Determine Your Social Class</h2>
+        <p>Your character's social class determines their initial wealth and access to equipment. This step is optional and should be decided together with the GM according to the character you wish to play.</p>
+        <p>If you prefer to leave your character's circumstances to chance, roll <strong>1d100</strong>. Alternatively, roll <strong>two d10s</strong>, using one die for the tens and the other for the units. If a particular background or social position is important to your character, you and the GM may instead choose the appropriate social class directly.</p>
+        <table>
+            <thead><tr><th>d100</th><th>Social Class</th></tr></thead>
+            <tbody>
+                <tr><td>1–10</td><td>Down and Out</td></tr>
+                <tr><td>11–25</td><td>Street Urchin</td></tr>
+                <tr><td>26–45</td><td>Wanderer</td></tr>
+                <tr><td>46–70</td><td>Commoner</td></tr>
+                <tr><td>71–85</td><td>Well-Off</td></tr>
+                <tr><td>86–95</td><td>Privileged</td></tr>
+                <tr><td>96–100</td><td>Noble</td></tr>
+            </tbody>
+        </table>
+
+        <h2>Step 5 — Calculate Your Attributes and Modifiers</h2>
+        <p>All six attributes begin at <strong>10</strong>. Apply the race modifiers from Step 1 and then add the bonuses granted by your class in Step 2. The resulting values are your character's final attribute scores.</p>
+        <p>Once these scores have been calculated, use the table below to determine the modifier associated with each attribute.</p>
+        <table>
+            <thead><tr><th>Attribute Score</th><th>Modifier</th></tr></thead>
+            <tbody>
+                <tr><td>1</td><td>−5</td></tr><tr><td>2–3</td><td>−4</td></tr><tr><td>4–5</td><td>−3</td></tr>
+                <tr><td>6–7</td><td>−2</td></tr><tr><td>8–9</td><td>−1</td></tr><tr><td>10–11</td><td>0</td></tr>
+                <tr><td>12–13</td><td>+1</td></tr><tr><td>14–15</td><td>+2</td></tr><tr><td>16–17</td><td>+3</td></tr>
+                <tr><td>18–19</td><td>+4</td></tr><tr><td>20–21</td><td>+5</td></tr><tr><td>22–23</td><td>+6</td></tr>
+                <tr><td>24–25</td><td>+7</td></tr><tr><td>26–27</td><td>+8</td></tr><tr><td>28–29</td><td>+9</td></tr>
+                <tr><td>30</td><td>+10</td></tr>
+            </tbody>
+        </table>
+        <p>Record the final score and modifier for each of the six attributes:</p>
+        <ul>
+            <li>Strength (STR)</li><li>Agility (AGI)</li><li>Endurance (END)</li>
+            <li>Perception (PER)</li><li>Intelligence (INT)</li><li>Charisma (CHA)</li>
+        </ul>
+
+        <h2>Step 6 — Calculate Hit Points</h2>
+        <p>Your character's Hit Points are calculated using their <strong>Endurance modifier</strong> from Step 5 and the <strong>HP Bonus</strong> provided by their class in Step 2.</p>
+        <p><strong>HP = 10 + Endurance Modifier + Class HP Bonus</strong></p>
+        <p>Record the resulting value as your character's starting Hit Points.</p>
+
+        <h2>Step 7 — Record Natural Armor Class</h2>
+        <p>Each race has a Natural Armor Class (Natural AC). Find your character's race in the table below and record the corresponding value.</p>
+        <p>Natural AC represents the protection provided naturally by your character's body. It applies only when the character is not wearing armor. If armor is worn, its AC replaces the character's Natural AC.</p>
+        <table>
+            <thead><tr><th>Race</th><th>Natural AC</th></tr></thead>
+            <tbody>
+                <tr><td>Human</td><td>5</td></tr><tr><td>Elf</td><td>5</td></tr><tr><td>Dwarf</td><td>6</td></tr>
+                <tr><td>Halfling</td><td>5</td></tr><tr><td>Gnome</td><td>5</td></tr><tr><td>Half-Elf</td><td>5</td></tr>
+                <tr><td>Half-Orc</td><td>6</td></tr><tr><td>Dragonborn</td><td>6</td></tr><tr><td>Tiefling</td><td>5</td></tr>
+                <tr><td>Wolf Beastkin</td><td>5</td></tr><tr><td>Dog Beastkin</td><td>5</td></tr><tr><td>Cat Beastkin</td><td>5</td></tr>
+                <tr><td>Lion Beastkin</td><td>6</td></tr><tr><td>Fox Beastkin</td><td>5</td></tr><tr><td>Bear Beastkin</td><td>7</td></tr>
+                <tr><td>Owl Beastkin</td><td>5</td></tr><tr><td>Crow Beastkin</td><td>5</td></tr><tr><td>Frog Beastkin</td><td>5</td></tr>
+                <tr><td>Lizard Beastkin</td><td>6</td></tr><tr><td>Monkey Beastkin</td><td>5</td></tr>
+            </tbody>
+        </table>
+    </main>
+</body>
+</html>
