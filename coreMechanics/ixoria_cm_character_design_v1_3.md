@@ -1,6 +1,6 @@
 # Character Design 1.3
 
-This document contains the rules needed to create a playable character in Ixoria Mora. Character creation follows seven steps, beginning with the choice of a race and ending with Natural Armor Class. Follow each step in order and record the resulting information on your character sheet.
+This document contains the rules needed to create a playable character in Ixoria Mora. Character creation follows eight steps, beginning with the choice of a race and ending with Magical Affinity for characters capable of wielding magic. Follow each step in order and record the resulting information on your character sheet.
 
 ## Character Creation
 
@@ -11,6 +11,7 @@ This document contains the rules needed to create a playable character in Ixoria
 5. Calculate your attributes and modifiers.
 6. Calculate Hit Points.
 7. Record Natural Armor Class.
+8. Determine Magical Affinity, if applicable.
 
 ---
 
@@ -176,3 +177,42 @@ Natural AC represents the protection provided naturally by your character's body
 | Frog Beastkin | 5 |
 | Lizard Beastkin | 6 |
 | Monkey Beastkin | 5 |
+
+
+---
+
+## Step 8 — Determine Magical Affinity
+
+This step applies only to characters who are capable of wielding magic.
+
+In Ixoria Mora, magic cannot be learned by someone who was not born with the ability to access it. A magic wielder may be imagined as carrying a seed from birth. The magical world is the soil in which that seed can grow. A person without this seed cannot develop magical ability through study or practice alone.
+
+Possessing the seed of magic does not make a character an accomplished spellcaster. It only gives them the potential to develop magic. When a character first begins to practice, their Magic Tree is little more than a shoot. With experience, it grows, develops branches, and becomes increasingly complex.
+
+The roots and trunk of the Magic Tree represent the character's innate connection to magic. The major branches growing from it are called **Spell Branches**. Each Spell Branch represents a broad area of related magic. Individual spells are the leaves growing from those branches.
+
+A character may develop any Spell Branch available to them, even if they have no natural affinity for it. Affinity does not determine which kinds of magic a character is allowed to learn. Instead, it represents the directions in which their Magic Tree grows most naturally.
+
+### Affinity Points
+
+Every magic-wielding character begins with **4 Affinity Points**.
+
+During character creation, distribute these points among the Spell Branches for which your character has a natural affinity. All four points may be placed in a single Spell Branch, or they may be divided among several branches.
+
+Possible distributions include:
+
+- 4
+- 3 + 1
+- 2 + 2
+- 2 + 1 + 1
+- 1 + 1 + 1 + 1
+
+The number of Affinity Points assigned to a Spell Branch determines its **Affinity Rank**, from 1 to 4.
+
+A Spell Branch with no assigned Affinity Points has an Affinity Rank of 0.
+
+Affinity affects how quickly a character develops Proficiency within that Spell Branch. A higher Affinity Rank reduces the number of meaningful successful casts required to advance from one Proficiency level to the next.
+
+A character may therefore become highly specialized by concentrating their Affinity Points in one Spell Branch, or develop several natural affinities by spreading those points across multiple branches.
+
+The exact number of successful casts required at each Affinity Rank is described in **Casting Spells**.
