@@ -1,4 +1,4 @@
-# WB - Kindreds - Eren
+The Eren (Elf)
 
 The Eren, known elsewhere as elves, are the longest-lived people of Ixoria. They possess no realm of their own and claim no distant woodland kingdom. They are found throughout the continent, woven into its cities and settlements as artisans, merchants, priests, soldiers, politicians, laborers, scholars, criminals, and almost anything else a person might become when given several centuries in which to try. Longevity has not made the Eren serene. An Eren may live for several hundred years, but age eventually takes its toll: memory becomes unreliable, thoughts lose their clarity, the body weakens, and independence slowly gives way to dependence. The oldest Eren may spend decades cared for by descendants they no longer recognize. For them, longevity is both blessing and burden, the promise of an extraordinarily long life accompanied by the knowledge that its final chapter may be one of gradual decline.
 
