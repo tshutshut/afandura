@@ -23,11 +23,19 @@ button[aria-pressed="true"] {background:#eee;font-weight:bold}
 .paging {display:flex;justify-content:space-between;align-items:center;margin:1rem 0}
 .empty {color:#555}
 @media(max-width:680px) {.spread{grid-template-columns:1fr}.page+.page{border-left:0;border-top:1px solid black}.page{min-height:0}}
+
+.branch-navigation{display:flex;gap:.5rem;align-items:flex-start;flex-wrap:wrap}
+.branch-menu{position:relative}
+.branch-toggle{font:inherit;background:white}
+.branch-options{position:absolute;z-index:10;top:100%;left:0;min-width:12rem;margin:0;padding:.35rem 0;list-style:none;background:white;border:1px solid black}
+.branch-options[hidden]{display:none}
+.branch-options a{display:block;padding:.4rem .65rem;color:inherit;text-decoration:none;white-space:nowrap}
+.branch-options a:hover,.branch-options a:focus,.branch-options a[aria-current="page"]{background:#eee}
 </style>
 </head>
 <body>
 <main class="grimoire">
-<nav aria-label="Page navigation"><a class="contents-link" href="../index.html">Index</a></nav>
+<nav class="branch-navigation" aria-label="Page navigation"><a class="contents-link" href="../index.html">Index</a><div class="branch-menu"><button class="contents-link branch-toggle" type="button" aria-expanded="false" aria-controls="branch-options">Affinity branches ▾</button><ul class="branch-options" id="branch-options" hidden><li><a href="form.html">Form</a></li><li><a href="force.html">Force</a></li><li><a href="space.html">Space</a></li><li><a href="manifestation.html">Manifestation</a></li><li><a href="perception.html">Perception</a></li><li><a href="connection.html" aria-current="page">Connection</a></li><li><a href="vitality.html">Vitality</a></li></ul></div></nav>
 <h1>Connection</h1>
 <p>Connection governs magical relationships between two or more things. It can create, strengthen, maintain, or restrict a connection between people, objects, places, or magical effects. It can also undo that connection while leaving the things on either side of it intact. Connection acts on the link itself, not on the existence of the things being linked.</p>
 <div class="book-controls">
@@ -71,6 +79,11 @@ refresh();
 const requested=decodeURIComponent(location.hash.slice(1)).replaceAll("-"," ");
 const idx=filtered.findIndex(s=>s.name.toLowerCase()===requested);
 if(idx>=0){page=Math.floor(idx/2)*2;render()}
+
+const branchToggle=document.querySelector(".branch-toggle"),branchOptions=document.getElementById("branch-options");
+branchToggle.addEventListener("click",()=>{const open=branchOptions.hidden;branchOptions.hidden=!open;branchToggle.setAttribute("aria-expanded",String(open))});
+document.addEventListener("click",e=>{if(!e.target.closest(".branch-menu")){branchOptions.hidden=true;branchToggle.setAttribute("aria-expanded","false")}});
+document.addEventListener("keydown",e=>{if(e.key==="Escape"){branchOptions.hidden=true;branchToggle.setAttribute("aria-expanded","false");branchToggle.focus()}});
 </script>
 </body>
 </html>
