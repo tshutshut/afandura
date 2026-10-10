@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Vitality — The Grimoire of Ixoria Mora</title>
+<link rel="stylesheet" href="../style.css">
+<style>
+.grimoire {max-width:1100px;margin:0 auto}
+.book-controls {display:flex;gap:1rem;flex-wrap:wrap;align-items:center;margin:1.5rem 0}
+.alphabet {display:flex;flex-wrap:wrap;gap:.25rem}
+button,select {font:inherit;color:inherit;background:white;border:1px solid black;padding:.35rem .55rem;cursor:pointer}
+button:disabled {opacity:.3;cursor:default}
+button[aria-pressed="true"] {background:#eee;font-weight:bold}
+.spread {display:grid;grid-template-columns:repeat(2,minmax(0,1fr));border:1px solid black}
+.page {padding:1.4rem;min-height:26rem;min-width:0;overflow-wrap:anywhere}
+.page+.page {border-left:1px solid black}
+.page h2 {margin-top:0}
+.page dl {display:grid;grid-template-columns:max-content 1fr;gap:.4rem .9rem}
+.page dt {font-weight:bold}
+.page dd {margin:0}
+.page p {line-height:1.5}
+.paging {display:flex;justify-content:space-between;align-items:center;margin:1rem 0}
+.empty {color:#555}
+@media(max-width:680px) {.spread{grid-template-columns:1fr}.page+.page{border-left:0;border-top:1px solid black}.page{min-height:0}}
+</style>
+</head>
+<body>
+<main class="grimoire">
+<nav aria-label="Page navigation"><a class="contents-link" href="../index.html">Index</a></nav>
+<h1>Vitality</h1>
+<p>Closing wounds, restoring strength, accelerating plant growth, causing fatigue, purging poison, spreading disease, or weakening living tissue.</p>
+<div class="book-controls">
+<label for="tier">Tier:</label><select id="tier"><option value="1">Tier I</option></select>
+<nav class="alphabet" id="alphabet" aria-label="Jump to first letter"></nav>
+</div>
+<div class="paging"><button id="prev">← Previous</button><span id="position"></span><button id="next">Next →</button></div>
+<div class="spread" id="spread" aria-live="polite"></div>
+</main>
+<script>
+const spells=[{"failure":"No special casting-failure effect has been established.","name":"Heal","tier":1,"category":"Restoration","target":"One living creature","range":"Touch","duration":"Instantaneous","effect":"The caster restores a minor physical injury to a living creature, such as closing a small cut or easing a bruise.","limits":"Cannot heal severe wounds or restore missing body parts. It has no effect on non-living objects."}];
+let filtered=[],page=0;
+const spread=document.getElementById("spread"),alphabet=document.getElementById("alphabet"),tier=document.getElementById("tier");
+function entry(s){
+ const article=document.createElement("article");article.className="page";
+ if(!s){article.classList.add("empty");article.textContent="";return article}
+ const title=document.createElement("h2");title.textContent=s.name;article.append(title);
+ const dl=document.createElement("dl");
+ for(const [k,v] of Object.entries({Affinity:"Vitality",Tier:s.tier,Category:s.category,Target:s.target,Range:s.range,Duration:s.duration})){const dt=document.createElement("dt"),dd=document.createElement("dd");dt.textContent=k;dd.textContent=v;dl.append(dt,dd)}article.append(dl);
+ for(const [k,v] of [["Effect",s.effect],["Limitations",s.limits],["Casting failure",s.failure]]){const h=document.createElement("h3"),p=document.createElement("p");h.textContent=k;p.textContent=v;article.append(h,p)}
+ return article
+}
+function render(){
+ spread.replaceChildren(entry(filtered[page]),entry(filtered[page+1]));
+ document.getElementById("prev").disabled=page===0;
+ document.getElementById("next").disabled=page+2>=filtered.length;
+ document.getElementById("position").textContent=filtered.length?("Spells "+(page+1)+"–"+Math.min(page+2,filtered.length)+" of "+filtered.length):"No matching spells";
+ for(const b of alphabet.querySelectorAll("button"))b.setAttribute("aria-pressed",String(filtered[page]?.name.startsWith(b.textContent)||false));
+ if(filtered[page])history.replaceState(null,"","#"+encodeURIComponent(filtered[page].name.toLowerCase().replaceAll(" ","-")))
+}
+function refresh(){
+ filtered=spells.filter(s=>String(s.tier)===tier.value).sort((a,b)=>a.name.localeCompare(b.name));
+ alphabet.replaceChildren();
+ for(const c of "ABCDEFGHIJKLMNOPQRSTUVWXYZ"){const b=document.createElement("button");b.textContent=c;b.disabled=!filtered.some(s=>s.name.startsWith(c));b.title="Jump to "+c;b.addEventListener("click",()=>{page=Math.floor(filtered.findIndex(s=>s.name.startsWith(c))/2)*2;render()});alphabet.append(b)}
+ page=0;render()
+}
+tier.addEventListener("change",refresh);
+document.getElementById("prev").addEventListener("click",()=>{page=Math.max(0,page-2);render()});
+document.getElementById("next").addEventListener("click",()=>{page=Math.min(filtered.length-1,page+2);render()});
+refresh();
+const requested=decodeURIComponent(location.hash.slice(1)).replaceAll("-"," ");
+const idx=filtered.findIndex(s=>s.name.toLowerCase()===requested);
+if(idx>=0){page=Math.floor(idx/2)*2;render()}
+</script>
+</body>
+</html>
