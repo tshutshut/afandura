@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Morowan Revolt | Book of Ixoria Mora</title>
+    <link rel="stylesheet" href="../../style.css">
+</head>
+<body>
+    <main>
+        <nav aria-label="Page navigation">
+            <a class="contents-link" href="../../index.html">Index</a>
+        </nav>
+        <h1>The Morowan Revolt</h1>
+        <article id="revolt"></article>
+    </main>
+    <script>
+        fetch("ixoria_wb_beacon_dynasty_morowan_revolt.md")
+            .then(response => {
+                if (!response.ok) throw new Error("Unable to load the story");
+                return response.text();
+            })
+            .then(markdown => {
+                const article = document.getElementById("revolt");
+                const blocks = markdown.trim().split(/\n\s*\n/);
+                for (const block of blocks) {
+                    const trimmed = block.trim();
+                    if (trimmed === "# The Morowan Revolt") continue;
+                    const heading = trimmed.match(/^(#{1,3})\s+(.+)$/);
+                    if (heading) {
+                        const el = document.createElement("h" + heading[1].length);
+                        el.textContent = heading[2];
+                        article.appendChild(el);
+                    } else if (trimmed.startsWith(">")) {
+                        const quote = document.createElement("blockquote");
+                        const p = document.createElement("p");
+                        p.textContent = trimmed.split("\n").map(line => line.replace(/^>\s?/, "")).join("\n");
+                        p.style.whiteSpace = "pre-line";
+                        quote.appendChild(p);
+                        article.appendChild(quote);
+                    } else {
+                        const p = document.createElement("p");
+                        p.textContent = trimmed.replace(/\n/g, " ");
+                        article.appendChild(p);
+                    }
+                }
+            })
+            .catch(() => {
+                document.getElementById("revolt").textContent = "Unable to load the Morowan Revolt.";
+            });
+    </script>
+</body>
+</html>
