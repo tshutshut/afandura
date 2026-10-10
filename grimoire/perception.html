@@ -27,15 +27,15 @@ button[aria-pressed="true"] {background:#eee;font-weight:bold}
 </head>
 <body>
 <main class="grimoire">
-<p><a href="../index.html">← Book of Ixoria Mora</a> / Arcana / The Grimoire</p>
+<nav aria-label="Page navigation"><a class="contents-link" href="../index.html">Index</a></nav>
 <h1>Perception</h1>
-<p>Reveal, detect, conceal, or obscure. Browse spells alphabetically or filter by tier.</p>
+<p>Perception governs what can be sensed, noticed, or understood. It can reveal things that would normally remain hidden, improve the senses, detect magical effects, or make information clearer. It can also hide, distort, disguise, silence, or otherwise interfere with what another person perceives.</p>
 <div class="book-controls">
+<label for="tier">Tier:</label><select id="tier"><option value="1">Tier I</option><option value="2">Tier II</option></select>
 <nav class="alphabet" id="alphabet" aria-label="Jump to first letter"></nav>
-<label for="tier">Tier:</label><select id="tier"><option value="all">All tiers</option><option value="1">Tier 1</option><option value="2">Tier 2</option></select>
 </div>
-<div class="spread" id="spread" aria-live="polite"></div>
 <div class="paging"><button id="prev">← Previous</button><span id="position"></span><button id="next">Next →</button></div>
+<div class="spread" id="spread" aria-live="polite"></div>
 </main>
 <script>
 const spells=[
@@ -64,7 +64,7 @@ function render(){
  if(filtered[page])history.replaceState(null,"","#"+encodeURIComponent(filtered[page].name.toLowerCase().replaceAll(" ","-")))
 }
 function refresh(){
- filtered=spells.filter(s=>tier.value==="all"||String(s.tier)===tier.value).sort((a,b)=>a.name.localeCompare(b.name));
+ filtered=spells.filter(s=>String(s.tier)===tier.value).sort((a,b)=>a.name.localeCompare(b.name));
  alphabet.replaceChildren();
  for(const c of "ABCDEFGHIJKLMNOPQRSTUVWXYZ"){const b=document.createElement("button");b.textContent=c;b.disabled=!filtered.some(s=>s.name.startsWith(c));b.title="Jump to "+c;b.addEventListener("click",()=>{page=Math.floor(filtered.findIndex(s=>s.name.startsWith(c))/2)*2;render()});alphabet.append(b)}
  page=0;render()
