@@ -1,69 +1,43 @@
 # The Fall of the Dragons
 
-Long before the rise of kingdoms or the Beacon Dynasty, two immense dragons crossed the northern skies. Their passage shaped the land itself, and later generations would remember them as the greatest beings ever to walk the world.
+Long before the rise of kingdoms or the Beacon Dynasty, two dragons came to Ixoria. The oldest tellings name them Drauvakh and Aevrenn, though later generations would more often call them the Fallen and the Grieving. Each was said to be as large as a fortress, with wings that darkened the fields beneath them as they passed. How large they truly were, no one can now say, for the story has been told for longer than any kingdom has stood, and it has not grown smaller in the telling.
 
-Fearing that one of the dragons threatened all life, seven legendary founders gathered to confront it.
+The dragons came down from the northern skies and settled in the northeast, a land of villages, farmland and forests. They did not hunt the peoples who lived there, nor did they seek out their settlements to destroy them. Yet harm followed wherever they went. Storms gathered in the wake of their flight, forests were flattened where they chose to rest, herds scattered, and fires spread across fields that had never known them. The dragons showed no malice in any of it, but the destruction was real all the same, and as the seasons passed, fear spread far beyond the northeast.
 
-Six believed action was necessary.
+From across Ixoria, seven came together to confront them. They were of different Kindreds and different temperaments, and each possessed magic of rare strength, though no two of them wielded it alike. Six believed the dragons had to be stopped before the harm they caused grew beyond remedy. The seventh doubted that creatures without malice could be a threat to all life, and believed that the peoples of Ixoria did not yet understand what they faced.
 
-One believed humanity did not yet understand what it faced.
+Ignoring his warning, the six struck at Drauvakh while Aevrenn was far away. The battle is remembered only through myth, and the myths do not agree on its length or its course. They agree only that it was won through magic, for no weapon forged by any people could have brought down such a creature, and that when Drauvakh finally fell, it fell upon the northeastern coast. A being so steeped in magic did not die quietly. For days the earth shook and split, the coast broke apart, and the sea rose and swept far inland, drowning villages, farmland and forests alike. When the waters at last grew still, the northeast was gone. In its place lay a new sea whose outline, seen from the heights, traced the shape of a dragon. It has been called the Dragon Sea ever since, and its countless islands are the hills and high ground that the waters never reached. Somewhere beneath them lies Drauvakh, though no one has ever found where.
 
-Ignoring his warning, the six confronted the dragon in a battle remembered only through myth. The dragon fell into the northern sea, and its immense body became the Dragon Sea, its outline forever traced by countless islands.
+Aevrenn returned to find her companion gone beneath the waves. She did not seek vengeance. She came to rest upon a mountain overlooking the new sea, and there she remained, watching the waters, until over a vast span of time she too died. Stone and earth gathered over her through the ages, until the mountain had taken her in. Her spine became its ridge, which is still called the Dragon's Spine, and her ribcage became the mouth of the great cavern that would later be known as the Mother Cave.
 
-The surviving dragon remained beside its fallen companion in silent mourning. Ages passed, and the grieving dragon slowly became the Dragon's Spine, the great mountain range that watches over the north to this day.
-
-Only after the battle did the founders begin to suspect they had committed an irreversible mistake. Whatever purpose the dragons had served was lost with the death of one of them.
+Only after the battle did the founders begin to understand that they had committed an irreversible mistake. In slaying one dragon, they had brought about a ruin greater than anything both dragons had caused in all their seasons in the northeast. Whatever purpose the dragons had served was lost with them, and no one has ever learned what it was.
 
 ## The Seven Founders
 
-### Brennar, the Shield (Age 52)
+### Brennar, the Shield
 
-Virtue: Courage
+Brennar was a Borru of fifty-two years, and he stood at the summit of his people as the Mountain. His virtue was courage. He believed that courage meant confronting danger without hesitation, and among the Borru it has never been enough to be powerful; strength must be demonstrated, and a Mountain must demonstrate it before all others. He led the charge against Drauvakh, convinced that protecting the world demanded decisive action.
 
-Brennar believed that courage meant confronting danger without hesitation. He led the charge against the dragon, convinced that protecting the world demanded decisive action.
+### Ysara, the Sage
 
-### Ysara, the Sage (Age 68)
+Ysara was an Oshi of sixty-eight years, renowned for her wisdom and for a knowledge few in Ixoria could equal. She studied every account of the dragons and the harm that followed them, and she concluded that every sign pointed toward a threat. Her counsel lent the undertaking its legitimacy, for few were willing to question a conclusion Ysara had reached.
 
-Virtue: Wisdom
+### Kaelen, the Spear
 
-Renowned for her knowledge, Ysara nevertheless concluded that every sign pointed toward the dragon being a threat. She lent legitimacy to the expedition through her counsel.
+Kaelen was a Nyr of twenty-nine years, young but unwavering, and his virtue was duty. Like many of his people, he did not ask whether a task was pleasant, only whether it needed to be done. He believed that duty required action even when the future was uncertain, and he fought because he believed it was his responsibility.
 
-### Kaelen, the Spear (Age 29)
+### Maelis, the Hearth
 
-Virtue: Duty
+Maelis was an Eren of forty-three years, young by the reckoning of her people, and her virtue was compassion. She feared above all for ordinary people: the villages in the dragons' path, the families who had lost their fields and herds. She chose to fight believing it would spare countless innocent lives.
 
-Young but unwavering, Kaelen believed duty required action even when the future was uncertain. He fought because he believed it was his responsibility.
+### Neryn Still-Walking, the Tidewalker
 
-### Maelis, the Hearth (Age 43)
+Neryn was the youngest of the seven, an Ilie of twenty-one years, and his virtue was perseverance. He had been born human in a fishing village of the northeast, where he spent his childhood gathering shellfish on the tidal flats, until he went to sleep one night at nineteen and awoke with short horns curled like whelk shells, skin the grey-blue of wet slate, and a voice that could echo the cries of the shorebirds. His village did not keep him. Other Ilie later gave him the second name Still-Walking, for whatever the road took from him, he kept walking. Throughout the journey north, Neryn endured every trial and never abandoned the company, despite mounting doubts and overwhelming odds. He never saw his village again. It lay on the northeastern coast, and it was among the first places the sea took when Drauvakh fell.
 
-Virtue: Compassion
+### Keldaruun, the Bridge
 
-Maelis feared for ordinary people above all else. She chose to fight believing it would spare countless innocent lives.
+Keldaruun was a Keluma of sixty-six years, born to the Ashuun, and he was the Voice of the Keluma. His virtue was humility. Like every Voice, he had ceased to belong to his Bloom when he was chosen, and he spoke for his people as a whole rather than for himself. Among the founders he became a bridge between six very different minds, uniting them through diplomacy and reason, and he was humble enough to hear every viewpoint before his own. In the end, he trusted the collective judgment of the company over his own uncertainty.
 
-### Neryn, the Tidewalker (Age 21)
+### Seris, the Witness
 
-Virtue: Perseverance
-
-The youngest founder endured impossible hardship throughout the journey north. Neryn never abandoned the company despite mounting doubts and overwhelming odds.
-
-### Eldric, the Voice (Age 37)
-
-Virtue: Humility
-
-Eldric united the founders through diplomacy and reason. Though humble enough to hear every viewpoint, he ultimately trusted the collective judgment of the group over his own uncertainty.
-
-### Seris, the Witness (Age 48)
-
-Virtues: Discernment and Doubt
-
-Seris alone refused to draw his weapon. He questioned whether humanity truly understood the dragons' purpose and warned that slaying one might destroy a balance older than civilization itself. History remembers him not as a coward, but as the only founder who witnessed the tragedy before it unfolded.
-
-## Legacy
-
-The legend became the foundation of northern culture.
-
-The Tidebound Guardians trace their heritage to the six founders who fought the dragon, honoring bravery, sacrifice, and unity.
-
-The Mountain Tribes instead look to Seris the Witness, believing that true wisdom begins with questioning certainty and that restraint can be the greatest act of courage.
-
-To this day, the myth reminds the people of the north that even the noblest virtues can lead to catastrophe when they are not tempered by discernment.
+Seris was a human of forty-eight years, and his virtues were discernment and doubt. He alone refused to draw his weapon. He had watched the dragons and seen harm in their passing, but no malice, and he doubted that creatures who sought no one's destruction meant to destroy everything. He warned that slaying one might break a balance older than any people of Ixoria. History remembers him not as a coward, but as the only founder who saw the tragedy before it unfolded.
