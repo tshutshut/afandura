@@ -16,11 +16,11 @@ Long after the dragon's death, fourteen primordial Aevra emerged from the depths
 
 The seven primordial lineages became the seven tribes of the Aevra:
 
-- Urrakh — Memory
-- Kharvok — Entropy
-- Zhaurakh — Desire
+- Urrakh — Discernment
+- Kharvok — Change
+- Zhaurakh — Bond
 - Orrakh — Dream
-- Nyrakh — Absence
+- Nyrakh — Distance
 - Ghrauk — Instinct
 - Dhaevor — Life
 
@@ -28,11 +28,11 @@ Some of the primordial Aevra remained among the mountain-dwelling peoples, whose
 
 ## The Seven Tribes
 
-The seven tribes are distinct expressions of the ancient essences carried by the Aevra. Each tribe possesses its own physical characteristics, traditions, and magical affinity.
+The seven tribes are distinct expressions of the ancient essences carried by the Aevra. Each tribe possesses its own physical characteristics, traditions, and magical affinity, and each essence finds its expression through one of the seven Spell Branches.
 
-### Urrakh — Memory
+### Urrakh — Perception (Discernment)
 
-The Urrakh tend to be slightly shorter than other Aevra, with compact but otherwise typical proportions. Their scales range from deep blue to grey, often with subtle variations between individuals. Their scales overlap more heavily than those of other Aevra, creating layered patterns reminiscent of ancient strata, tree rings, or pages accumulated over time.
+The Urrakh tend to be slightly shorter than other Aevra, with compact but otherwise typical proportions. Their scales range from deep blue to grey and overlap in fine, closely ordered rows. At a glance the rows appear uniform, yet closer study reveals subtle variations of shade and pattern that differ from one individual to the next, as though the body itself rewarded attention.
 
 Their horns curve backward and inward, creating a natural crown-like silhouette around the head. Their eyes are unusually large and reflective, with distinctive concentric rings within the irises.
 
@@ -40,29 +40,41 @@ Fine, feather-like scales frequently appear across the face. These small scales 
 
 The Urrakh have no tails.
 
-### Kharvok — Entropy
+The Urrakh have always approached magic through Perception, yet their tradition is concerned less with sight than with discernment. Among them, it is not enough to see; one must notice. They value the recognition of patterns, inconsistencies and small details that pass unremarked before other eyes, and they hold that an observation remains incomplete until meaning has been drawn from it. Two witnesses may stand before the same event, and only one may truly perceive what took place.
+
+This outlook has shaped a people who are slow to judge and careful to observe. An Urrakh is not admired for knowing more than others, but for recognizing significance where others see only scattered details. The principle is carried in a simple saying: seeing is common; noticing is rare.
+
+### Kharvok — Form (Change)
 
 Kharvok scales are generally dark charcoal, brown, muted bronze, and similar subdued colors. Their most distinctive feature is the irregular distribution of their scales. Rather than forming consistent rows or patterns, the scales vary naturally in size and spacing across the body.
 
 Their horns are thick and heavily ridged, but the ridges follow random and unpredictable patterns. The horns themselves remain complete and intact, with naturally formed tips.
 
-Some Kharvok develop additional scale protrusions across their bodies. These can appear along the back, shoulders, arms, or the sides of the legs. Their size, number, and placement vary considerably from individual to individual. Some may have only a few small protrusions, while others develop much more prominent structures.
+Some Kharvok develop additional scale protrusions across their bodies. These can appear along the back, shoulders, arms, or the sides of the legs. Their size, number, and placement vary considerably from individual to individual. Nor do they remain fixed: over the course of a life, protrusions may grow, wear away, or emerge where there were none before.
 
 Despite these variations, Kharvok have normal Aevra proportions and symmetrical bodies. Their unusual physical characteristics are simply part of their natural form.
 
 The Kharvok have no tails.
 
-### Zhaurakh — Desire
+The Kharvok are drawn naturally toward Form, and they understand it through change. To them, the shape of a thing is not its truth. Size, hardness, temperature and material state are conditions that may alter while the thing itself endures.
+
+From this has grown a deep respect for adaptability. A Kharvok who changes in answer to new circumstances is not thought weak or inconstant, provided they know which parts of themselves are fundamental and which are merely the form they happen to hold at that moment. Their bodies carry the same lesson. No two Kharvok bear quite the same scales, horns or protrusions, and irregularity among them is an ordinary condition of being rather than a flaw. Their tradition is summarized in a few words: form is temporary; substance endures.
+
+### Zhaurakh — Connection (Bond)
 
 Zhaurakh scales are among the most visually striking of the Aevra. Their colors include rich reds, deep violets, dark golds, and almost-black tones. The scales are smooth, tightly fitted, and naturally polished, giving their bodies a refined appearance.
 
-Their horns are elaborate and elegant. They rise from the head before curving delicately around the face rather than extending dramatically outward. Thin secondary horn-like protrusions grow from them, creating intricate and refined structures.
+Their horns are elaborate and elegant. They rise from the head before curving delicately around the face rather than extending dramatically outward. Thin secondary growths branch from them and cross one another, weaving the horns into intricate, interlaced structures reminiscent of knotwork. No two Zhaurakh share the same pattern of crossings.
 
-Their eyes are bright and saturated in color, with distinctly narrow pupils. Combined with their polished scales and elaborate horns, this gives the Zhaurakh an unusually refined and captivating appearance.
+Their eyes are bright and saturated in color, with distinctly narrow pupils. Combined with their polished scales and interlaced horns, this gives the Zhaurakh an unusually refined appearance.
 
 The Zhaurakh have no tails.
 
-### Orrakh — Dream
+The Zhaurakh understand the world through Connection, and above all through the bonds that tie one thing to another. Affection is a bond, but so are loyalty, kinship, obligation, rivalry, debt, trust, hatred and betrayal. A person may be bound to another person, to a homeland, to a promise, or to something long lost that they cannot release.
+
+The Zhaurakh therefore seldom regard anyone as an individual alone. To understand a person is to understand whom they love, what they serve, where they belong, what they owe and what they refuse to abandon. Even enmity is no absence of connection. Two enemies consumed by hatred may be bound as tightly as two devoted friends, and often for longer. At the heart of Zhaurakh thought lies a single conviction: nothing exists entirely alone, and to understand a thing, one must understand what it is bound to.
+
+### Orrakh — Manifestation (Dream)
 
 Orrakh are generally lanky and slender compared with other Aevra. Their scales range through pale silver, muted lavender, deep indigo, and blue-grey.
 
@@ -74,21 +86,27 @@ Their eyes are extremely dark, often appearing almost entirely black, with littl
 
 The Orrakh have no tails.
 
-### Nyrakh — Absence
+The Orrakh are associated with Manifestation, which they understand through the idea of the dream. A dream, in their tradition, is not confined to sleep. It is anything that exists before it has physical reality: an image, an idea, a story, a possibility, something imagined and not yet brought into the world. Manifestation is that principle made visible, for through it, what did not exist may be given presence, however briefly.
 
-The Nyrakh can possess almost any base scale color. Their defining physical characteristic is instead the striking pattern that covers their scales.
+The Orrakh consequently hold imagination in particular esteem. Artistry, invention, storytelling and unconventional thought all carry the same principle within them, since nothing new can be made until it has first been conceived. To many outsiders, the Orrakh themselves, with their fine, half-translucent scales, seem only partly given to the world. Their tradition holds that everything created once existed as something unreal.
 
-These patterns generally take the form of stripes, bands, or other repeating arrangements, and their colors are highly contrasting with the underlying scales. A pale Nyrakh may therefore have deep black markings, while a dark-scaled individual might carry almost white patterns.
+### Nyrakh — Space (Distance)
 
-The patterns are not the result of missing pigmentation. They are natural coloration and are one of the clearest indicators of Nyrakh ancestry.
+The Nyrakh can possess almost any base scale color. Their defining physical characteristic is instead the pattern that covers their scales.
 
-Their horns are thin and sharply angled. They often appear incomplete, as though sections of their natural growth were simply omitted. Despite this unusual appearance, the horns are symmetrical and naturally formed.
+These patterns take the form of long bands that narrow and converge as they run along the body, much as a road or a river appears to narrow as it recedes toward the horizon. Their colors contrast strongly with the underlying scales, so that a pale Nyrakh may carry deep black bands while a dark-scaled individual might carry almost white ones. Seen from certain angles, the converging lines lend the body a curious impression of depth. They are natural coloration and remain one of the clearest indicators of Nyrakh ancestry.
 
-Their eyes are pale and nearly colorless. There is no visible iris, giving the eyes an unusual, almost empty appearance. Despite this, their eyes function perfectly normally.
+Their horns are long and slender, sweeping backward from the brow in a smooth, unbroken line.
+
+Their eyes are pale and clear, with irises so faint that they are easily overlooked. Even when a Nyrakh looks directly at someone, their gaze often seems settled upon something farther away.
 
 The Nyrakh have no tails.
 
-### Ghrauk — Instinct
+The Nyrakh possess a natural relationship with Space, which they understand chiefly through distance. Their traditions dwell on the difference between here and there, near and far, departure and arrival. Distance, to them, is not a fixed property of the world but a relationship between places, and like any relationship, it may be altered.
+
+Travel, boundaries, separation and return consequently carry unusual weight among the Nyrakh. No place is unreachable merely because it is distant, and two locations that seem impossibly far apart may yet be brought together. Separation is held less absolutely among them than among most peoples. Here and there, they say, are divided only by what lies between them.
+
+### Ghrauk — Force (Instinct)
 
 Ghrauk are generally the most muscular and physically bulky of the Aevra tribes. Their bodies have a distinctly predatory appearance, though their overall proportions remain recognizably Aevra.
 
@@ -102,7 +120,11 @@ Their overall physique is powerful and muscular, reflecting the physicality of t
 
 The Ghrauk have no tails.
 
-### Dhaevor — Life
+The Ghrauk are inclined by nature toward Force, which their traditions associate with instinct: the immediacy of movement, reaction and momentum, the capacity to answer circumstance before conscious thought has caught up with it.
+
+This is not mere impulse. What the Ghrauk prize is trained instinct, the point at which experience has been absorbed so deeply that action no longer waits on deliberation. A practiced warrior moves before naming the danger; an experienced hunter turns toward a movement before knowing its cause. Force suits this outlook naturally, for movement may be begun, redirected, hastened or brought to a sudden halt, and what matters is recognizing the moment that demands action and committing to it. Among the Ghrauk it is said that thought may understand an action afterward, but instinct knows when to act.
+
+### Dhaevor — Vitality (Life)
 
 Dhaevor are generally taller than other Aevra, often possessing a noticeably greater stature while retaining otherwise natural proportions.
 
@@ -114,11 +136,15 @@ Their eyes are bright and often appear almost luminous, with colors that contras
 
 The Dhaevor have no tails.
 
+The Dhaevor are associated with Vitality, and their ancestral understanding of it is simply life. Life, to them, means far more than healing. It encompasses the whole condition of living things: birth, growth, strength, sickness, injury, recovery, age, withering and death.
+
+The Dhaevor regard life as a continuing process rather than a settled state. Growth and decline are two movements of the same cycle; the forces that allow a body to heal are kin to those through which it weakens, and flourishing and fading are different expressions of a single vitality. Their own bodies seem to bear witness to this, with layered scales that suggest constant renewal and horns that branch like roots. Their tradition teaches that to understand life, one must understand both what makes it flourish and what makes it fade.
+
 ## Aevra and Magic
 
 All Aevra are natural magic wielders. Magic is not something they must learn before they can use it; it is an inherent part of their lineage.
 
-Each pure-lineage Aevra is born with a natural affinity for the essence of their tribe. The Urrakh are connected to Memory, the Kharvok to Entropy, the Zhaurakh to Desire, the Orrakh to Dream, the Nyrakh to Absence, the Ghrauk to Instinct, and the Dhaevor to Life.
+Each pure-lineage Aevra is born with a natural affinity for the Spell Branch through which the essence of their tribe is expressed. The Urrakh are drawn to Perception, the Kharvok to Form, the Zhaurakh to Connection, the Orrakh to Manifestation, the Nyrakh to Space, the Ghrauk to Force, and the Dhaevor to Vitality.
 
 Their magical manifestations are expressions of these essences. An Aevra does not simply study an abstract school of magic. Their magic emerges from something already present within them.
 
@@ -170,12 +196,12 @@ The Vayra are forbidden from entering the Mother Cave and may not undertake the 
 
 ## The Seven Tribes at a Glance
 
-| Tribe | Essence | Defining Physical Traits |
-|---|---|---|
-| Urrakh | Memory | Slightly shorter; layered blue-grey scales; crown-like horns; reflective ringed eyes; fine facial scale-freckles |
-| Kharvok | Entropy | Dark subdued colors; irregular scale distribution; randomly ridged horns; variable scale protrusions |
-| Zhaurakh | Desire | Polished rich-colored scales; refined curling horns with fine protrusions; bright saturated eyes |
-| Orrakh | Dream | Lanky and slender; fine iridescent translucent scales; branching horns; dark eyes |
-| Nyrakh | Absence | Any base color with strongly contrasting patterns; incomplete-looking horns; pale eyes without visible irises |
-| Ghrauk | Instinct | Bulky and muscular; thick irregular scales; natural armor formations; predatory horns and jaws |
-| Dhaevor | Life | Taller stature; layered scales in vibrant natural colors; branching horns; bright luminous eyes |
+| Tribe | Essence | Spell Branch | Defining Physical Traits |
+|---|---|---|---|
+| Urrakh | Discernment | Perception | Slightly shorter; finely ordered blue-grey scales with subtle variations; crown-like horns; reflective ringed eyes; fine facial scale-freckles |
+| Kharvok | Change | Form | Dark subdued colors; irregular scale distribution; randomly ridged horns; scale protrusions that shift over a lifetime |
+| Zhaurakh | Bond | Connection | Polished rich-colored scales; refined curling horns interlaced like knotwork; bright saturated eyes |
+| Orrakh | Dream | Manifestation | Lanky and slender; fine iridescent translucent scales; branching horns; dark eyes |
+| Nyrakh | Distance | Space | Any base color with contrasting converging bands; long backswept horns; pale eyes with a far-set gaze |
+| Ghrauk | Instinct | Force | Bulky and muscular; thick irregular scales; natural armor formations; predatory horns and jaws |
+| Dhaevor | Life | Vitality | Taller stature; layered scales in vibrant natural colors; branching horns; bright luminous eyes |
