@@ -11,7 +11,7 @@ Aurelate.
 
 At the heart of the swamp stands a single ancient magnolia believed to
 be several centuries old. It belongs to every Keluma equally and no
-caste may claim ownership over it. Its flowers are unlike any other
+Bloom may claim ownership over it. Its flowers are unlike any other
 magnolia in the world.
 
 ### The Living Forest
@@ -140,7 +140,7 @@ friendships are renewed.
 
 ### Deep Listening
 
-Only a select few from each caste are chosen to consume their caste's
+Only a select few from each Bloom are chosen to consume their Bloom's
 blossoms.
 
 On the final night of the festival, beneath the full moon, they enter
@@ -171,7 +171,7 @@ of the older trees.
 Only a tiny fraction of the blossoms are consumed.
 
 When the Blooming ends, millions of petals blanket the forest floor. The
-Keeper Caste gathers them over several days before offering them to a
+Ashuun gather them over several days before offering them to a
 great ceremonial fire. The fragrant smoke rises through the canopy,
 returning the Blooming to the living forest and completing the annual
 cycle.
