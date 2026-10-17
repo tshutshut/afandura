@@ -9,28 +9,28 @@
 .grimoire {max-width:1100px;margin:0 auto}
 .book-controls {display:flex;gap:1rem;flex-wrap:wrap;align-items:center;margin:1.5rem 0}
 .alphabet {display:flex;flex-wrap:wrap;gap:.25rem}
-button,select {font:inherit;color:inherit;background:white;border:1px solid black;padding:.35rem .55rem;cursor:pointer}
+button,select {font:inherit;color:inherit;background:var(--paper);border:1px solid var(--rule);padding:.35rem .55rem;cursor:pointer}
 button:disabled {opacity:.3;cursor:default}
-button[aria-pressed="true"] {background:#eee;font-weight:bold}
-.spread {display:grid;grid-template-columns:repeat(2,minmax(0,1fr));border:1px solid black}
+button[aria-pressed="true"] {background:var(--paper-deep);font-weight:bold}
+.spread {display:grid;grid-template-columns:repeat(2,minmax(0,1fr));border:1px solid var(--rule)}
 .page {padding:1.4rem;min-height:26rem;min-width:0;overflow-wrap:anywhere}
-.page+.page {border-left:1px solid black}
+.page+.page {border-left:1px solid var(--rule)}
 .page h2 {margin-top:0}
 .page dl {display:grid;grid-template-columns:max-content 1fr;gap:.4rem .9rem}
 .page dt {font-weight:bold}
 .page dd {margin:0}
 .page p {line-height:1.5}
 .paging {display:flex;justify-content:space-between;align-items:center;margin:1rem 0}
-.empty {color:#555}
-@media(max-width:680px) {.spread{grid-template-columns:1fr}.page+.page{border-left:0;border-top:1px solid black}.page{min-height:0}}
+.empty {color:var(--ink-soft)}
+@media(max-width:680px) {.spread{grid-template-columns:1fr}.page+.page{border-left:0;border-top:1px solid var(--rule)}.page{min-height:0}}
 
 .branch-navigation{display:flex;gap:.5rem;align-items:flex-start;flex-wrap:wrap}
 .branch-menu{position:relative}
-.branch-toggle{font:inherit;background:white}
-.branch-options{position:absolute;z-index:10;top:100%;left:0;min-width:12rem;margin:0;padding:.35rem 0;list-style:none;background:white;border:1px solid black}
+.branch-toggle{font:inherit;background:var(--paper)}
+.branch-options{position:absolute;z-index:10;top:100%;left:0;min-width:12rem;margin:0;padding:.35rem 0;list-style:none;background:var(--paper);border:1px solid var(--rule)}
 .branch-options[hidden]{display:none}
 .branch-options a{display:block;padding:.4rem .65rem;color:inherit;text-decoration:none;white-space:nowrap}
-.branch-options a:hover,.branch-options a:focus,.branch-options a[aria-current="page"]{background:#eee}
+.branch-options a:hover,.branch-options a:focus,.branch-options a[aria-current="page"]{background:var(--paper-deep)}
 </style>
 </head>
 <body>
