@@ -5,6 +5,7 @@
  *     <article id="content" data-source="page_name.md"></article>
  * This script fetches that Markdown file and renders it into the element,
  * so each page's text only ever needs to be edited in its .md file.
+ * It also adds a menu of the other pages in the same section of the index.
  *
  * Supported Markdown:
  *   # to ###### headings          paragraphs (separated by blank lines)
@@ -154,7 +155,87 @@
         return html.join("\n");
     }
 
+    // ---- Section menu -------------------------------------------------
+    // Next to the Index link, each page gets a menu listing the other pages
+    // of its section (Kindreds, Myths...). Sections and their pages are read
+    // from index.html, so adding a page to the index adds it to the menu.
+
+    const siteRoot = new URL(".", document.currentScript ? document.currentScript.src : location.href);
+
+    function samePage(a, b) {
+        const clean = function (path) { return decodeURIComponent(path).replace(/\/index\.html$/, "/"); };
+        return clean(a.pathname) === clean(b.pathname);
+    }
+
+    function buildSectionMenu(nav, indexHtml) {
+        const doc = new DOMParser().parseFromString(indexHtml, "text/html");
+        const here = new URL(location.href);
+        let current = null;
+        for (const link of doc.querySelectorAll(".menu a[href]")) {
+            if (samePage(new URL(link.getAttribute("href"), siteRoot), here)) { current = link; break; }
+        }
+        if (!current) return;
+
+        // The section is the top-level entry of the index that contains this page.
+        const section = current.closest(".menu-level-1 > li");
+        const label = section && section.querySelector(":scope > .menu-label");
+        if (!label) return;
+
+        const menu = document.createElement("div");
+        menu.className = "branch-menu";
+        const toggle = document.createElement("button");
+        toggle.type = "button";
+        toggle.className = "contents-link branch-toggle";
+        toggle.setAttribute("aria-expanded", "false");
+        toggle.setAttribute("aria-controls", "section-options");
+        toggle.textContent = label.textContent.trim() + " ▾";
+        const list = document.createElement("ul");
+        list.className = "branch-options";
+        list.id = "section-options";
+        list.hidden = true;
+
+        for (const link of section.querySelectorAll(".menu a[href]")) {
+            const url = new URL(link.getAttribute("href"), siteRoot);
+            const item = document.createElement("li");
+            const a = document.createElement("a");
+            a.href = url.href;
+            a.textContent = link.textContent.trim();
+            if (samePage(url, here)) a.setAttribute("aria-current", "page");
+            item.appendChild(a);
+            list.appendChild(item);
+        }
+
+        function setOpen(open) {
+            list.hidden = !open;
+            toggle.setAttribute("aria-expanded", String(open));
+        }
+        toggle.addEventListener("click", function () { setOpen(list.hidden); });
+        document.addEventListener("click", function (event) {
+            if (!menu.contains(event.target)) setOpen(false);
+        });
+        document.addEventListener("keydown", function (event) {
+            if (event.key === "Escape" && !list.hidden) { setOpen(false); toggle.focus(); }
+        });
+
+        menu.append(toggle, list);
+        nav.classList.add("branch-navigation");
+        nav.appendChild(menu);
+    }
+
+    function loadSectionMenu() {
+        const nav = document.querySelector('nav[aria-label="Page navigation"]');
+        if (!nav || nav.querySelector(".branch-menu")) return;
+        fetch(new URL("index.html", siteRoot))
+            .then(function (response) {
+                if (!response.ok) throw new Error(response.status);
+                return response.text();
+            })
+            .then(function (html) { buildSectionMenu(nav, html); })
+            .catch(function () { /* the Index link still works without the menu */ });
+    }
+
     function load() {
+        loadSectionMenu();
         const target = document.getElementById("content");
         if (!target || !target.dataset.source) return;
 
