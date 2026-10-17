@@ -1,12 +1,12 @@
 # The Aevra (Dragonborn)
 
-The Aevra, known to other peoples as Dragonborn, are one of the ancient Kindreds of Ixoria. Every Aevra carries the legacy of the dragons that fell in the distant past, and every Aevra is born with a natural connection to magic. Their people are divided into seven ancestral tribes, each descended from one of the primordial dragon lineages that emerged from the remains of the Second Dragon. Among the Aevra, lineage is more than ancestry. It is identity, culture, and a sacred inheritance.
+The Aevra, known to other peoples as Dragonborn, are one of the ancient Kindreds of Ixoria. Every Aevra carries the legacy of the dragons that fell in the distant past, and every Aevra is born with a natural connection to magic. Their people are divided into seven ancestral tribes, each descended from one of the primordial lineages that emerged from the remains of Aevrenn, the Grieving. Among the Aevra, lineage is more than ancestry. It is identity, culture, and a sacred inheritance.
 
 ## Origins
 
-The origins of the Aevra are tied directly to the Fall of the Dragons. When the first great dragon was slain, its companion descended from the sky and came to rest upon the earth beside it. The surviving dragon waited for its companion to return, but it never did, and over a vast span of time, the grieving dragon slowly died.
+The origins of the Aevra are tied directly to the Fall of the Dragons. When Drauvakh, the Fallen, was slain and the sea closed over its body, its companion Aevrenn, the Grieving, came to rest upon a mountain overlooking the waters. She waited for her companion to return, but it never did, and over a vast span of time, she too slowly died.
 
-As the ages passed, the remains of the dragon became part of the land. Its immense body formed the foundations of the great mountain, while its interior gradually transformed into a vast cavern deep within the earth, which became known as the Mother Cave. Long after the dragon's death, fourteen primordial Aevra emerged from its depths. They appeared as seven pairs, each pair carrying one of seven ancient essences, and these fourteen are regarded as the ancestors of all Aevra. The seven primordial lineages became the seven tribes of the Aevra:
+After her death, the mountain took her. Stone and earth gathered over her remains through the ages, until dragon and mountain could no longer be told apart. Her spine became the ridge still known as the Dragon's Spine, and her ribcage became the entrance to a vast cavern deep within the mountain, which came to be known as the Mother Cave. Ages later, fourteen primordial Aevra emerged from its depths. They appeared as seven pairs, each pair carrying one of seven ancient essences, and these fourteen are regarded as the ancestors of all Aevra, who take their name from hers. The seven primordial lineages became the seven tribes of the Aevra:
 
 - Urrakh — Discernment
 - Kharvok — Change
@@ -110,13 +110,13 @@ The Vayra are shunned, but they are not hunted. They are not required to remain 
 
 ## Culture and Lineage
 
-For the Aevra, lineage is inseparable from identity. To belong to a tribe is to carry the legacy of one of the seven primordial dragons and the essence associated with it. This pride shapes much of Aevra society: their tribes maintain distinct identities and traditions, and the purity of one's lineage is treated with great importance.
+For the Aevra, lineage is inseparable from identity. To belong to a tribe is to carry the legacy of one of the seven primordial lineages and the essence associated with it. This pride shapes much of Aevra society: their tribes maintain distinct identities and traditions, and the purity of one's lineage is treated with great importance.
 
 The Vayra therefore occupy an uncomfortable place in Aevra culture. They carry the blood of two tribes but are regarded as belonging fully to neither. While they are not necessarily treated with violence, their exclusion from tribal life is an accepted part of their existence.
 
 ## The Vigil of the Returning
 
-When an Aevra comes of age, they undertake a solitary pilgrimage to the Mother Cave, the ancient cavern formed within the remains of the Second Dragon. They enter alone, carrying only a few essential supplies. No companion may accompany them, and no member of their tribe may guide them inside.
+When an Aevra comes of age, they undertake a solitary pilgrimage to the Mother Cave, the ancient cavern whose entrance is formed by the ribcage of Aevrenn. They enter alone, carrying only a few essential supplies. No companion may accompany them, and no member of their tribe may guide them inside.
 
 The Mother Cave is vast and completely dark. Nobody has ever properly mapped its interior, and its passages extend deep into the mountain. Once inside, the Aevra must rely on their own powers, instincts, and will to find their way through the darkness, until they find a place where they can sit and wait. They do not know how long they will remain there.
 
