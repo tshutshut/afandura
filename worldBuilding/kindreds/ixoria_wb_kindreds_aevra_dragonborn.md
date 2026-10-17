@@ -1,28 +1,28 @@
 # The Aevra (Dragonborn)
 
-The **Aevra**, known to other peoples as Dragonborn, are one of the ancient Kindreds of Ixoria. Every Aevra carries the legacy of the dragons that fell in the distant past, and every Aevra is born with a natural connection to magic.
+The Aevra, known to other peoples as Dragonborn, are one of the ancient Kindreds of Ixoria. Every Aevra carries the legacy of the dragons that fell in the distant past, and every Aevra is born with a natural connection to magic.
 
 Their people are divided into seven ancestral tribes, each descended from one of the primordial dragon lineages that emerged from the remains of the Second Dragon. Among the Aevra, lineage is more than ancestry. It is identity, culture, and a sacred inheritance.
 
 ## Origins
 
-The origins of the Aevra are tied directly to the **Fall of the Dragons**.
+The origins of the Aevra are tied directly to the Fall of the Dragons.
 
 When the first great dragon was slain, its companion descended from the sky and came to rest upon the earth beside it. The surviving dragon waited for its companion to return, but it never did. Over a vast span of time, the grieving dragon slowly died.
 
-As the ages passed, the remains of the dragon became part of the land. Its immense body formed the foundations of the great mountain, while its interior gradually transformed into a vast cavern deep within the earth. This place became known as the **Mother Cave**.
+As the ages passed, the remains of the dragon became part of the land. Its immense body formed the foundations of the great mountain, while its interior gradually transformed into a vast cavern deep within the earth. This place became known as the Mother Cave.
 
 Long after the dragon's death, fourteen primordial Aevra emerged from the depths of the Mother Cave. They appeared as seven pairs, each pair carrying one of seven ancient essences. These fourteen are regarded as the ancestors of all Aevra.
 
 The seven primordial lineages became the seven tribes of the Aevra:
 
-- **Urrakh** — Memory
-- **Kharvok** — Entropy
-- **Zhaurakh** — Desire
-- **Orrakh** — Dream
-- **Nyrakh** — Absence
-- **Ghrauk** — Instinct
-- **Dhaevor** — Life
+- Urrakh — Memory
+- Kharvok — Entropy
+- Zhaurakh — Desire
+- Orrakh — Dream
+- Nyrakh — Absence
+- Ghrauk — Instinct
+- Dhaevor — Life
 
 Some of the primordial Aevra remained among the mountain-dwelling peoples, whose own origins are traditionally traced to the Seventh Warrior of the Fall of the Dragons. Others eventually left the mountains and dispersed throughout Ixoria.
 
@@ -126,7 +126,7 @@ The exact ways in which an essence manifests can vary between individuals, but t
 
 ## The Vayra
 
-The **Vayra** are Aevra born from parents belonging to two different tribes.
+The Vayra are Aevra born from parents belonging to two different tribes.
 
 Among the seven tribes, lineage is considered sacred. Each tribe takes great pride in its ancestry and in the purity of its connection to one of the seven primordial essences. For this reason, unions between members of different tribes are strongly frowned upon.
 
@@ -148,7 +148,7 @@ The Vayra therefore occupy an uncomfortable place in Aevra culture. They carry t
 
 ## The Vigil of the Returning
 
-When an Aevra comes of age, they undertake a solitary pilgrimage to the **Mother Cave**, the ancient cavern formed within the remains of the Second Dragon.
+When an Aevra comes of age, they undertake a solitary pilgrimage to the Mother Cave, the ancient cavern formed within the remains of the Second Dragon.
 
 They enter the Mother Cave alone, carrying only a few essential supplies. No companion may accompany them, and no member of their tribe may guide them inside.
 
@@ -164,7 +164,7 @@ Once they receive their signal, they must rise and find their own way back out o
 
 Most return safely. Some do not.
 
-Disappearances are extremely rare, but they are accepted as an unavoidable part of the Vigil. Those who never emerge are not considered failures. Among the Aevra, it is said that they have **returned to the Mother**.
+Disappearances are extremely rare, but they are accepted as an unavoidable part of the Vigil. Those who never emerge are not considered failures. Among the Aevra, it is said that they have returned to the Mother.
 
 The Vayra are forbidden from entering the Mother Cave and may not undertake the Vigil.
 
@@ -172,10 +172,10 @@ The Vayra are forbidden from entering the Mother Cave and may not undertake the 
 
 | Tribe | Essence | Defining Physical Traits |
 |---|---|---|
-| **Urrakh** | Memory | Slightly shorter; layered blue-grey scales; crown-like horns; reflective ringed eyes; fine facial scale-freckles |
-| **Kharvok** | Entropy | Dark subdued colors; irregular scale distribution; randomly ridged horns; variable scale protrusions |
-| **Zhaurakh** | Desire | Polished rich-colored scales; refined curling horns with fine protrusions; bright saturated eyes |
-| **Orrakh** | Dream | Lanky and slender; fine iridescent translucent scales; branching horns; dark eyes |
-| **Nyrakh** | Absence | Any base color with strongly contrasting patterns; incomplete-looking horns; pale eyes without visible irises |
-| **Ghrauk** | Instinct | Bulky and muscular; thick irregular scales; natural armor formations; predatory horns and jaws |
-| **Dhaevor** | Life | Taller stature; layered scales in vibrant natural colors; branching horns; bright luminous eyes |
+| Urrakh | Memory | Slightly shorter; layered blue-grey scales; crown-like horns; reflective ringed eyes; fine facial scale-freckles |
+| Kharvok | Entropy | Dark subdued colors; irregular scale distribution; randomly ridged horns; variable scale protrusions |
+| Zhaurakh | Desire | Polished rich-colored scales; refined curling horns with fine protrusions; bright saturated eyes |
+| Orrakh | Dream | Lanky and slender; fine iridescent translucent scales; branching horns; dark eyes |
+| Nyrakh | Absence | Any base color with strongly contrasting patterns; incomplete-looking horns; pale eyes without visible irises |
+| Ghrauk | Instinct | Bulky and muscular; thick irregular scales; natural armor formations; predatory horns and jaws |
+| Dhaevor | Life | Taller stature; layered scales in vibrant natural colors; branching horns; bright luminous eyes |

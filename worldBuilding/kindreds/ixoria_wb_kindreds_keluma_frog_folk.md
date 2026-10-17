@@ -8,17 +8,17 @@ The forest surrounding it is not truly a single tree, though it may appear so to
 
 The Keluma measure the passage of life in Bloomings rather than years. Their society is divided not into castes, as outsiders sometimes believe, but into Blooms. To belong to a particular Bloom is not simply to inherit a family, occupation, or social position. Each Bloom represents a particular way of understanding the world, and each tends the groves of magnolias whose flowers bear its sacred color. Their garments reflect these colors, while woven patterns distinguish one Bloom from another. The customs and philosophies of the Blooms differ considerably, yet none is regarded as superior. Together, they form what the Keluma consider the living harmony of the forest.
 
-- **Tavuun — The Cream-Colored Bloom**\
+- Tavuun — The Cream-Colored Bloom\
   The Tavuun wear soft cream-colored garments marked by long, flowing lines resembling magnolia roots spreading beneath the swamp. They are known for their calm and deliberate nature and for their belief that wisdom, like the roots of an ancient tree, must be allowed to grow slowly.
-- **Koruun — The Purple-Colored Bloom**\
+- Koruun — The Purple-Colored Bloom\
   The Koruun wear deep purple garments embroidered with angular patterns inspired by magnolia petals and the polished shells of sacred beetles. They are decisive and disciplined, believing that hesitation has its place, but that once a decision has been made it should be carried through without fear.
-- **Keluun — The Jade-Colored Bloom**\
+- Keluun — The Jade-Colored Bloom\
   The Keluun wear rich green garments patterned with intertwining vines and young shoots. They hold that nothing in nature truly stands alone, and that every action sends unseen roots into the lives of others. Among the Keluma, they are known for seeking connections where others see separation.
-- **Osuun — The Azure-Colored Bloom**\
+- Osuun — The Azure-Colored Bloom\
   The Osuun wear blue robes decorated with gentle, wave-like patterns. Like flowing water, they value adaptability above certainty, and it is often said that an Osuun mind never stops moving.
-- **Deluun — The Crimson-Colored Bloom**\
+- Deluun — The Crimson-Colored Bloom\
   The Deluun wear crimson garments whose patterns resemble petals opening toward the morning sun. They believe that life should be experienced fully and openly, and that joy, grief, courage, love, and sorrow should not be hidden. To suppress emotion is, in their eyes, to deny one's own Bloom.
-- **Ashuun — The Keepers**\
+- Ashuun — The Keepers\
   The Ashuun stand apart from the other Blooms. They possess no sacred flower color, and their garments are instead woven in muted greys, charcoal blacks, and ash-white tones. Their duties concern what is shared by the whole of Keluma society, and their greatest responsibility comes after every Blooming, when the blossoms have fallen and the forest floor is covered in petals. The Ashuun gather them and prepare the sacred burning through which the Blooming is symbolically returned to the living forest. Outsiders sometimes mistake them for servants, but among the Keluma they are regarded as those upon whom every other Bloom quietly depends.
 
 Each Bloom is guided by its own council of respected elders, yet none of these councils speaks for the Keluma as a whole. From among them, including the Ashuun, one individual is chosen to become the Voice. The Voice serves for life, but holds no authority as a monarch and commands none of the Blooms. Their purpose is to preserve harmony between them. When an elder becomes the Voice, they symbolically cease to belong to their former Bloom and from that day onward speak only for the Keluma as a whole. Only after their passing do historians once again remember the Bloom from which they came. On exceedingly rare occasions, an Ashuun has become the Voice, and such events are remembered as signs that the living forest itself desired humility over prominence.

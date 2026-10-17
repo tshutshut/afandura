@@ -21,7 +21,7 @@ Choose your character's race from the table below. Each race modifies the six at
 
 All attributes begin at 10. The symbols in the table indicate how much should later be added to or subtracted from that starting value.
 
-**Modifier Key:**\
+Modifier Key:\
 ++ : +4 // + : +2 // = : 0 // − : −2 // −− : −4
 
 | Race | STR | AGI | END | PER | INT | CHA | Description |
@@ -49,9 +49,9 @@ All attributes begin at 10. The symbols in the table indicate how much should la
 
 ## Step 2 — Choose a Class
 
-Choose a class for your character. Each class reflects a way of life, training, or outlook described in greater detail on the **Classes** page.
+Choose a class for your character. Each class reflects a way of life, training, or outlook described in greater detail on the Classes page.
 
-Mechanically, every class grants **+2 to one attribute** and **+1 to another**, while imposing a **−1 penalty on one attribute**. Your chosen class also provides an **HP Bonus**, which will be used when calculating your Hit Points during Step 6.
+Mechanically, every class grants +2 to one attribute and +1 to another, while imposing a −1 penalty on one attribute. Your chosen class also provides an HP Bonus, which will be used when calculating your Hit Points during Step 6.
 
 | Class | +2 Attribute | +1 Attribute | −1 Attribute | HP Bonus |
 |---|---|---|---|---|
@@ -72,15 +72,15 @@ Alignment provides a simple way to describe your character's general moral outlo
 
 |  | Lawful | Neutral | Chaotic |
 |---|---|---|---|
-| **Good** | Lawful Good | Neutral Good | Chaotic Good |
-| **Neutral** | Lawful Neutral | True Neutral | Chaotic Neutral |
-| **Evil** | Lawful Evil | Neutral Evil | Chaotic Evil |
+| Good | Lawful Good | Neutral Good | Chaotic Good |
+| Neutral | Lawful Neutral | True Neutral | Chaotic Neutral |
+| Evil | Lawful Evil | Neutral Evil | Chaotic Evil |
 
 ## Step 4 — Determine Your Social Class
 
 Your character's social class determines their initial wealth and access to equipment. This step is optional and should be decided together with the GM according to the character you wish to play.
 
-If you prefer to leave your character's circumstances to chance, roll **1d100**. Alternatively, roll **two d10s**, using one die for the tens and the other for the units. If a particular background or social position is important to your character, you and the GM may instead choose the appropriate social class directly.
+If you prefer to leave your character's circumstances to chance, roll 1d100. Alternatively, roll two d10s, using one die for the tens and the other for the units. If a particular background or social position is important to your character, you and the GM may instead choose the appropriate social class directly.
 
 | d100 | Social Class |
 |---|---|
@@ -94,7 +94,7 @@ If you prefer to leave your character's circumstances to chance, roll **1d100**.
 
 ## Step 5 — Calculate Your Attributes and Modifiers
 
-All six attributes begin at **10**. Apply the race modifiers from Step 1 and then add the bonuses granted by your class in Step 2. The resulting values are your character's final attribute scores.
+All six attributes begin at 10. Apply the race modifiers from Step 1 and then add the bonuses granted by your class in Step 2. The resulting values are your character's final attribute scores.
 
 Once these scores have been calculated, use the table below to determine the modifier associated with each attribute.
 
@@ -128,9 +128,9 @@ Record the final score and modifier for each of the six attributes:
 
 ## Step 6 — Calculate Hit Points
 
-Your character's Hit Points are calculated using their **Endurance modifier** from Step 5 and the **HP Bonus** provided by their class in Step 2.
+Your character's Hit Points are calculated using their Endurance modifier from Step 5 and the HP Bonus provided by their class in Step 2.
 
-**HP = 10 + Endurance Modifier + Class HP Bonus**
+HP = 10 + Endurance Modifier + Class HP Bonus
 
 Record the resulting value as your character's starting Hit Points.
 
@@ -171,7 +171,7 @@ In Ixoria, magic cannot be learned by someone who was not born with the ability 
 
 Possessing the seed of magic does not make a character an accomplished spellcaster. It only gives them the potential to develop magic. When a character first begins to practice, their Magic Tree is little more than a shoot. With experience, it grows, develops branches, and becomes increasingly complex.
 
-The roots and trunk of the Magic Tree represent the character's innate connection to magic. The major branches growing from it are called **Spell Branches**. Each Spell Branch represents a broad area of related magic. Individual spells are the leaves growing from those branches.
+The roots and trunk of the Magic Tree represent the character's innate connection to magic. The major branches growing from it are called Spell Branches. Each Spell Branch represents a broad area of related magic. Individual spells are the leaves growing from those branches.
 
 A character may develop any Spell Branch available to them, even if they have no natural affinity for it. Affinity does not determine which kinds of magic a character is allowed to learn. Instead, it represents the directions in which their Magic Tree grows most naturally.
 
@@ -181,13 +181,13 @@ Magic is divided into seven Spell Branches. Each branch describes the kind of ch
 
 | Spell Branch | Description | Examples |
 |---|---|---|
-| **Form: Alter and Reshape** | Form governs the physical properties of something that already exists. It can change shape, size, texture, hardness, temperature, density, or material state. It does not move something from one place to another, and it does not create something from nothing. It changes what is already there. | Hardening stone, softening metal, freezing water, enlarging an object, shrinking something, or reshaping part of a body. |
-| **Force: Move and Arrest** | Force governs motion, momentum, pressure, and impact. It can push, pull, lift, accelerate, slow, stop, attract, or repel. Force moves something through space, but it does not change the relationship between locations themselves. | Throwing an enemy backward, stopping a falling object, lifting something into the air, pulling an object toward the caster, or creating a concussive impact. |
-| **Space: Relocate and Bridge** | Space governs position, distance, and the relationship between locations. It can move something from one place to another without requiring it to travel normally through the intervening distance. It can also open, close, awaken, or maintain passages that connect otherwise separate locations. | Teleportation, opening a portal, exchanging the positions of two objects, shortening a journey, or creating a passage between distant locations. |
-| **Manifestation: Create and Dismiss** | Manifestation governs magical phenomena that exist because a spell has brought them into being. It can create magical flame, light, mist, spectral objects, temporary constructs, and other effects that were not previously present. It can also cause those manifestations to disappear again. Manifestation acts on the presence of a magical phenomenon itself, not on a bond between two existing things. | Creating a magical flame, summoning a spectral weapon, producing a wall of light, conjuring mist, or dismissing any of those effects. |
-| **Perception: Reveal and Obscure** | Perception governs what can be sensed, noticed, or understood. It can reveal things that would normally remain hidden, improve the senses, detect magical effects, or make information clearer. It can also hide, distort, disguise, silence, or otherwise interfere with what another person perceives. | Invisibility, magical disguise, detecting magic, revealing hidden writing, suppressing sound, enhancing sight, or creating false sensory impressions. |
-| **Connection: Bind and Unbind** | Connection governs magical relationships between two or more things. It can create, strengthen, maintain, or restrict a connection between people, objects, places, or magical effects. It can also undo that connection while leaving the things on either side of it intact. Connection acts on the link itself, not on the existence of the things being linked. | Binding a creature to a location, linking two objects, sealing a doorway, anchoring an effect, establishing a ward, releasing a magical restraint, or undoing a magical tether. |
-| **Vitality: Sustain and Diminish** | Vitality governs the functions and condition of living things. It can heal, strengthen, restore, stimulate growth, remove illness, or support the natural processes of a living body. It can also weaken, exhaust, wither, injure, infect, or otherwise interfere with those same processes. Vitality affects how something lives and functions rather than primarily reshaping its physical structure. | Closing wounds, restoring strength, accelerating plant growth, causing fatigue, purging poison, spreading disease, or weakening living tissue. |
+| Form: Alter and Reshape | Form governs the physical properties of something that already exists. It can change shape, size, texture, hardness, temperature, density, or material state. It does not move something from one place to another, and it does not create something from nothing. It changes what is already there. | Hardening stone, softening metal, freezing water, enlarging an object, shrinking something, or reshaping part of a body. |
+| Force: Move and Arrest | Force governs motion, momentum, pressure, and impact. It can push, pull, lift, accelerate, slow, stop, attract, or repel. Force moves something through space, but it does not change the relationship between locations themselves. | Throwing an enemy backward, stopping a falling object, lifting something into the air, pulling an object toward the caster, or creating a concussive impact. |
+| Space: Relocate and Bridge | Space governs position, distance, and the relationship between locations. It can move something from one place to another without requiring it to travel normally through the intervening distance. It can also open, close, awaken, or maintain passages that connect otherwise separate locations. | Teleportation, opening a portal, exchanging the positions of two objects, shortening a journey, or creating a passage between distant locations. |
+| Manifestation: Create and Dismiss | Manifestation governs magical phenomena that exist because a spell has brought them into being. It can create magical flame, light, mist, spectral objects, temporary constructs, and other effects that were not previously present. It can also cause those manifestations to disappear again. Manifestation acts on the presence of a magical phenomenon itself, not on a bond between two existing things. | Creating a magical flame, summoning a spectral weapon, producing a wall of light, conjuring mist, or dismissing any of those effects. |
+| Perception: Reveal and Obscure | Perception governs what can be sensed, noticed, or understood. It can reveal things that would normally remain hidden, improve the senses, detect magical effects, or make information clearer. It can also hide, distort, disguise, silence, or otherwise interfere with what another person perceives. | Invisibility, magical disguise, detecting magic, revealing hidden writing, suppressing sound, enhancing sight, or creating false sensory impressions. |
+| Connection: Bind and Unbind | Connection governs magical relationships between two or more things. It can create, strengthen, maintain, or restrict a connection between people, objects, places, or magical effects. It can also undo that connection while leaving the things on either side of it intact. Connection acts on the link itself, not on the existence of the things being linked. | Binding a creature to a location, linking two objects, sealing a doorway, anchoring an effect, establishing a ward, releasing a magical restraint, or undoing a magical tether. |
+| Vitality: Sustain and Diminish | Vitality governs the functions and condition of living things. It can heal, strengthen, restore, stimulate growth, remove illness, or support the natural processes of a living body. It can also weaken, exhaust, wither, injure, infect, or otherwise interfere with those same processes. Vitality affects how something lives and functions rather than primarily reshaping its physical structure. | Closing wounds, restoring strength, accelerating plant growth, causing fatigue, purging poison, spreading disease, or weakening living tissue. |
 
 ### Affinity Points
 
@@ -211,4 +211,4 @@ Affinity affects how quickly a character develops Proficiency within that Spell 
 
 A character may therefore become highly specialized by concentrating their Affinity Points in one Spell Branch, or develop several natural affinities by spreading those points across multiple branches.
 
-The exact number of successful casts required at each Affinity Rank is described in **Casting Spells**.
+The exact number of successful casts required at each Affinity Rank is described in Casting Spells.

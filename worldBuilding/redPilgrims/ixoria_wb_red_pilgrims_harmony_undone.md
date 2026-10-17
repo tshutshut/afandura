@@ -33,51 +33,51 @@ The oldest teachings of the Red Pilgrims are preserved in the Red Book, a collec
 One of its foundational passages is traditionally recited when the nature of the Veil, the Wounds, and the duty of the Pilgrims are taught:
 
 > In the elder days, ere the Wound was made, the worlds were joined beneath the Veil.
-
+>
 > The flesh knew the unseen, and the unseen touched the flesh.
-
+>
 > Neither world held dominion over the other, for such was the First Harmony.
-
+>
 > Then came the Hunger Beyond.
-
+>
 > It beheld the world of flesh and desired to consume it.
-
+>
 > Ten hands did it raise against the Veil, and three mouths did it open.
-
+>
 > Thirteen places did it seize.
-
+>
 > Thirteen wounds did it make.
-
+>
 > Yet the Hunger Beyond knew not the Law of Returning.
-
+>
 > For what is done unto one world is carried unto the other.
-
+>
 > The hand that tears shall be torn. The mouth that bites shall bear the wound.
-
+>
 > Thus was the Hunger Beyond wounded by the wound of its own making.
-
+>
 > And when the thirteenth wound was made, the tearing ceased.
-
+>
 > The wounds held fast to the Hunger Beyond, and that which it had opened became its prison.
-
+>
 > It could neither enter nor depart.
-
+>
 > The Wounds remained open, yet the passage was closed.
-
+>
 > The worlds were parted, and the Red Line was made.
-
+>
 > Therefore let none heal the Wounds.
-
+>
 > Let none abandon the Line.
-
+>
 > Let none forget what lies beyond the Veil.
-
+>
 > For the Wounds are the bindings.
-
+>
 > The Line is the chain.
-
+>
 > Walk the Wounds in their order.
-
+>
 > Walk them without ending.
-
+>
 > For while the Line is kept, the worlds remain apart.

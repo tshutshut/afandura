@@ -10,14 +10,14 @@ Each spell is presented through a stat block containing its individual propertie
 
 The information is presented in the following order:
 
-- **Name**
-- **Description**
-- **Spell Branch**
-- **Complexity** — Tier I to Tier V
-- **Damage / Effect**
-- **Range / Area of Effect**
-- **Duration**
-- **Usage Limits** — Unlimited, Once per Long Rest, or another restriction when applicable
+- Name
+- Description
+- Spell Branch
+- Complexity — Tier I to Tier V
+- Damage / Effect
+- Range / Area of Effect
+- Duration
+- Usage Limits — Unlimited, Once per Long Rest, or another restriction when applicable
 
 Proficiency is not part of a spell's stat block. It belongs to the player and represents their experience with the Spell Branch to which the spell belongs.
 
@@ -27,11 +27,11 @@ Complexity represents the inherent difficulty of a spell. It is fixed for each s
 
 | Complexity | Description |
 |---|---|
-| **Tier I** | Simple spells producing minor or straightforward magical effects. |
-| **Tier II** | More involved spells requiring greater control or producing more substantial effects. |
-| **Tier III** | Advanced spells capable of producing significant magical effects. |
-| **Tier IV** | Powerful spells requiring considerable magical control to cast successfully. |
-| **Tier V** | The most complex spells, representing exceptionally difficult and powerful uses of magic. |
+| Tier I | Simple spells producing minor or straightforward magical effects. |
+| Tier II | More involved spells requiring greater control or producing more substantial effects. |
+| Tier III | Advanced spells capable of producing significant magical effects. |
+| Tier IV | Powerful spells requiring considerable magical control to cast successfully. |
+| Tier V | The most complex spells, representing exceptionally difficult and powerful uses of magic. |
 
 ## 2. Casting Difficulty
 
@@ -45,11 +45,11 @@ Proficiency is divided into five levels:
 
 | Proficiency | Description |
 |---|---|
-| **Novice** | The player has little experience with the Spell Branch. Its magic remains unfamiliar, and even relatively simple spells may require concentration and effort to cast successfully. |
-| **Apprentice** | The player has developed a basic understanding of the Spell Branch. Simple spells have become familiar, while more complex magic still presents a considerable challenge. |
-| **Practiced** | The player is comfortable with the Spell Branch and has repeatedly used magic belonging to it. Basic spells require little effort, and more demanding spells can be attempted with greater confidence. |
-| **Expert** | The player has extensive experience with the Spell Branch. Most of its magic has become familiar, leaving only its most complex spells difficult to perform. |
-| **Master** | The player possesses exceptional familiarity with the Spell Branch. Even highly complex magic can be attempted with confidence, while lesser spells have become routine. |
+| Novice | The player has little experience with the Spell Branch. Its magic remains unfamiliar, and even relatively simple spells may require concentration and effort to cast successfully. |
+| Apprentice | The player has developed a basic understanding of the Spell Branch. Simple spells have become familiar, while more complex magic still presents a considerable challenge. |
+| Practiced | The player is comfortable with the Spell Branch and has repeatedly used magic belonging to it. Basic spells require little effort, and more demanding spells can be attempted with greater confidence. |
+| Expert | The player has extensive experience with the Spell Branch. Most of its magic has become familiar, leaving only its most complex spells difficult to perform. |
+| Master | The player possesses exceptional familiarity with the Spell Branch. Even highly complex magic can be attempted with confidence, while lesser spells have become routine. |
 
 A Spell Branch in which the player has never practiced has no developed Proficiency. When the player first begins using magic from that branch, they begin as a Novice.
 
@@ -61,22 +61,22 @@ Casting Difficulty is determined by comparing the spell's Complexity with the pl
 
 | Spell Tier | Novice | Apprentice | Practiced | Expert | Master |
 |---|---|---|---|---|---|
-| **Tier I** | Easy | Easy | Automatic | Automatic | Automatic |
-| **Tier II** | Moderate | Easy | Easy | Automatic | Automatic |
-| **Tier III** | Hard | Moderate | Easy | Easy | Automatic |
-| **Tier IV** | Very Hard | Hard | Moderate | Easy | Easy |
-| **Tier V** | Nearly Impossible | Very Hard | Hard | Moderate | Easy |
+| Tier I | Easy | Easy | Automatic | Automatic | Automatic |
+| Tier II | Moderate | Easy | Easy | Automatic | Automatic |
+| Tier III | Hard | Moderate | Easy | Easy | Automatic |
+| Tier IV | Very Hard | Hard | Moderate | Easy | Easy |
+| Tier V | Nearly Impossible | Very Hard | Hard | Moderate | Easy |
 
 The resulting difficulty determines the roll required for the spell to succeed:
 
 | Difficulty | Required Roll |
 |---|---|
-| **Automatic** | No roll required |
-| **Easy** | d20 ≥ 6 |
-| **Moderate** | d20 ≥ 10 |
-| **Hard** | d20 ≥ 14 |
-| **Very Hard** | d20 ≥ 17 |
-| **Nearly Impossible** | Natural 20 only |
+| Automatic | No roll required |
+| Easy | d20 ≥ 6 |
+| Moderate | d20 ≥ 10 |
+| Hard | d20 ≥ 14 |
+| Very Hard | d20 ≥ 17 |
+| Nearly Impossible | Natural 20 only |
 
 A critical success or critical failure follows the normal game rules and is interpreted by the Game Master.
 
@@ -112,11 +112,11 @@ Each Affinity Rank reduces the number of successful casts required to advance Pr
 
 | Affinity Rank | Novice → Apprentice | Apprentice → Practiced | Practiced → Expert | Expert → Master |
 |---|---|---|---|---|
-| **0 — No Affinity** | 12 | 24 | 36 | 48 |
-| **1** | 11 | 22 | 32 | 43 |
-| **2** | 10 | 19 | 29 | 38 |
-| **3** | 8 | 17 | 25 | 34 |
-| **4** | 7 | 14 | 22 | 29 |
+| 0 — No Affinity | 12 | 24 | 36 | 48 |
+| 1 | 11 | 22 | 32 | 43 |
+| 2 | 10 | 19 | 29 | 38 |
+| 3 | 8 | 17 | 25 | 34 |
+| 4 | 7 | 14 | 22 | 29 |
 
 Values are rounded to the nearest whole successful cast.
 

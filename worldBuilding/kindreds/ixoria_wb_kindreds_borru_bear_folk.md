@@ -82,19 +82,19 @@ At the center of the celebration stand the Thirteen Fires. Each day, a different
 
 | Day | Quality | Tree | Borru Name |
 |---|---|---|---|
-| **1** | **Endurance** | Scots Pine (*Pinus sylvestris*) | **Sylvarr** |
-| **2** | **Patience** | Silver Fir (*Abies alba*) | **Albarr** |
-| **3** | **Strength** | Norway Spruce (*Picea abies*) | **Piecarr** |
-| **4** | **Courage** | European Larch (*Larix decidua*) | **Decivarr** |
-| **5** | **Defiance** | Black Pine (*Pinus nigra*) | **Pinurarr** |
-| **6** | **Judgment** | Common Juniper (*Juniperus communis*) | **Junarr** |
-| **7** | **Kinship** | Mastic Tree (*Pistacia lentiscus*) | **Pistarr** |
-| **8** | **Hospitality** | Cedar of Lebanon (*Cedrus libani*) | **Lebnarr** |
-| **9** | **Wisdom** | Douglas Fir (*Pseudotsuga menziesii*) | **Menzarr** |
-| **10** | **Memory** | Swiss Stone Pine (*Pinus cembra*) | **Cembarr** |
-| **11** | **Humility** | Spanish Fir (*Abies pinsapo*) | **Abisarr** |
-| **12** | **Resolve** | Dragon Blood Tree (*Dracaena draco*) | **Dracarr** |
-| **13** | **Ingenuity** | Frankincense Tree (*Boswellia sacra*) | **Bosarr** |
+| 1 | Endurance | Scots Pine (*Pinus sylvestris*) | Sylvarr |
+| 2 | Patience | Silver Fir (*Abies alba*) | Albarr |
+| 3 | Strength | Norway Spruce (*Picea abies*) | Piecarr |
+| 4 | Courage | European Larch (*Larix decidua*) | Decivarr |
+| 5 | Defiance | Black Pine (*Pinus nigra*) | Pinurarr |
+| 6 | Judgment | Common Juniper (*Juniperus communis*) | Junarr |
+| 7 | Kinship | Mastic Tree (*Pistacia lentiscus*) | Pistarr |
+| 8 | Hospitality | Cedar of Lebanon (*Cedrus libani*) | Lebnarr |
+| 9 | Wisdom | Douglas Fir (*Pseudotsuga menziesii*) | Menzarr |
+| 10 | Memory | Swiss Stone Pine (*Pinus cembra*) | Cembarr |
+| 11 | Humility | Spanish Fir (*Abies pinsapo*) | Abisarr |
+| 12 | Resolve | Dragon Blood Tree (*Dracaena draco*) | Dracarr |
+| 13 | Ingenuity | Frankincense Tree (*Boswellia sacra*) | Bosarr |
 
 The lighting of each fire marks the beginning of a new day of festivities. Some days are loud with contests, music, cooking, and drinking; others are quieter, given to storytelling, remembrance, or the settling of old disputes. The fires provide a common rhythm to the celebration, and their smoke can be seen rising above the valleys for miles.
 

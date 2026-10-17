@@ -4,17 +4,17 @@ The empire Aurelia founded became known as the Aurelate, ushering in an era of u
 
 ## The Beacons
 
-1. **Aurelia the Wayfinder** — Founder of the Aurelate. She rediscovered the Veilsteps and united the continent into a single empire.
-2. **Lyra the Steadfast** — Consolidated Aurelia's achievements, strengthening the institutions of the young empire.
-3. **Caelum the Unifier** — Expanded the Aurelate largely through diplomacy, peacefully bringing additional lands into the empire.
-4. **Elenna the Enlightened** — Encouraged scholarship, learning, and preservation of knowledge throughout the realm.
-5. **Tiber the Watchful** — Focused on defending the empire and securing its borders during a period of growing external threats.
-6. **Alaric the Stern** — A disciplined ruler remembered for strict justice and efficient administration.
-7. **Rhea the Resolute** — Guided the empire through mounting internal tensions while preserving stability.
-8. **Gavran the Burdened** — Inherited increasing political unrest and struggled beneath the weight of a declining empire.
-9. **Nyra the Tempest** — Ruled during a turbulent period marked by instability and accelerating decline.
-10. **Loras the Forsaken** — The final fully empowered Beacon. Knowing that his heir possessed no ability to awaken the Veilsteps, Loras concealed the truth from the empire in the hope that stability could be maintained.
-11. **Aster the Broken** — Ascending the throne at age twenty-eight, Aster inherited a realm built upon a secret. When he attempted to fulfill the sacred duty of every Beacon, the Veilsteps remained silent. Across the continent, gateways ceased to function, severing communication, trade, and rapid travel. Without the Veilsteps, the Aurelate fragmented into rival successor states. No one knows what became of Aster after the collapse of the Aurelate. Some legends claim he died during the first days of the empire's fall. Others insist he abandoned the throne and wandered the world in search of a way to restore the Veilsteps. The most enduring myth tells of a hidden Beacon who still lives, waiting for the day the ancient gateways awaken once more.
+1. Aurelia the Wayfinder — Founder of the Aurelate. She rediscovered the Veilsteps and united the continent into a single empire.
+2. Lyra the Steadfast — Consolidated Aurelia's achievements, strengthening the institutions of the young empire.
+3. Caelum the Unifier — Expanded the Aurelate largely through diplomacy, peacefully bringing additional lands into the empire.
+4. Elenna the Enlightened — Encouraged scholarship, learning, and preservation of knowledge throughout the realm.
+5. Tiber the Watchful — Focused on defending the empire and securing its borders during a period of growing external threats.
+6. Alaric the Stern — A disciplined ruler remembered for strict justice and efficient administration.
+7. Rhea the Resolute — Guided the empire through mounting internal tensions while preserving stability.
+8. Gavran the Burdened — Inherited increasing political unrest and struggled beneath the weight of a declining empire.
+9. Nyra the Tempest — Ruled during a turbulent period marked by instability and accelerating decline.
+10. Loras the Forsaken — The final fully empowered Beacon. Knowing that his heir possessed no ability to awaken the Veilsteps, Loras concealed the truth from the empire in the hope that stability could be maintained.
+11. Aster the Broken — Ascending the throne at age twenty-eight, Aster inherited a realm built upon a secret. When he attempted to fulfill the sacred duty of every Beacon, the Veilsteps remained silent. Across the continent, gateways ceased to function, severing communication, trade, and rapid travel. Without the Veilsteps, the Aurelate fragmented into rival successor states. No one knows what became of Aster after the collapse of the Aurelate. Some legends claim he died during the first days of the empire's fall. Others insist he abandoned the throne and wandered the world in search of a way to restore the Veilsteps. The most enduring myth tells of a hidden Beacon who still lives, waiting for the day the ancient gateways awaken once more.
 
 | Beacon | Age at Accession | Years Reigned | Age at Death / Fate |
 |---|---|---|---|

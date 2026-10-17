@@ -2,7 +2,7 @@
 
 ## The Nyr
 
-Known to outsiders simply as the **Ravenfolk** or **Crowfolk**, the Nyr have no homeland, kingdom, or central realm. They are scattered throughout the continent, living and working wherever their particular skills are needed. They gather in small groups known as **Nyriad**, but no central government or authority appears to unite them.
+Known to outsiders simply as the Ravenfolk or Crowfolk, the Nyr have no homeland, kingdom, or central realm. They are scattered throughout the continent, living and working wherever their particular skills are needed. They gather in small groups known as Nyriad, but no central government or authority appears to unite them.
 
 The Nyr are almost always encountered beneath layers of black, translucent clothing. Their hoods conceal most of their faces, leaving only their beaks visible, while their wings remain folded behind their backs beneath the cloth. This gives them an unusual, hunched silhouette when they walk. Despite being capable of flight, Nyr generally keep their wings concealed and walk when moving through settlements.
 
@@ -22,13 +22,13 @@ They may be called upon to collect corpses, investigate or identify diseases, de
 
 ## The Royal Nyr
 
-The Nyr have no known central government, and no ordinary system of centralized leadership has been identified among them. Nevertheless, there are persistent accounts of mysterious **royal Nyr** or other central figures who are almost never encountered by outsiders.
+The Nyr have no known central government, and no ordinary system of centralized leadership has been identified among them. Nevertheless, there are persistent accounts of mysterious royal Nyr or other central figures who are almost never encountered by outsiders.
 
 Their true nature, authority, organization, and relationship with ordinary Nyr remain unknown.
 
 ## The Veilsteps
 
-The Nyr are unique among the known peoples of the realm in having categorically refused to use the **Veilsteps**.
+The Nyr are unique among the known peoples of the realm in having categorically refused to use the Veilsteps.
 
 When Aurelia activated the Veilsteps and began using them to unite the Aurelate, the Nyr had access to the network but deliberately refused to travel through it. They continued to travel by traditional means: on foot, by wing, by boat, and by other conventional forms of transportation.
 
@@ -48,19 +48,19 @@ It is not uncommon for flocks of birds to approach a newly arrived Nyriad. The N
 
 | Bird | Scientific Name | Nyr Name | Association |
 |---|---|---|---|
-| Great Tit | *Parus major* | **Parvek** | Settlements, households, markets, and ordinary activity |
-| European Robin | *Erithacus rubecula* | **Rubek** | Individuals, gardens, and activity around people |
-| European Starling | *Sturnus vulgaris* | **Sturvek** | Crowds, gatherings, caravans, and large movements |
-| Eurasian Wren | *Troglodytes troglodytes* | **Troglek** | Hidden places, ruins, gardens, and enclosed spaces |
-| White Wagtail | *Motacilla alba* | **Motrek** | Roads, travelers, bridges, riverbanks, and open ground |
-| Barn Swallow | *Hirundo rustica* | **Hirvek** | Long-distance movement and distant activity |
-| Eurasian Jackdaw | *Coloeus monedula* | **Mondek** | Other corvids and particularly trusted relationships |
-| House Sparrow | *Passer domesticus* | **Domvek** | Everyday human activity around settlements |
-| Pigeon | *Columba livia* | **Murrik** | Unreliable information; generally despised by the Nyr |
+| Great Tit | *Parus major* | Parvek | Settlements, households, markets, and ordinary activity |
+| European Robin | *Erithacus rubecula* | Rubek | Individuals, gardens, and activity around people |
+| European Starling | *Sturnus vulgaris* | Sturvek | Crowds, gatherings, caravans, and large movements |
+| Eurasian Wren | *Troglodytes troglodytes* | Troglek | Hidden places, ruins, gardens, and enclosed spaces |
+| White Wagtail | *Motacilla alba* | Motrek | Roads, travelers, bridges, riverbanks, and open ground |
+| Barn Swallow | *Hirundo rustica* | Hirvek | Long-distance movement and distant activity |
+| Eurasian Jackdaw | *Coloeus monedula* | Mondek | Other corvids and particularly trusted relationships |
+| House Sparrow | *Passer domesticus* | Domvek | Everyday human activity around settlements |
+| Pigeon | *Columba livia* | Murrik | Unreliable information; generally despised by the Nyr |
 
 ### The Murrik
 
-The Nyr have an almost universal disdain for pigeons, or **Murrik**. Their objection is not simply that pigeons are unintelligent. Rather, the Nyr consider them terrible informants.
+The Nyr have an almost universal disdain for pigeons, or Murrik. Their objection is not simply that pigeons are unintelligent. Rather, the Nyr consider them terrible informants.
 
 Pigeons witness enormous amounts of human activity, but appear incapable of distinguishing what matters from what does not. A Murrik may witness a murder, a wedding, a merchant caravan, and someone dropping a piece of bread, yet offer no useful distinction between any of them. Their opportunistic nature only reinforces the Nyr's distrust.
 
@@ -68,7 +68,7 @@ The Nyr therefore consider pigeons a source of noise rather than useful informat
 
 ## The Night of Bells
 
-Every sixty-six days, the Nyr observe a night known simply as the **Night of Bells**. It is one of the few traditions shared by Nyr across the continent, despite the absence of any central authority or common homeland. On that night, the Nyr leave their dwellings and gradually converge upon a place they have designated within their settlement as the gathering place. It need not be a central square, nor is it necessarily a place of importance to the people who live there. It belongs to the Nyr because the Nyr have chosen it.
+Every sixty-six days, the Nyr observe a night known simply as the Night of Bells. It is one of the few traditions shared by Nyr across the continent, despite the absence of any central authority or common homeland. On that night, the Nyr leave their dwellings and gradually converge upon a place they have designated within their settlement as the gathering place. It need not be a central square, nor is it necessarily a place of importance to the people who live there. It belongs to the Nyr because the Nyr have chosen it.
 
 As the night progresses, Nyr emerge from alleys, houses, workshops, and hidden quarters, all dressed in their familiar black shrouds. They gather until the designated place becomes a dense, almost motionless mass of black figures. From a distance, the gathering can appear less like a crowd of individuals than a single dark shape occupying the square.
 
@@ -88,10 +88,10 @@ The movement is therefore neither an exodus nor a journey toward a single destin
 
 ## The Passing of the Black Mantle
 
-Every city with a longstanding Nyr presence eventually has its **Nyrath**. The Nyrath is a veteran Nyr who has remained in the city for many years, sometimes decades, and has accumulated an extraordinary body of knowledge about the place: its people, its streets, its hidden corners, its dangers, its customs, and the countless things that a Nyr may be called upon to deal with.
+Every city with a longstanding Nyr presence eventually has its Nyrath. The Nyrath is a veteran Nyr who has remained in the city for many years, sometimes decades, and has accumulated an extraordinary body of knowledge about the place: its people, its streets, its hidden corners, its dangers, its customs, and the countless things that a Nyr may be called upon to deal with.
 
-The position is not one of conventional rulership. The Nyrath does not command every Nyr in the city, nor does the title appear to be formally bestowed by any central authority. Instead, it represents **standing, memory, and accumulated knowledge**. A Nyrath is the one who has been there long enough to remember what others have forgotten.
+The position is not one of conventional rulership. The Nyrath does not command every Nyr in the city, nor does the title appear to be formally bestowed by any central authority. Instead, it represents standing, memory, and accumulated knowledge. A Nyrath is the one who has been there long enough to remember what others have forgotten.
 
 When the Nyrath decides that their time has come to leave, they choose their successor from within their own Nyriad. The choice is theirs alone. The departing Nyrath passes on what they know, along with the standing and responsibilities that accompany the position. Once this passage is complete, the former Nyrath simply leaves.
 
-Nobody outside the Nyr truly knows where such Nyr go. Some are said to join the great migrations. Others disappear onto the roads and are never seen again. The Nyr do not appear troubled by this uncertainty. To them, the departure is not an ending, but another passage: **knowledge remains, the position remains, and the Nyrath moves on.**
+Nobody outside the Nyr truly knows where such Nyr go. Some are said to join the great migrations. Others disappear onto the roads and are never seen again. The Nyr do not appear troubled by this uncertainty. To them, the departure is not an ending, but another passage: knowledge remains, the position remains, and the Nyrath moves on.
