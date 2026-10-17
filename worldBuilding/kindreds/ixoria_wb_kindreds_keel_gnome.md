@@ -1,4 +1,4 @@
-# WB - Kindreds - Keel
+# The Keel (Gnome)
 
 The Keel, known elsewhere as gnomes, are among the most intellectually driven peoples of Ixoria. Their societies place extraordinary value upon learning, investigation, invention and, above all, contribution. Intelligence is admired among them, but intelligence alone is not considered an accomplishment. A Kell may spend decades studying a subject and acquire formidable expertise, yet ultimately be judged by a much more difficult question: what did they do with what they knew?
 

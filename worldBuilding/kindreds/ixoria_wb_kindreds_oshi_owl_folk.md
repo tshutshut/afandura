@@ -1,4 +1,4 @@
-# The Oshi
+# The Oshi (Owl Folk)
 
 ## The Quiet Kindred
 

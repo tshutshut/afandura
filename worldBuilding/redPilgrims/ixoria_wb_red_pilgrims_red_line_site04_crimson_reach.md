@@ -1,4 +1,4 @@
-# The Crimson Reach
+# Site 04 — The Crimson Reach
 
 The Fourth Wound lies near the heart of a fertile island where the land itself appears to change as one travels inland. Near the coast, there is little to distinguish the island from others in the southeastern reaches. Its grasses are green and brown, its trees carry ordinary foliage, and insects and small animals display the colors expected of their kind. The transformation begins gradually. Red appears first in small and easily overlooked places: along the veins of leaves, at the tips of grasses, across patches of lichen, or upon the shells and wings of insects. Farther inland these traces become increasingly pronounced, until scarlet, crimson, burgundy, and deep wine-red begin to dominate the living landscape.
 

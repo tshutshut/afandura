@@ -1,4 +1,4 @@
-# The Amdir
+# Amdir
 
 ## The Kindred of Lasting Works
 

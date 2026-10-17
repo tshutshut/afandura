@@ -13,8 +13,6 @@ This document contains the rules needed to create a playable character in Ixoria
 7. Record Natural Armor Class.
 8. Determine Magical Affinity, if applicable.
 
----
-
 ## Step 1 — Choose a Race
 
 ### The Races of Ixoria
@@ -23,34 +21,31 @@ Choose your character's race from the table below. Each race modifies the six at
 
 All attributes begin at 10. The symbols in the table indicate how much should later be added to or subtracted from that starting value.
 
-**Modifier Key:**
-
+**Modifier Key:**\
 ++ : +4 // + : +2 // = : 0 // − : −2 // −− : −4
 
 | Race | STR | AGI | END | PER | INT | CHA | Description |
-|---|:---:|:---:|:---:|:---:|:---:|:---:|---|
-| Human | = | = | = | = | = | = | |
-| Elf (Eren) | − | + | − | ++ | + | = | |
-| Dwarf (Amdir) | + | − | ++ | = | = | − | |
-| Halfling | −− | ++ | − | + | = | + | |
-| Gnome (Keel) | −− | + | − | = | ++ | = | |
-| Half-Elf | = | = | = | + | = | + | |
-| Half-Orc | ++ | = | + | − | − | −− | |
-| Dragonborn (Aevra) | + | − | + | = | = | + | |
-| Tiefling (Ilie) | − | = | = | + | + | ++ | |
-| Wolf Beastkin | = | + | + | ++ | − | = | |
-| Dog Beastkin | = | = | + | + | − | ++ | |
-| Cat Beastkin | − | ++ | − | + | = | = | |
-| Lion Beastkin | ++ | = | + | = | − | + | |
-| Fox Beastkin (Suli) | − | + | − | + | ++ | = | |
-| Bear Beastkin (Borru) | + | −− | ++ | + | −− | = | |
-| Owl Beastkin (Oshi) | − | + | − | ++ | + | = | |
-| Crow Beastkin (Nyr) | − | + | − | + | ++ | = | |
-| Frog Beastkin (Keluma) | −− | ++ | = | + | + | − | |
-| Lizard Beastkin | = | + | ++ | = | − | − | |
-| Monkey Beastkin | − | ++ | − | = | + | + | |
-
----
+|---|---|---|---|---|---|---|---|
+| Human | = | = | = | = | = | = |  |
+| Elf (Eren) | − | + | − | ++ | + | = |  |
+| Dwarf (Amdir) | + | − | ++ | = | = | − |  |
+| Halfling | −− | ++ | − | + | = | + |  |
+| Gnome (Keel) | −− | + | − | = | ++ | = |  |
+| Half-Elf | = | = | = | + | = | + |  |
+| Half-Orc | ++ | = | + | − | − | −− |  |
+| Dragonborn (Aevra) | + | − | + | = | = | + |  |
+| Tiefling (Ilie) | − | = | = | + | + | ++ |  |
+| Wolf Beastkin | = | + | + | ++ | − | = |  |
+| Dog Beastkin | = | = | + | + | − | ++ |  |
+| Cat Beastkin | − | ++ | − | + | = | = |  |
+| Lion Beastkin | ++ | = | + | = | − | + |  |
+| Fox Beastkin (Suli) | − | + | − | + | ++ | = |  |
+| Bear Beastkin (Borru) | + | −− | ++ | + | −− | = |  |
+| Owl Beastkin (Oshi) | − | + | − | ++ | + | = |  |
+| Crow Beastkin (Nyr) | − | + | − | + | ++ | = |  |
+| Frog Beastkin (Keluma) | −− | ++ | = | + | + | − |  |
+| Lizard Beastkin | = | + | ++ | = | − | − |  |
+| Monkey Beastkin | − | ++ | − | = | + | + |  |
 
 ## Step 2 — Choose a Class
 
@@ -59,7 +54,7 @@ Choose a class for your character. Each class reflects a way of life, training, 
 Mechanically, every class grants **+2 to one attribute** and **+1 to another**, while imposing a **−1 penalty on one attribute**. Your chosen class also provides an **HP Bonus**, which will be used when calculating your Hit Points during Step 6.
 
 | Class | +2 Attribute | +1 Attribute | −1 Attribute | HP Bonus |
-|---|:---:|:---:|:---:|:---:|
+|---|---|---|---|---|
 | Barbarian | STR | END | CHA | +3 |
 | Bard | CHA | PER | STR | +0 |
 | Devout | PER | CHA | STR | +1 |
@@ -71,8 +66,6 @@ Mechanically, every class grants **+2 to one attribute** and **+1 to another**, 
 | Mage | INT | PER | STR | +0 |
 | Warlock | CHA | END | PER | +0 |
 
----
-
 ## Step 3 — Choose an Alignment
 
 Alignment provides a simple way to describe your character's general moral outlook and their relationship with order and freedom. Choose one of the nine alignments below.
@@ -83,8 +76,6 @@ Alignment provides a simple way to describe your character's general moral outlo
 | **Neutral** | Lawful Neutral | True Neutral | Chaotic Neutral |
 | **Evil** | Lawful Evil | Neutral Evil | Chaotic Evil |
 
----
-
 ## Step 4 — Determine Your Social Class
 
 Your character's social class determines their initial wealth and access to equipment. This step is optional and should be decided together with the GM according to the character you wish to play.
@@ -92,7 +83,7 @@ Your character's social class determines their initial wealth and access to equi
 If you prefer to leave your character's circumstances to chance, roll **1d100**. Alternatively, roll **two d10s**, using one die for the tens and the other for the units. If a particular background or social position is important to your character, you and the GM may instead choose the appropriate social class directly.
 
 | d100 | Social Class |
-|---:|---|
+|---|---|
 | 1–10 | Down and Out |
 | 11–25 | Street Urchin |
 | 26–45 | Wanderer |
@@ -101,8 +92,6 @@ If you prefer to leave your character's circumstances to chance, roll **1d100**.
 | 86–95 | Privileged |
 | 96–100 | Noble |
 
----
-
 ## Step 5 — Calculate Your Attributes and Modifiers
 
 All six attributes begin at **10**. Apply the race modifiers from Step 1 and then add the bonuses granted by your class in Step 2. The resulting values are your character's final attribute scores.
@@ -110,7 +99,7 @@ All six attributes begin at **10**. Apply the race modifiers from Step 1 and the
 Once these scores have been calculated, use the table below to determine the modifier associated with each attribute.
 
 | Attribute Score | Modifier |
-|---|---:|
+|---|---|
 | 1 | −5 |
 | 2–3 | −4 |
 | 4–5 | −3 |
@@ -130,14 +119,12 @@ Once these scores have been calculated, use the table below to determine the mod
 
 Record the final score and modifier for each of the six attributes:
 
-Strength (STR)  
-Agility (AGI)  
-Endurance (END)  
-Perception (PER)  
-Intelligence (INT)  
-Charisma (CHA)
-
----
+- Strength (STR)
+- Agility (AGI)
+- Endurance (END)
+- Perception (PER)
+- Intelligence (INT)
+- Charisma (CHA)
 
 ## Step 6 — Calculate Hit Points
 
@@ -147,8 +134,6 @@ Your character's Hit Points are calculated using their **Endurance modifier** fr
 
 Record the resulting value as your character's starting Hit Points.
 
----
-
 ## Step 7 — Record Natural Armor Class
 
 Each race has a Natural Armor Class (Natural AC). Find your character's race in the table below and record the corresponding value.
@@ -156,7 +141,7 @@ Each race has a Natural Armor Class (Natural AC). Find your character's race in 
 Natural AC represents the protection provided naturally by your character's body. It applies only when the character is not wearing armor. If armor is worn, its AC replaces the character's Natural AC.
 
 | Race | Natural AC |
-|---|:---:|
+|---|---|
 | Human | 5 |
 | Elf (Eren) | 5 |
 | Dwarf (Amdir) | 6 |
@@ -177,9 +162,6 @@ Natural AC represents the protection provided naturally by your character's body
 | Frog Beastkin (Keluma) | 5 |
 | Lizard Beastkin | 6 |
 | Monkey Beastkin | 5 |
-
-
----
 
 ## Step 8 — Determine Magical Affinity
 
@@ -209,7 +191,7 @@ Magic is divided into seven Spell Branches. Each branch describes the kind of ch
 
 ### Affinity Points
 
-Every magic-wielding character begins with **4 Affinity Points**.
+Every magic-wielding character begins with 4 Affinity Points.
 
 During character creation, distribute these points among the Spell Branches for which your character has a natural affinity. All four points may be placed in a single Spell Branch, or they may be divided among several branches.
 
@@ -221,7 +203,7 @@ Possible distributions include:
 - 2 + 1 + 1
 - 1 + 1 + 1 + 1
 
-The number of Affinity Points assigned to a Spell Branch determines its **Affinity Rank**, from 1 to 4.
+The number of Affinity Points assigned to a Spell Branch determines its Affinity Rank, from 1 to 4.
 
 A Spell Branch with no assigned Affinity Points has an Affinity Rank of 0.
 

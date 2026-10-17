@@ -1,298 +1,56 @@
-# WB - Kindreds - The Keluma
+# The Keluma
 
-## The Keluma
+## Life Among the Magnolias
 
-Known to outsiders simply as the **Frogfolk** or **Frog Beastkin**, the
-Keluma inhabit an immense swamp unlike any other in the realm. They call
-themselves **the Keluma**, a name that predates the rise of the
-Aurelate.
+The Keluma, known to outsiders simply as Frogfolk or Frog Beastkin, inhabit an immense swamp unlike any other in the realm. They call themselves the Keluma, a name that predates the rise of the Aurelate. At the heart of their homeland stands a single ancient magnolia, believed to be several centuries old. It belongs equally to every Keluma, and no Bloom may claim ownership of it. Its flowers are unlike those of any other magnolia in the world, and the tree remains at the center of Keluma life.
 
-### The Sacred Magnolia
+The forest surrounding it is not truly a single tree, though it may appear so to those who enter it. It is an immense network of magnolias of different ages, with the oldest trees gathered around the sacred magnolia and progressively younger growth extending outward into the swamp. Generations of layering and cuttings have caused trunks to fuse, branches to intertwine, and rooted limbs to become new trees. Homes, bridges, and shrines have been woven into this living forest, until the boundary between settlement and woodland has become difficult to distinguish. The Keluma do not merely live among the magnolias. Their lives have become part of their growth.
 
-At the heart of the swamp stands a single ancient magnolia believed to
-be several centuries old. It belongs to every Keluma equally and no
-Bloom may claim ownership over it. Its flowers are unlike any other
-magnolia in the world.
+The Keluma measure the passage of life in Bloomings rather than years. Their society is divided not into castes, as outsiders sometimes believe, but into Blooms. To belong to a particular Bloom is not simply to inherit a family, occupation, or social position. Each Bloom represents a particular way of understanding the world, and each tends the groves of magnolias whose flowers bear its sacred color. Their garments reflect these colors, while woven patterns distinguish one Bloom from another. The customs and philosophies of the Blooms differ considerably, yet none is regarded as superior. Together, they form what the Keluma consider the living harmony of the forest.
 
-### The Living Forest
+- **Tavuun — The Cream-Colored Bloom**\
+  The Tavuun wear soft cream-colored garments marked by long, flowing lines resembling magnolia roots spreading beneath the swamp. They are known for their calm and deliberate nature and for their belief that wisdom, like the roots of an ancient tree, must be allowed to grow slowly.
+- **Koruun — The Purple-Colored Bloom**\
+  The Koruun wear deep purple garments embroidered with angular patterns inspired by magnolia petals and the polished shells of sacred beetles. They are decisive and disciplined, believing that hesitation has its place, but that once a decision has been made it should be carried through without fear.
+- **Keluun — The Jade-Colored Bloom**\
+  The Keluun wear rich green garments patterned with intertwining vines and young shoots. They hold that nothing in nature truly stands alone, and that every action sends unseen roots into the lives of others. Among the Keluma, they are known for seeking connections where others see separation.
+- **Osuun — The Azure-Colored Bloom**\
+  The Osuun wear blue robes decorated with gentle, wave-like patterns. Like flowing water, they value adaptability above certainty, and it is often said that an Osuun mind never stops moving.
+- **Deluun — The Crimson-Colored Bloom**\
+  The Deluun wear crimson garments whose patterns resemble petals opening toward the morning sun. They believe that life should be experienced fully and openly, and that joy, grief, courage, love, and sorrow should not be hidden. To suppress emotion is, in their eyes, to deny one's own Bloom.
+- **Ashuun — The Keepers**\
+  The Ashuun stand apart from the other Blooms. They possess no sacred flower color, and their garments are instead woven in muted greys, charcoal blacks, and ash-white tones. Their duties concern what is shared by the whole of Keluma society, and their greatest responsibility comes after every Blooming, when the blossoms have fallen and the forest floor is covered in petals. The Ashuun gather them and prepare the sacred burning through which the Blooming is symbolically returned to the living forest. Outsiders sometimes mistake them for servants, but among the Keluma they are regarded as those upon whom every other Bloom quietly depends.
 
-The Keluma live within what appears to be one colossal tree. In reality
-it is an immense network of magnolias of different ages. The oldest
-surround the sacred tree, while progressively younger trees extend
-outward. Through generations of layering and cuttings, trunks have
-fused, branches intertwined, and rooted limbs have become new growth.
-Homes, bridges and shrines are woven into this living forest.
+Each Bloom is guided by its own council of respected elders, yet none of these councils speaks for the Keluma as a whole. From among them, including the Ashuun, one individual is chosen to become the Voice. The Voice serves for life, but holds no authority as a monarch and commands none of the Blooms. Their purpose is to preserve harmony between them. When an elder becomes the Voice, they symbolically cease to belong to their former Bloom and from that day onward speak only for the Keluma as a whole. Only after their passing do historians once again remember the Bloom from which they came. On exceedingly rare occasions, an Ashuun has become the Voice, and such events are remembered as signs that the living forest itself desired humility over prominence.
 
-### Time
+When a new Voice must be chosen, each Bloom naturally favors elders who embody its own understanding of the world. The Tavuun seek those who know when silence is wiser than speech. The Koruun admire those who act without fear once a decision has been reached. The Keluun value those who perceive relationships invisible to others, while the Osuun look for those capable of changing without losing themselves. The Deluun honor those whose honesty inspires trust, and the Ashuun support those who have served faithfully without seeking recognition. Only when all these perspectives are considered together can a new Voice truly speak for the Keluma.
 
-The Keluma measure life in **Bloomings**, not years.
+## The Questions of the Blooms
 
-### The Blooms of the Keluma
+Every Keluma child learns that each Bloom asks a different question of the world. These questions are not treated as competing philosophies, nor is one considered more important than another. The Keluma instead regard them as complementary perspectives, each revealing something the others may overlook. Together, they form the wisdom of the living forest.
 
-The Keluma do not divide themselves into castes, as outsiders often believe.
+The Tavuun ask, "When should one wait?" The Koruun ask, "When should one act?" The Keluun ask, "How are all things connected?" The Osuun ask, "How should one adapt?" The Deluun ask, "What deserves to be expressed?" The Ashuun ask, "What must quietly endure?" These questions are not confined to ceremonies or teachings. They shape the way the Keluma understand even the smallest events of daily life.
 
-Instead, they speak of Blooms.
+To better understand the Keluma, it is therefore worth looking at how these questions appear in ordinary life. The differences between the Blooms are not found only in their teachings, but in the way each responds when something unexpected occurs.
 
-To bloom with a particular Bloom is not merely to belong to a family or occupation.
+When a child falls into the swamp, a Tavuun elder may first calm those around them before deciding how best to help. A Koruun hunter leaps into the water without hesitation. A Keluun healer considers what else may have caused the accident, while an Osuun guide searches for another route if the current one is dangerous. A Deluun parent comforts the frightened child before speaking of blame. An Ashuun may say little, instead preparing warm food and dry clothing for when the excitement has passed.
 
-It is to inherit a particular way of understanding the world.
+When a bridge is damaged after a storm, the Tavuun first consider whether the damage is likely to worsen before beginning repairs. The Koruun gather workers immediately. The Keluun examine the relationship between the river, the roots, and the bridge itself, while the Osuun may suggest altering the structure rather than rebuilding it as it was. The Deluun insist that the bridge remain beautiful as well as useful. Meanwhile, the Ashuun quietly repair the paths leading toward it while the others are still deciding what should be done.
 
-Each Bloom tends the groves of a magnolia whose flowers bear its sacred color.
+When two families quarrel, the Tavuun encourage silence until anger has cooled. The Koruun demand that the disagreement be settled before resentment can take root. The Keluun search for the older misunderstanding that may have led to the quarrel, while the Osuun look for a compromise neither family had considered. The Deluun encourage each side to speak honestly about what they feel. The Ashuun may prepare a shared meal, believing that people often speak more gently when eating together.
 
-Their garments are dyed to match those blossoms, while the woven patterns upon the fabric distinguish one Bloom from another.
+When a dangerous beast enters the forest, the Tavuun ask, "Must we act today?" The Koruun ask, "How do we stop it?" The Keluun ask, "Why has it come here?" The Osuun ask, "Can we change its path instead?" The Deluun ask, "What fear has this awakened among us?" The Ashuun quietly begin repairing whatever damage the creature leaves behind.
 
-Although every Bloom possesses its own customs and philosophy, no Bloom is considered superior to another.
+The questions of the Blooms are therefore not abstract teachings reserved for elders. They are present in the choices made by every Keluma. No single answer is expected to contain the whole truth. The forest is made of many trees, and the Keluma believe that understanding is much the same.
 
-Together, they form the living harmony of the forest.
+## The Blooming Festival
 
-#### Tavuun Bloom (The Cream-Colored Bloom)
+Once every Blooming, the magnolias flower for roughly three weeks. During this time, the swamp fills with intertwined fragrances, and visitors arrive from across the realm. Markets flourish, competitions are held, artists perform, and friendships are renewed. For the Keluma, however, the festival is more than a celebration. It is the point at which the different parts of their society come together and the living forest enters another stage of its cycle.
 
-Garments are woven from soft cream-colored fibers decorated with long, flowing lines resembling magnolia roots spreading beneath the swamp.
+The magnolias depend upon the great beetles that pollinate their flowers. The Keluma regard these insects as sacred companions and protect them throughout the forest. Their relationship with the beetles and the magnolias forms a threefold partnership, with the frogs, beetles, and trees each sustaining the others.
 
-To outsiders, the Tavuun appear calm, deliberate, and endlessly patient.
+Deep Listening is undertaken on the final night of the festival, beneath the full moon. Only a select few from each Bloom are chosen to consume their Bloom's flowers and enter this meditative state. The Keluma do not believe that the flowers grant visions. Instead, they believe that the flowers quiet the mind and allow what is already present within it to become clearer. The flowers of the central magnolia are never consumed. Its seeds are instead dried and ground into a ceremonial drink, producing an even deeper form of Deep Listening reserved only for the eldest spiritual leaders. The distinction is important to the Keluma, for the sacred magnolia does not belong to one Bloom and its flowers are not treated as ordinary blossoms.
 
-Among the Keluma, they are known for believing that wisdom grows slowly, much like the roots of an ancient tree.
+The experience differs from one Bloom to another. A Tavuun may return with greater patience, while a Koruun may emerge with renewed conviction. A Keluun may discover unexpected connections between ideas, while an Osuun may become willing to reconsider beliefs held for many years. A Deluun may return with words, songs, or tears they had previously been unable to express. The Ashuun rarely speak of what they experience at all.
 
-#### Koruun Bloom (The Purple-Colored  Bloom)
-
-Deep purple garments are embroidered with bold angular motifs inspired by magnolia petals and the polished shells of sacred beetles.
-
-Members of Koruun are often perceived as decisive and disciplined.
-
-To them, hesitation is not weakness—but once a decision is reached, it should be carried through without fear.
-
-#### Keluun Bloom (The Jade-Colored  Bloom)
-
-The Keluun wear rich green garments patterned with intertwining vines and young shoots.
-
-They believe that nothing in nature truly stands alone.
-
-Every action sends unseen roots into the lives of others.
-
-They are known throughout Keluma society for constantly seeking connections where others see separation.
-
-#### Osuun Bloom (The Azure-Colored  Bloom)
-
-Blue robes decorated with gentle wave-like patterns identify the Osuun.
-
-Like flowing water, they value adaptability above certainty.
-
-Among the Keluma it is often said that an Osuun mind never stops moving.
-
-#### Deluun Bloom (The Crimson-Colored  Bloom)
-
-The Deluun wear crimson garments woven with radiating patterns resembling petals opening toward the morning sun.
-
-They believe that life should be lived fully and openly.
-
-Joy, grief, courage, love, and sorrow should never be hidden.
-
-To suppress emotion is, in their eyes, to deny one's own Bloom.
-
-#### Ashuun (The Keepers)
-
-Unlike every other group, the Ashuun possess no sacred flower color.
-
-Their garments are woven in muted greys, charcoal blacks, and ash-white tones.
-
-They quietly maintain everything shared by the Keluma.
-
-Their greatest duty comes after every Blooming.
-
-While the festival concludes and the blossoms fall, the Ashuun gather the countless petals carpeting the forest floor.
-
-They prepare the sacred burning through which the Blooming is symbolically returned to the living forest.
-
-Among outsiders they are sometimes mistaken for servants.
-
-Among the Keluma, they are regarded as those upon whom every other Bloom quietly depends.
-
-### The Voice
-
-Each Bloom is guided by its own council of respected elders.
-
-From among all of these councils—including the Ashuun—one individual is chosen to become the Voice of the Keluma.
-
-The Voice serves for life.
-
-They are not a monarch.
-
-They do not command the Blooms.
-
-Instead, they exist to preserve harmony between them.
-
-When an elder becomes the Voice, they symbolically cease belonging to their former Bloom.
-
-From that day onward they speak only for the Keluma as a whole.
-
-Only after their passing do historians once again remember the Bloom from which they came.
-
-On exceedingly rare occasions, an Ashuun has become the Voice.
-
-Such events are remembered as signs that the living forest itself desired humility over prominence.
-
-### The Blooming Festival
-
-Once every Blooming, the magnolias flower for roughly three weeks. The
-swamp fills with intertwined fragrances and visitors arrive from across
-the realm. Markets flourish, competitions are held, artists perform and
-friendships are renewed.
-
-### Deep Listening
-
-Only a select few from each Bloom are chosen to consume their Bloom's
-blossoms.
-
-On the final night of the festival, beneath the full moon, they enter
-the meditative state known as **Deep Listening**. The Keluma believe the
-flowers quiet the mind rather than grant visions.
-
-### The Sacred Seeds
-
-The flowers of the central magnolia are never consumed. Instead, its
-seeds are dried, ground into a ceremonial drink that produces an even
-deeper form of Deep Listening, reserved only for the eldest spiritual
-leaders.
-
-### The Beetles
-
-Large beetles pollinate the magnolias. The Keluma protect these sacred
-companions, completing a threefold partnership between beetles,
-magnolias and frogs.
-
-### Growing the Forest
-
-The living forest is expanded not through seeds but by layering branches
-and propagating cuttings. Every new trunk is regarded as a continuation
-of the older trees.
-
-### The Burning of the Petals
-
-Only a tiny fraction of the blossoms are consumed.
-
-When the Blooming ends, millions of petals blanket the forest floor. The
-Ashuun gather them over several days before offering them to a
-great ceremonial fire. The fragrant smoke rises through the canopy,
-returning the Blooming to the living forest and completing the annual
-cycle.
-
-### The Questions of the Blooms
-
-Every Keluma child learns that each Bloom asks a different question of the world.
-
-Rather than competing philosophies, the Blooms are regarded as complementary perspectives. Together, they form the wisdom of the living forest.
-
-| Bloom      | Guiding Question                 |
-| ---------- | -------------------------------- |
-| **Tavuun** | *When should one wait?*          |
-| **Koruun** | *When should one act?*           |
-| **Keluun** | *How are all things connected?*  |
-| **Osuun**  | *How should one adapt?*          |
-| **Deluun** | *What deserves to be expressed?* |
-| **Ashuun** | *What must quietly endure?*      |
-
-### Life Among the Blooms
-
-#### A child falls into the swamp.
-
-A Tavuun elder first calms everyone before deciding how best to help.
-
-A Koruun hunter leaps into the water without hesitation.
-
-A Keluun healer immediately asks what else may have caused the accident.
-
-An Osuun guide searches for another route if the current one is dangerous.
-
-A Deluun parent comforts the frightened child before speaking of blame.
-
-An Ashuun quietly prepares warm food and dry clothing, knowing the child will need both when the excitement has passed.
-
-#### A bridge is damaged after a storm.
-
-Tavuun studies whether the damage will worsen before beginning repairs.
-
-Koruun gathers workers immediately.
-
-Keluun examines how the river, the roots, and the bridge all influence one another.
-
-Osuun proposes altering the bridge instead of rebuilding it exactly as before.
-
-Deluun insists the bridge should remain beautiful as well as useful.
-
-Ashuun quietly repairs the paths leading to the bridge while everyone argues.
-
-#### Two families quarrel.
-
-Tavuun encourages silence until anger cools.
-
-Koruun demands the disagreement be settled before resentment grows.
-
-Keluun searches for the older misunderstanding that led to today's argument.
-
-Osuun suggests a compromise neither family had considered.
-
-Deluun encourages each side to speak honestly of their feelings.
-
-Ashuun prepares a shared meal, believing people often speak more gently when eating together.
-
-#### A dangerous beast enters the forest.
-
-Koruun asks,
-
-"How do we stop it?"
-
-Tavuun asks,
-
-"Must we act today?"
-
-Keluun asks,
-
-"Why has it come here?"
-
-Osuun asks,
-
-"Can we change its path instead?"
-
-Deluun asks,
-
-"What fear has this awakened among us?"
-
-Ashuun quietly begins repairing whatever damage the creature leaves behind.
-
-### During Deep Listening
-
-Even the sacred flowers affect each Bloom differently.
-
-A Tavuun often returns with greater patience.
-
-A Koruun with renewed conviction.
-
-A Keluun with unexpected connections between ideas.
-
-An Osuun with a willingness to change long-held beliefs.
-
-A Deluun with words, songs, or tears they could never previously express.
-
-An Ashuun rarely speaks of what they experience at all.
-
-### Choosing the Voice
-
-When a new Voice must be chosen, every Bloom naturally favors elders who embody its own question.
-
-The Tavuun seek those who know when silence is wiser than speech.
-
-The Koruun admire those who act without fear once a decision has been reached.
-
-The Keluun value those who perceive relationships invisible to others.
-
-The Osuun look for those capable of changing without losing themselves.
-
-The Deluun honor those whose honesty inspires trust.
-
-The Ashuun support those who have served faithfully without seeking recognition.
-
-Only when all of these perspectives are considered together can a new Voice truly speak for the Keluma.
-
-### Creed
-
-"A single Bloom sees only one season. The forest sees them all."
+Only a tiny fraction of the blossoms are consumed during the festival. When the Blooming ends, millions of petals blanket the forest floor. The Ashuun gather them over several days before offering them to a great ceremonial fire. Fragrant smoke rises through the canopy, carrying the remains of the flowers back into the forest. Through this burning, the Keluma believe that the Blooming is returned to the living forest, completing the cycle and allowing the next one to begin.

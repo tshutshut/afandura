@@ -1,4 +1,4 @@
-# Aevra
+# The Aevra (Dragonborn)
 
 The **Aevra**, known to other peoples as Dragonborn, are one of the ancient Kindreds of Ixoria. Every Aevra carries the legacy of the dragons that fell in the distant past, and every Aevra is born with a natural connection to magic.
 

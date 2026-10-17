@@ -1,116 +1,60 @@
-# WB - Kindreds - Borru
+# Borru
 
-## Foundational Myth
+## The Ever-Rising
 
-The Borru are a strong-willed people whose ancestral homeland lies among vast mountains and deep valleys. Their understanding of their homeland begins with an ancient conflict between two primordial powers: the Ever-Rising, the first and greatest mountain, and Borrunai, the great Bear deity of the sky.
+The Borru trace the beginning of their people to an ancient conflict between two primordial powers: the Ever-Rising, the first and greatest of the mountains, and Borrunai, the great Bear of the sky. Their homeland, with its vast peaks and deep valleys, is believed to be the remains of that struggle.
 
-### The Ever-Rising
+The Ever-Rising was unlike any mountain that came after it. It never ceased to grow. Peak after peak rose from its body, year after year, century after century, until the mountain believed that nothing should stand above it. Driven by pride, it sought to rise beyond the clouds and reach the heavens and stars themselves. Borrunai, who watched from the sky, warned the mountain that its place was beneath the heavens, not among them. The Ever-Rising refused to yield.
 
-The Ever-Rising was the first mountain. Unlike ordinary mountains, it never ceased to grow. Peak after peak rose from its body, year after year, century after century, and millennium after millennium.
+The warnings grew harsher. Snow covered its slopes, hail battered its peaks, thunder shook its foundations, and relentless winds tore across its ridges. Yet the mountain endured every trial. With each storm it survived, it rose higher still. What Borrunai intended as a warning, the Ever-Rising took as a challenge.
 
-Its growth was driven by arrogance. The Ever-Rising believed that it should always stand above everything around it. Eventually, it sought to rise beyond the clouds and reach the heavens and stars themselves. It believed that nothing should stand above it.
+Eventually, the warnings became a battle. Borrunai descended from the heavens and unleashed the forces of the sky against the mountain. Storms, wind, lightning, and hail tore at its peaks, but the Ever-Rising answered by thrusting enormous spires toward the heavens. Each became a weapon, only to be shattered by the great Bear. The struggle continued until the forces of sky and stone collided with such violence that the Ever-Rising itself was broken. Its peaks were shattered, its slopes torn apart, and its body carved open. The valleys, cliffs, ridges, and scars left behind became the homeland of the Borru.
 
-### Borrunai
+Yet one peak remained.
 
-Borrunai was the great Bear of the sky, a primordial deity whose presence manifested through immense storms. When Borrunai saw the Ever-Rising reaching toward the heavens, the deity warned the mountain that its place was not among the stars, but beneath the sky and below the clouds.
+It was the highest of those that had survived the battle, rising from the broken body of the Ever-Rising until its summit touched the clouds. Borrunai could have destroyed it as well, but by then the great Bear had come to respect the mountain's refusal to yield. The peak was left standing, not as an act of mercy, but as a sign of respect between two beings that had once been enemies.
 
-The Ever-Rising refused. Its pride and defiance led Borrunai to issue increasingly severe warnings. Snow covered its slopes. Hail battered its peaks. Thunderstorms shook its foundations. Winds tore across its ridges. Yet the Ever-Rising endured every storm.
+The Borru believe that this final peak became the place where stone meets cloud. It is the most sacred place in their tradition, and they say that Borrunai still visits it in the form of storms. When clouds gather around its summit, the Borru see the presence of the ancient Bear and a reminder that the mountain has not been forgotten.
 
-And with every trial it survived, it grew higher. The mountain interpreted the warnings not as reasons to stop, but as challenges to overcome.
+The Ever-Rising never reached the heavens, but neither was it forced completely beneath them. Its final peak remains at the boundary between earth and sky, while the broken body of the mountain surrounds it.
 
-### The Final Clash
+The Borru see their homeland as the scars of this ancient battle. The mountains remind them of the Ever-Rising's defiance, while the valleys bear the wounds left by Borrunai. From this, they draw two lessons that have remained at the heart of their culture: know where you stand, but never yield merely because something greater stands before you.
 
-Eventually, the warnings became a battle. Borrunai descended from the heavens and attacked the Ever-Rising with the forces of the sky: storms, wind, lightning, hail, and overwhelming power.
+The Ever-Rising was wrong to believe that strength gave it the right to rise without limit. Yet its refusal to surrender ultimately earned Borrunai's respect. For the Borru, yielding is therefore never an acceptable response to adversity, but neither is blind arrogance. Strength lies in knowing one's place, and then standing firmly within it.
 
-The Ever-Rising answered in its own way. It sent sharper and sharper peaks upward, thrusting enormous spires toward Borrunai. Each peak became a weapon, only to be shattered by the Bear deity.
+## Borru Society
 
-The confrontation escalated until the forces of sky and stone collided with such violence that the Ever-Rising itself was broken. Its peaks were shattered, its slopes were torn apart, and its body was carved open. The battle created immense valleys, cliffs, ridges, and scars throughout the land.
+The Borru understand their society through the image of a mountain. They believe that a people, like a mountain, must have a summit, ridges, slopes, and valleys, each serving a different purpose. No part exists independently from the others, and the strength of the whole depends upon every part remaining sound.
 
-These scars became the homeland of the Borru.
+At the summit stands the Mountain, the single leader of the Borru. The Mountain is expected to encompass and represent the entire people, much as the physical mountain contains its peaks, ridges, slopes, and valleys. The position is not automatically inherited, nor is age sufficient to earn it. A Borru may stand as the Mountain only as long as they can demonstrate that they deserve to remain there.
 
-### The Last Peak
+Beneath the Mountain stand the Great Peaks, made up of the most respected and accomplished members of Borru society. Warriors, clan leaders, elders, hunters, craftsmen, strategists, and others may earn this standing through exceptional achievement. They are the individuals most likely to advise the Mountain and, when the time comes, challenge them. Below the Great Peaks are the High Ridges, forming the broad body of established Borru society. Experienced warriors, artisans, hunters, farmers, traders, families, and other adults who have earned their place through years of contribution form this part of the mountain. They provide the stable foundation upon which the Great Peaks and the Mountain can stand.
 
-At the end of the battle, when Borrunai had finally broken the Ever-Rising and the mountain lay shattered, one peak remained. It was the highest of all the surviving peaks, rising from the broken body of the mountain until its summit touched the clouds.
+The Valleys form the largest part of Borru society. They include those who perform the countless tasks required to sustain their communities, including younger adults, workers, apprentices, servants, and others who have yet to achieve a distinguished standing. The name carries no insult. The Borru understand that the valleys give the mountain its shape, collect its waters, and allow life to exist beneath its peaks. At the lowest level are the Foothills. Every Borru cub begins life as a Foothill. The same is true of newcomers, outsiders seeking acceptance, and those who have lost their former standing. The Foothills are not considered worthless. They are simply unfinished. A Borru is expected to climb.
 
-Borrunai could have destroyed it as well, but by then the Bear deity had come to respect the Ever-Rising's refusal to yield. Instead, Borrunai left the peak standing.
+Yet the Borru do not define strength solely through physical power. A strong body is valued because it allows a Borru to endure hardship and defend others, but strength may also be found in will, judgment, endurance, courage, and devotion to one's people. A Borru who possesses great physical power but proves cowardly, reckless, selfish, or incapable of difficult decisions is not necessarily considered strong. Likewise, one who lacks exceptional physical prowess may rise considerably in standing if they demonstrate extraordinary will, wisdom, endurance, or devotion. The Borru therefore distinguish between being powerful and being strong. Power can be possessed. Strength must be demonstrated.
 
-The Borru believe that this was not an act of mercy, but a sign of respect between two beings that had once been enemies. The Ever-Rising had been wrong to believe that it belonged among the heavens, but it had demonstrated something worthy of respect: it would not bow.
+Borru society is not entirely fixed. A young Borru may begin among the Foothills and gradually establish themselves among the Valleys. Through courage, endurance, skill, leadership, craftsmanship, or service, they may reach the High Ridges and, in exceptional cases, the Great Peaks. Status can also be lost. A Great Peak who repeatedly fails their people may fall, just as a respected warrior who proves cowardly when their community depends upon them may lose their standing. An elder whose judgment becomes consistently unreliable may no longer be treated as a Great Peak. The mountain therefore constantly changes, even though the mountain itself remains.
 
-The Last Peak therefore became the place where stone meets cloud, and the most sacred place in Borru tradition. The Borru believe that Borrunai still visits it in the form of storms, and that clouds gathering around its summit are a sign that the ancient Bear has not forgotten the mountain.
+The Mountain holds the highest position in Borru society, but the position is never considered permanently owned. A member of the Great Peaks who believes that the Mountain has ceased to embody the strength required of the position may seek to challenge them. The Borru gather during a formal communal celebration held every three years, when any qualified Borru may put themselves forward. The challenger declares their intention publicly and proposes the form of the challenge. The Mountain may respond with a counterproposal, while the gathered Borru have the right to alter what has been proposed. The community then expresses its preference through roars, calls, and other signs of approval or rejection. The form of challenge that receives the strongest collective acceptance becomes the official contest. The challenge therefore belongs to the whole mountain, rather than to either combatant alone.
 
-The Ever-Rising did not reach the heavens, but neither was it forced completely beneath them. Its final surviving peak stands precisely at the boundary between earth and sky.
+When several Borru seek to challenge the Mountain during the same gathering, they must first challenge one another. Only the final surviving or prevailing challenger earns the right to face the Mountain. The challenge may take many forms. Physical combat may be appropriate in one generation, while another may demand endurance, judgment, strategy, or another demonstration of strength. Whatever form it takes, it should reflect what the challenger believes the Mountain lacks and what the community believes should be proven.
 
-### The Borru Interpretation
-
-The Borru see their homeland as the scars of the ancient battle. The mountains are reminders of the Ever-Rising's defiance, while the valleys are the wounds carved by Borrunai. The surviving peaks demonstrate that even something broken can remain standing.
-
-The myth therefore carries two lessons that exist in tension with one another: know where you stand, but never yield merely because something greater stands before you.
-
-The Ever-Rising was wrong because it believed strength gave it the right to rise without limit. Yet its refusal to surrender ultimately earned Borrunai's respect.
-
-For the Borru, yielding is not an acceptable response to adversity. But neither is blind arrogance. The ideal is to know one's place and then stand firmly within it.
-
-## Borru Society — The Mountain
-
-The Borru understand their society through the image of a mountain. They believe that a people, like a mountain, must have a summit, ridges, slopes, and valleys, each serving a different purpose. No part of the mountain exists independently from the others, and the strength of the whole depends upon every part remaining sound.
-
-At the summit stands **the Mountain**, the single leader of the Borru. The Mountain is expected to encompass and represent the entire people, much as the physical mountain contains its peaks, ridges, slopes, and valleys. The position is not automatically inherited, nor is age sufficient to earn it. A Borru may stand as the Mountain only as long as they can demonstrate that they deserve to remain there.
-
-Beneath the Mountain are the **Great Peaks**, composed of the most respected and accomplished members of Borru society. These include exceptional warriors, clan leaders, elders, hunters, craftsmen, strategists, and others who have demonstrated extraordinary strength in one of its many forms. The Great Peaks are the individuals most likely to advise the Mountain and, when the time comes, to challenge them.
-
-Below the Great Peaks are the **High Ridges**. This is the broad body of established Borru society: experienced warriors, artisans, hunters, farmers, traders, families, and other adults who have earned their place through years of contribution. They form the stable structure of Borru communities and are regarded as the dependable foundation upon which the Great Peaks and the Mountain can stand.
-
-The **Valleys** form the largest part of Borru society. They encompass those who perform the countless tasks necessary to sustain their communities, including younger adults, workers, apprentices, servants, and others who have not yet achieved a particularly distinguished standing. The name is not intended as an insult. The Borru understand that the valleys are what give the mountain its shape, collect its waters, and allow life to exist beneath its peaks.
-
-At the lowest level are the **Foothills**. Every Borru cub begins life as a Foothill. The category also includes newcomers, outsiders seeking acceptance, and those who have lost their former standing. The Foothills are not considered worthless. They are simply understood to be unfinished. A Borru is expected to climb.
-
-### The Meaning of Strength
-
-The Borru do not define strength solely by the power of the body. Physical prowess is admired, but it is only one expression of a much greater concept.
-
-A strong body is valuable because it allows a Borru to endure hardship and defend others. A strong will allows them to continue when fear, pain, or failure would cause another to abandon their path. Endurance allows them to withstand hardship without breaking. Good judgment allows them to make difficult decisions when no choice is without consequences. The willingness to protect one's people demonstrates a strength that exists beyond the self.
-
-Consequently, a Borru who is physically powerful but cowardly, reckless, selfish, or incapable of making difficult decisions is not necessarily considered strong. Conversely, a Borru who lacks exceptional physical prowess may rise considerably in status if they demonstrate extraordinary will, wisdom, endurance, or devotion to their people.
-
-The Borru therefore often distinguish between being powerful and being strong. Power can be possessed. Strength must be demonstrated.
-
-### The Right to Climb
-
-Borru society is not entirely fixed. A Borru is expected to climb the mountain of society through achievement.
-
-A young Borru may begin among the Foothills and gradually establish themselves among the Valleys. Through courage, endurance, skill, leadership, craftsmanship, or service to their people, they may eventually reach the High Ridges and, in exceptional cases, the Great Peaks.
-
-Likewise, status can be lost. A Great Peak who repeatedly fails their people may fall. A respected warrior who proves cowardly when their community depends upon them may lose their standing. An elder whose judgment becomes consistently unreliable may no longer be treated as a Great Peak.
-
-The mountain therefore constantly changes, even though the mountain itself remains.
-
-### The Mountain and the Challenge
-
-The Mountain holds the highest position in Borru society, but the position is never considered permanently owned. A member of the Great Peaks who believes that the Mountain has ceased to embody the strength required of the position may seek to challenge them.
-
-The challenge is not controlled by the Mountain. Instead, the Borru gather during a formal communal celebration held every three years. During this gathering, the community opens the opportunity for any qualified Borru to put themselves forward as a challenger.
-
-A challenger declares their intention publicly and proposes the form of the challenge. The Mountain has the right to respond to the proposal and offer a counterproposal. The community then has the right to alter what has been proposed, then the attending Borru express their preference collectively through roars, calls, and other vocal expressions of approval or rejection. The form of challenge that receives the community's strongest collective acceptance becomes the official contest. The challenge therefore belongs to the whole mountain, rather than to either combatant alone.
-
-If multiple Borru put themselves forward to challenge the Mountain during the same gathering, they must first challenge one another. Only the final surviving or prevailing challenger earns the right to face the Mountain. 
-
-The challenge itself is not necessarily identical from one occasion to another. Physical combat may be appropriate in one generation, while another challenge may demand endurance, judgment, strategy, or another demonstration of strength. The chosen form must reflect what the challenger claims the Mountain lacks and what the community believes should be proven.
-
-If the challenger prevails, they become the new Mountain. If the former ruler falls, their defeat is not necessarily regarded as shameful. The Borru believe that even the greatest mountain can eventually be surpassed. What matters is that the one standing at the summit continues to deserve their position.
+If the challenger prevails, they become the new Mountain. Should the former ruler fall, their defeat is not necessarily regarded as shameful. The Borru understand that even the greatest mountain can eventually be surpassed. What matters is that the one standing at the summit continues to deserve their place.
 
 ## The Orchards and the Mountain
 
-The valleys of the Borru are rarely empty. Even where the mountains rise steeply and the soil becomes thin, there are orchards clinging to the slopes, following the bends of rivers, and occupying every sheltered patch of earth where a tree can take root. Hazelnuts, walnuts, chestnuts, and other hardy mountain trees grow alongside ancient oaks whose acorns are gathered and carefully prepared. In the lower valleys, where the climate is kinder, the Borru also cultivate fruit trees and shrubs, including apples, plums, currants, raspberries, blackberries, and other plants that can survive the changing conditions of the mountains.
+The valleys of the Borru are rarely empty. Even where the mountains rise steeply and the soil becomes thin, orchards cling to the slopes, follow the bends of rivers, and occupy every sheltered patch of earth where a tree can take root. Hazelnuts, walnuts, chestnuts, and other hardy mountain trees grow alongside ancient oaks whose acorns are gathered and carefully prepared. In the lower valleys, where the climate is kinder, the Borru also cultivate apples, plums, currants, raspberries, blackberries, and other fruits and shrubs able to withstand the changing conditions of the mountains.
 
-The Borru have little interest in forcing the land into perfect rows. Their orchards follow the shape of the valleys and the slopes, sometimes appearing almost wild to an outsider. Trees are given room to grow, paths wind between them, and patches of wildflowers are deliberately left untouched. To the Borru, an orchard is not simply a place where food is produced. It is something that grows alongside the people who tend it.
+The Borru have little interest in forcing the land into perfect rows. Their orchards follow the shape of the valleys and slopes, sometimes appearing almost wild to an outsider. Trees are given room to grow, paths wind between them, and patches of wildflowers are deliberately left untouched. To the Borru, an orchard is not simply a place where food is produced. It is something that grows alongside the people who tend it.
 
-A tree that survives for generations becomes part of the family that planted it. Some Borru families can point to trees whose first keepers are remembered only through stories, while the trees themselves continue to bear fruit. A walnut tree might be inherited alongside a house, a grove might belong to an entire clan, and an old oak may be tended by people who consider themselves merely its latest guardians. The age of such trees is often spoken of with the same respect given to an elder. A tree that has endured a century of storms has, in the Borru mind, earned the right to remain where it stands.
+A tree that survives for generations becomes part of the family that planted it. Some Borru families can point to trees whose first keepers are remembered only through stories, while the trees themselves continue to bear fruit. A walnut tree might be inherited alongside a house, a grove may belong to an entire clan, and an old oak may be tended by people who consider themselves merely its latest guardians. The age of such trees is often spoken of with the same respect given to an elder. A tree that has endured a century of storms has, in the Borru mind, earned the right to remain where it stands.
 
 This reverence has shaped the way the Borru cultivate their land. They prune carefully rather than unnecessarily, replace damaged branches, preserve old roots, and encourage young trees to grow where they will eventually strengthen the orchard. They are patient cultivators because they think in generations. A Borru may plant a tree knowing that its greatest harvest will belong to cubs not yet born.
 
-The spaces between the trees are equally important. The Borru deliberately leave large patches of flowering plants growing among their orchards and along the edges of their fields. This is partly practical and partly traditional, for the Borru are among the most accomplished beekeepers in the known lands. Their bees move between orchards, meadows, woodland, and mountain flowers, and the Borru have learned that the character of honey changes according to what the bees have visited.
+The spaces between the trees are equally important. The Borru deliberately leave large patches of flowering plants among their orchards and along the edges of their fields. This is partly practical and partly traditional, for the Borru are among the most accomplished beekeepers in the known lands. Their bees move between orchards, meadows, woodland, and mountain flowers, and the Borru have learned that the character of honey changes according to what the bees have visited.
 
-Some beekeepers specialize in meadow honey, gathered from wildflowers and mountain blooms. Others cultivate particular flowering trees and plants so that their hives produce a honey with a distinctive taste. Some even move their hives during the year, following the flowering seasons from the lower valleys toward the higher slopes. Borru beekeepers are known to argue passionately over which flowers produce the finest honey, and there are families who have spent generations experimenting with different plants simply to produce a particular flavor.
+Some beekeepers specialize in meadow honey, gathered from wildflowers and mountain blooms. Others cultivate particular flowering trees and plants so that their hives produce honey with a distinctive taste. Some even move their hives during the year, following the flowering seasons from the lower valleys toward the higher slopes. Borru beekeepers are known to argue passionately over which flowers produce the finest honey, and there are families who have spent generations experimenting with different plants simply to produce a particular flavor.
 
 This experimentation extends throughout Borru cultivation. A new tree, seed, berry, or flowering plant introduced by a traveler is rarely dismissed without consideration. Someone will plant it, someone else will taste what it produces, and sooner or later a Borru cook will attempt to turn it into something worth remembering. The orchards therefore change slowly, but they are never entirely unchanged.
 
@@ -136,21 +80,21 @@ The same philosophy extends to brewing. Brewers from across Borru territory arri
 
 At the center of the celebration stand the Thirteen Fires. Each day, a different resin is burned, and each fire represents one of the qualities that the Borru believe must guide a strong life. The trees from which the resins come are known by ancient Borru names, and the scent of each resin marks the character of the day.
 
-|    Day | Quality         | Tree                                  | Borru Name   |
-| -----: | --------------- | ------------------------------------- | ------------ |
-|  **1** | **Endurance**   | Scots Pine (*Pinus sylvestris*)       | **Sylvarr**  |
-|  **2** | **Patience**    | Silver Fir (*Abies alba*)             | **Albarr**   |
-|  **3** | **Strength**    | Norway Spruce (*Picea abies*)         | **Piecarr**  |
-|  **4** | **Courage**     | European Larch (*Larix decidua*)      | **Decivarr** |
-|  **5** | **Defiance**    | Black Pine (*Pinus nigra*)            | **Pinurarr** |
-|  **6** | **Judgment**    | Common Juniper (*Juniperus communis*) | **Junarr**   |
-|  **7** | **Kinship**     | Mastic Tree (*Pistacia lentiscus*)    | **Pistarr**  |
-|  **8** | **Hospitality** | Cedar of Lebanon (*Cedrus libani*)    | **Lebnarr**  |
-|  **9** | **Wisdom**      | Douglas Fir (*Pseudotsuga menziesii*) | **Menzarr**  |
-| **10** | **Memory**      | Swiss Stone Pine (*Pinus cembra*)     | **Cembarr**  |
-| **11** | **Humility**    | Spanish Fir (*Abies pinsapo*)         | **Abisarr**  |
-| **12** | **Resolve**     | Dragon Blood Tree (*Dracaena draco*)  | **Dracarr**  |
-| **13** | **Ingenuity**   | Frankincense Tree (*Boswellia sacra*) | **Bosarr**   |
+| Day | Quality | Tree | Borru Name |
+|---|---|---|---|
+| **1** | **Endurance** | Scots Pine (*Pinus sylvestris*) | **Sylvarr** |
+| **2** | **Patience** | Silver Fir (*Abies alba*) | **Albarr** |
+| **3** | **Strength** | Norway Spruce (*Picea abies*) | **Piecarr** |
+| **4** | **Courage** | European Larch (*Larix decidua*) | **Decivarr** |
+| **5** | **Defiance** | Black Pine (*Pinus nigra*) | **Pinurarr** |
+| **6** | **Judgment** | Common Juniper (*Juniperus communis*) | **Junarr** |
+| **7** | **Kinship** | Mastic Tree (*Pistacia lentiscus*) | **Pistarr** |
+| **8** | **Hospitality** | Cedar of Lebanon (*Cedrus libani*) | **Lebnarr** |
+| **9** | **Wisdom** | Douglas Fir (*Pseudotsuga menziesii*) | **Menzarr** |
+| **10** | **Memory** | Swiss Stone Pine (*Pinus cembra*) | **Cembarr** |
+| **11** | **Humility** | Spanish Fir (*Abies pinsapo*) | **Abisarr** |
+| **12** | **Resolve** | Dragon Blood Tree (*Dracaena draco*) | **Dracarr** |
+| **13** | **Ingenuity** | Frankincense Tree (*Boswellia sacra*) | **Bosarr** |
 
 The lighting of each fire marks the beginning of a new day of festivities. Some days are loud with contests, music, cooking, and drinking; others are quieter, given to storytelling, remembrance, or the settling of old disputes. The fires provide a common rhythm to the celebration, and their smoke can be seen rising above the valleys for miles.
 
@@ -184,6 +128,6 @@ Sometimes the mixture is foul, bitter, strange, or simply unbearable. When this 
 
 A Borru might therefore say, quite casually:
 
-"The Evercask howled this year."
+> "The Evercask howled this year."
 
 And this is not necessarily an insult. A particularly terrible Howler can become one of the most memorable parts of a Roaring Casks celebration. The worse it tastes, the more determined the Borru become to finish it.

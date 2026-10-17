@@ -1,6 +1,4 @@
-# WB - Beacon Dynasty - Aurelia's Beginnings
-
-## Aurelia's Beginnings
+# Aurelia
 
 Aurelia was born in an insignificant village to ordinary parents during an age when the ancient Veilsteps were little more than forgotten ruins. Although her family possessed no notable status or magical heritage, Aurelia displayed unusual magical markings from birth, hinting that she carried an innate gift unlike those around her.
 

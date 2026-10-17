@@ -1,4 +1,4 @@
-# WB - Kindreds - Nyr
+# Nyr
 
 ## The Nyr
 
@@ -47,7 +47,7 @@ It is not uncommon for flocks of birds to approach a newly arrived Nyriad. The N
 ### The Birds
 
 | Bird | Scientific Name | Nyr Name | Association |
-| --- | --- | --- | --- |
+|---|---|---|---|
 | Great Tit | *Parus major* | **Parvek** | Settlements, households, markets, and ordinary activity |
 | European Robin | *Erithacus rubecula* | **Rubek** | Individuals, gardens, and activity around people |
 | European Starling | *Sturnus vulgaris* | **Sturvek** | Crowds, gatherings, caravans, and large movements |

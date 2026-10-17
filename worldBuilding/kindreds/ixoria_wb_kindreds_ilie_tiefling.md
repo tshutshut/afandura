@@ -1,6 +1,4 @@
-# WB - Kindreds - The Ilie
-
-## The Ilie
+# The Ilie (Tiefling)
 
 The Ilie are found throughout Ixoria, though rarely among those who hold wealth, influence, or inherited power. They have no kingdom of their own and no ancestral homeland to which they can point. They are most commonly found in cities, particularly in crowded districts where strangers attract less attention and work is plentiful, though Ilie can be found in ports, market towns, villages, and along the roads that connect them. Some remain in one place for most of their lives, becoming familiar figures within a neighborhood, while others travel frequently according to the work available to them. Their lives are generally modest, and they are seldom found among the upper strata of society, but they are not a people apart from it. They work, trade, perform, marry, raise families, and settle wherever circumstances allow.
 

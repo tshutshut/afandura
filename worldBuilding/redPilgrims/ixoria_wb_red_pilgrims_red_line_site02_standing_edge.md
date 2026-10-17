@@ -1,4 +1,4 @@
-# The Standing Edge
+# Site 02 — The Standing Edge
 
 The Second Wound lies upon the face of an immense cliff on one of the islands of the southeastern reaches. The cliff rises almost sheer from the sea, extending for a great distance along the coast. From the water below, its upper edge appears impossibly high. From the land above, the lower reaches are often hidden by mist.
 

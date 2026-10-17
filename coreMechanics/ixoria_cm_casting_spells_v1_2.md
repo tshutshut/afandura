@@ -4,8 +4,6 @@ This page describes how spells are defined, cast, and improved through use. Ever
 
 Spellcasting is designed to remain simple to use and track. There are no spell slots, no distinction between cantrips and spells, and no universal limit to how often a spell may be cast. If a spell has restrictions on its use, these are stated directly within the spell itself.
 
----
-
 ## 1. Spell Stat Block
 
 Each spell is presented through a stat block containing its individual properties and the information needed to cast it.
@@ -35,8 +33,6 @@ Complexity represents the inherent difficulty of a spell. It is fixed for each s
 | **Tier IV** | Powerful spells requiring considerable magical control to cast successfully. |
 | **Tier V** | The most complex spells, representing exceptionally difficult and powerful uses of magic. |
 
----
-
 ## 2. Casting Difficulty
 
 ### Spell Proficiency
@@ -55,13 +51,13 @@ Proficiency is divided into five levels:
 | **Expert** | The player has extensive experience with the Spell Branch. Most of its magic has become familiar, leaving only its most complex spells difficult to perform. |
 | **Master** | The player possesses exceptional familiarity with the Spell Branch. Even highly complex magic can be attempted with confidence, while lesser spells have become routine. |
 
-A Spell Branch in which the player has never practiced has no developed Proficiency. When the player first begins using magic from that branch, they begin as a **Novice**.
+A Spell Branch in which the player has never practiced has no developed Proficiency. When the player first begins using magic from that branch, they begin as a Novice.
 
 Learning a new spell from a Spell Branch the player already practices does not create a new Proficiency. The spell uses the player's existing Proficiency in that branch.
 
 ### Determining Casting Difficulty
 
-Casting Difficulty is determined by comparing the spell's **Complexity** with the player's current **Proficiency** in its Spell Branch.
+Casting Difficulty is determined by comparing the spell's Complexity with the player's current Proficiency in its Spell Branch.
 
 | Spell Tier | Novice | Apprentice | Practiced | Expert | Master |
 |---|---|---|---|---|---|
@@ -74,7 +70,7 @@ Casting Difficulty is determined by comparing the spell's **Complexity** with th
 The resulting difficulty determines the roll required for the spell to succeed:
 
 | Difficulty | Required Roll |
-|---|---:|
+|---|---|
 | **Automatic** | No roll required |
 | **Easy** | d20 ≥ 6 |
 | **Moderate** | d20 ≥ 10 |
@@ -84,11 +80,9 @@ The resulting difficulty determines the roll required for the spell to succeed:
 
 A critical success or critical failure follows the normal game rules and is interpreted by the Game Master.
 
----
-
 ## 3. Spell Progression
 
-Proficiency develops through **meaningful successful casts**.
+Proficiency develops through meaningful successful casts.
 
 Progression is tracked by Spell Branch rather than by individual spell. Whenever a character successfully casts a spell in a meaningful situation, that success contributes to the progression pool of the Spell Branch to which the spell belongs.
 
@@ -104,20 +98,20 @@ Meaningful casts may include:
 
 Repeated casting without narrative purpose does not contribute to progression. The Game Master has the final say on whether a successful cast counts.
 
-A meaningful cast that is **Automatic** still counts as a successful cast for progression.
+A meaningful cast that is Automatic still counts as a successful cast for progression.
 
 ### Affinity and Progression
 
 Affinity represents the Spell Branches toward which a character's Magic Tree grows most naturally.
 
-During character creation, a magic-wielding character receives **4 Affinity Points**, which may be concentrated in one Spell Branch or distributed among several. The number of points assigned to a branch determines its **Affinity Rank**, from 1 to 4. A branch with no assigned Affinity Points has an Affinity Rank of 0.
+During character creation, a magic-wielding character receives 4 Affinity Points, which may be concentrated in one Spell Branch or distributed among several. The number of points assigned to a branch determines its Affinity Rank, from 1 to 4. A branch with no assigned Affinity Points has an Affinity Rank of 0.
 
 Affinity does not restrict which Spell Branches a character may develop. A character may practice and eventually master a branch even if they have no affinity for it. Affinity only changes how quickly Proficiency develops.
 
 Each Affinity Rank reduces the number of successful casts required to advance Proficiency by approximately 10% of the base requirement.
 
 | Affinity Rank | Novice → Apprentice | Apprentice → Practiced | Practiced → Expert | Expert → Master |
-|---|---:|---:|---:|---:|
+|---|---|---|---|---|
 | **0 — No Affinity** | 12 | 24 | 36 | 48 |
 | **1** | 11 | 22 | 32 | 43 |
 | **2** | 10 | 19 | 29 | 38 |
@@ -128,6 +122,6 @@ Values are rounded to the nearest whole successful cast.
 
 Spell Complexity does not alter the number of successful casts required for progression. Complexity determines how difficult an individual spell is to cast, while Affinity determines how quickly the player develops Proficiency in the Spell Branch as a whole.
 
-For example, a player with **Affinity Rank 2** in Force who is currently an **Apprentice** needs **19 meaningful successful casts** from Force spells to become Practiced. Those successes may come from any combination of spells belonging to the Force branch.
+For example, a player with Affinity Rank 2 in Force who is currently an Apprentice needs 19 meaningful successful casts from Force spells to become Practiced. Those successes may come from any combination of spells belonging to the Force branch.
 
 When the required number of successful casts is reached, the player's Proficiency in that Spell Branch advances by one level. The progression counter then begins again for the next Proficiency level.
