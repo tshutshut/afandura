@@ -1,8 +1,8 @@
-# Ixoria Mora — Master Writing Style
+# Ixoria — Master Writing Style
 
 ## Baseline Style
 
-Write Ixoria Mora world-building content in a restrained historical-fantasy voice. The prose should be formal, atmospheric, and descriptive while remaining clear and accessible.
+Write Ixoria world-building content in a restrained historical-fantasy voice. The prose should be formal, atmospheric, and descriptive while remaining clear and accessible.
 
 Present information as established history, cultural knowledge, or recorded belief rather than as dramatic narration. The writing should feel like the history of a real world being recorded by someone who understands its weight.
 
@@ -47,7 +47,7 @@ Use words such as *yet, though, while, despite,* and *but* naturally to establis
 
 When describing places, peoples, institutions, or traditions with a long history, emphasize what they once were, what has been lost, and what remains whenever appropriate.
 
-Ixoria Mora should often feel like a world in which the past remains physically or culturally present.
+Ixoria should often feel like a world in which the past remains physically or culturally present.
 
 ## Mystery and Uncertainty
 

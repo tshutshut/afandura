@@ -1,6 +1,6 @@
 # Aevra
 
-The **Aevra**, known to other peoples as Dragonborn, are one of the ancient Kindreds of Ixoria Mora. Every Aevra carries the legacy of the dragons that fell in the distant past, and every Aevra is born with a natural connection to magic.
+The **Aevra**, known to other peoples as Dragonborn, are one of the ancient Kindreds of Ixoria. Every Aevra carries the legacy of the dragons that fell in the distant past, and every Aevra is born with a natural connection to magic.
 
 Their people are divided into seven ancestral tribes, each descended from one of the primordial dragon lineages that emerged from the remains of the Second Dragon. Among the Aevra, lineage is more than ancestry. It is identity, culture, and a sacred inheritance.
 
@@ -24,7 +24,7 @@ The seven primordial lineages became the seven tribes of the Aevra:
 - **Ghrauk** — Instinct
 - **Dhaevor** — Life
 
-Some of the primordial Aevra remained among the mountain-dwelling peoples, whose own origins are traditionally traced to the Seventh Warrior of the Fall of the Dragons. Others eventually left the mountains and dispersed throughout Ixoria Mora.
+Some of the primordial Aevra remained among the mountain-dwelling peoples, whose own origins are traditionally traced to the Seventh Warrior of the Fall of the Dragons. Others eventually left the mountains and dispersed throughout Ixoria.
 
 ## The Seven Tribes
 

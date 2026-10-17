@@ -1,6 +1,6 @@
 # Character Design 1.4
 
-This document contains the rules needed to create a playable character in Ixoria Mora. Character creation follows eight steps, beginning with the choice of a race and ending with Magical Affinity for characters capable of wielding magic. Follow each step in order and record the resulting information on your character sheet.
+This document contains the rules needed to create a playable character in Ixoria. Character creation follows eight steps, beginning with the choice of a race and ending with Magical Affinity for characters capable of wielding magic. Follow each step in order and record the resulting information on your character sheet.
 
 ## Character Creation
 
@@ -17,7 +17,7 @@ This document contains the rules needed to create a playable character in Ixoria
 
 ## Step 1 — Choose a Race
 
-### The Races of Ixoria Mora
+### The Races of Ixoria
 
 Choose your character's race from the table below. Each race modifies the six attributes used to define a character: Strength (STR), Agility (AGI), Endurance (END), Perception (PER), Intelligence (INT), and Charisma (CHA).
 
@@ -185,7 +185,7 @@ Natural AC represents the protection provided naturally by your character's body
 
 This step applies only to characters who are capable of wielding magic.
 
-In Ixoria Mora, magic cannot be learned by someone who was not born with the ability to access it. A magic wielder may be imagined as carrying a seed from birth. The magical world is the soil in which that seed can grow. A person without this seed cannot develop magical ability through study or practice alone.
+In Ixoria, magic cannot be learned by someone who was not born with the ability to access it. A magic wielder may be imagined as carrying a seed from birth. The magical world is the soil in which that seed can grow. A person without this seed cannot develop magical ability through study or practice alone.
 
 Possessing the seed of magic does not make a character an accomplished spellcaster. It only gives them the potential to develop magic. When a character first begins to practice, their Magic Tree is little more than a shoot. With experience, it grows, develops branches, and becomes increasingly complex.
 

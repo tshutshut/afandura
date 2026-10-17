@@ -2,7 +2,7 @@
 
 ## The Ilie
 
-The Ilie are found throughout Ixoria Mora, though rarely among those who hold wealth, influence, or inherited power. They have no kingdom of their own and no ancestral homeland to which they can point. They are most commonly found in cities, particularly in crowded districts where strangers attract less attention and work is plentiful, though Ilie can be found in ports, market towns, villages, and along the roads that connect them. Some remain in one place for most of their lives, becoming familiar figures within a neighborhood, while others travel frequently according to the work available to them. Their lives are generally modest, and they are seldom found among the upper strata of society, but they are not a people apart from it. They work, trade, perform, marry, raise families, and settle wherever circumstances allow.
+The Ilie are found throughout Ixoria, though rarely among those who hold wealth, influence, or inherited power. They have no kingdom of their own and no ancestral homeland to which they can point. They are most commonly found in cities, particularly in crowded districts where strangers attract less attention and work is plentiful, though Ilie can be found in ports, market towns, villages, and along the roads that connect them. Some remain in one place for most of their lives, becoming familiar figures within a neighborhood, while others travel frequently according to the work available to them. Their lives are generally modest, and they are seldom found among the upper strata of society, but they are not a people apart from it. They work, trade, perform, marry, raise families, and settle wherever circumstances allow.
 
 What makes the Ilie distinct is not where they come from, but what happens to them. An ordinary person may live an entirely ordinary life and, without warning, become Ilie. There is no known cause for the transformation, nor has anyone found a reliable pattern in those who undergo it. A person may go to sleep as they have always been and awaken changed. The transformation is permanent, and no known case exists of an Ilie returning to their former state.
 
@@ -12,7 +12,7 @@ The change affects the body in ways that have given the Ilie their reputation th
 
 The transformation offers no indication of the person beneath it. A kind person may awaken with an appearance that frightens those around them, while someone of poor character may undergo a change that leaves them almost untouched in appearance. The Ilie have therefore learned, more than most, that appearance is a poor measure of character. Whatever force causes the transformation seems to make no distinction between virtue and vice, wealth and poverty, youth and age.
 
-Almost any person may become Ilie. Humans, Elves, Dwarves, Halflings, Gnomes, Half-Elves, Half-Orcs, Aevra, and other peoples of Ixoria Mora have all been known to undergo the transformation. Beastkin are the sole exception. No Beastkin has ever been known to become Ilie, though whether this is a natural boundary or merely an absence of recorded cases remains unknown.
+Almost any person may become Ilie. Humans, Elves, Dwarves, Halflings, Gnomes, Half-Elves, Half-Orcs, Aevra, and other peoples of Ixoria have all been known to undergo the transformation. Beastkin are the sole exception. No Beastkin has ever been known to become Ilie, though whether this is a natural boundary or merely an absence of recorded cases remains unknown.
 
 ## The Burden of Becoming
 

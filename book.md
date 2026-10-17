@@ -1,4 +1,4 @@
-# Book of Ixoria Mora
+# Book of Ixoria
 ## Lost Lore
 ## Beacon Dynasty
 ### Aurelia
