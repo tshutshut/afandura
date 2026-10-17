@@ -30,23 +30,23 @@ All attributes begin at 10. The symbols in the table indicate how much should la
 | Race | STR | AGI | END | PER | INT | CHA | Description |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|---|
 | Human | = | = | = | = | = | = | |
-| Elf | − | + | − | ++ | + | = | |
-| Dwarf | + | − | ++ | = | = | − | |
+| Elf (Eren) | − | + | − | ++ | + | = | |
+| Dwarf (Amdir) | + | − | ++ | = | = | − | |
 | Halfling | −− | ++ | − | + | = | + | |
-| Gnome | −− | + | − | = | ++ | = | |
+| Gnome (Keel) | −− | + | − | = | ++ | = | |
 | Half-Elf | = | = | = | + | = | + | |
 | Half-Orc | ++ | = | + | − | − | −− | |
-| Dragonborn | + | − | + | = | = | + | |
-| Tiefling | − | = | = | + | + | ++ | |
+| Dragonborn (Aevra) | + | − | + | = | = | + | |
+| Tiefling (Ilie) | − | = | = | + | + | ++ | |
 | Wolf Beastkin | = | + | + | ++ | − | = | |
 | Dog Beastkin | = | = | + | + | − | ++ | |
 | Cat Beastkin | − | ++ | − | + | = | = | |
 | Lion Beastkin | ++ | = | + | = | − | + | |
-| Fox Beastkin | − | + | − | + | ++ | = | |
-| Bear Beastkin | + | −− | ++ | + | −− | = | |
-| Owl Beastkin | − | + | − | ++ | + | = | |
-| Crow Beastkin | − | + | − | + | ++ | = | |
-| Frog Beastkin | −− | ++ | = | + | + | − | |
+| Fox Beastkin (Suli) | − | + | − | + | ++ | = | |
+| Bear Beastkin (Borru) | + | −− | ++ | + | −− | = | |
+| Owl Beastkin (Oshi) | − | + | − | ++ | + | = | |
+| Crow Beastkin (Nyr) | − | + | − | + | ++ | = | |
+| Frog Beastkin (Keluma) | −− | ++ | = | + | + | − | |
 | Lizard Beastkin | = | + | ++ | = | − | − | |
 | Monkey Beastkin | − | ++ | − | = | + | + | |
 
@@ -158,23 +158,23 @@ Natural AC represents the protection provided naturally by your character's body
 | Race | Natural AC |
 |---|:---:|
 | Human | 5 |
-| Elf | 5 |
-| Dwarf | 6 |
+| Elf (Eren) | 5 |
+| Dwarf (Amdir) | 6 |
 | Halfling | 5 |
-| Gnome | 5 |
+| Gnome (Keel) | 5 |
 | Half-Elf | 5 |
 | Half-Orc | 6 |
-| Dragonborn | 6 |
-| Tiefling | 5 |
+| Dragonborn (Aevra) | 6 |
+| Tiefling (Ilie) | 5 |
 | Wolf Beastkin | 5 |
 | Dog Beastkin | 5 |
 | Cat Beastkin | 5 |
 | Lion Beastkin | 6 |
-| Fox Beastkin | 5 |
-| Bear Beastkin | 7 |
-| Owl Beastkin | 5 |
-| Crow Beastkin | 5 |
-| Frog Beastkin | 5 |
+| Fox Beastkin (Suli) | 5 |
+| Bear Beastkin (Borru) | 7 |
+| Owl Beastkin (Oshi) | 5 |
+| Crow Beastkin (Nyr) | 5 |
+| Frog Beastkin (Keluma) | 5 |
 | Lizard Beastkin | 6 |
 | Monkey Beastkin | 5 |
 
