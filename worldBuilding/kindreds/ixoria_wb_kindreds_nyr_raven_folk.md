@@ -26,15 +26,15 @@ The Nyr have no known central government, and no ordinary system of centralized 
 
 Their true nature, authority, organization, and relationship with ordinary Nyr remain unknown.
 
-## The Veil Steps
+## The Veilsteps
 
-The Nyr are unique among the known peoples of the realm in having categorically refused to use the **Veil Steps**.
+The Nyr are unique among the known peoples of the realm in having categorically refused to use the **Veilsteps**.
 
-When Aurelia activated the Veil Steps and began using them to unite the Aurelate, the Nyr had access to the network but deliberately refused to travel through it. They continued to travel by traditional means: on foot, by wing, by boat, and by other conventional forms of transportation.
+When Aurelia activated the Veilsteps and began using them to unite the Aurelate, the Nyr had access to the network but deliberately refused to travel through it. They continued to travel by traditional means: on foot, by wing, by boat, and by other conventional forms of transportation.
 
-Their refusal was not a matter of lacking access. They simply would not use the Veil Steps.
+Their refusal was not a matter of lacking access. They simply would not use the Veilsteps.
 
-The Nyr have never provided outsiders with a satisfactory explanation. Even during the Aurelate, when the Veil Steps formed the foundation of travel and communication across the realm, the Nyr continued to avoid them. Once the Veil Steps began to fail, their refusal ceased to have practical significance, but the mystery surrounding it remained.
+The Nyr have never provided outsiders with a satisfactory explanation. Even during the Aurelate, when the Veilsteps formed the foundation of travel and communication across the realm, the Nyr continued to avoid them. Once the Veilsteps began to fail, their refusal ceased to have practical significance, but the mystery surrounding it remained.
 
 ## The Birds of the Nyr
 
