@@ -45,7 +45,7 @@ Modifier Key:\
 | Crow Beastkin (Nyr) | − | + | − | + | ++ | = |  |
 | Frog Beastkin (Keluma) | −− | ++ | = | + | + | − |  |
 | Lizard Beastkin | = | + | ++ | = | − | − |  |
-| Monkey Beastkin | − | ++ | − | = | + | + |  |
+| Monkey Beastkin (Vishani) | − | ++ | − | = | + | + |  |
 
 ## Step 2 — Choose a Class
 
@@ -161,7 +161,7 @@ Natural AC represents the protection provided naturally by your character's body
 | Crow Beastkin (Nyr) | 5 |
 | Frog Beastkin (Keluma) | 5 |
 | Lizard Beastkin | 6 |
-| Monkey Beastkin | 5 |
+| Monkey Beastkin (Vishani) | 5 |
 
 ## Step 8 — Determine Magical Affinity
 
