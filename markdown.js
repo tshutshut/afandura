@@ -18,6 +18,10 @@
  *   {{64:100}}  the number 100 in Ixorian digits, anywhere in the text
  *   {{numerals:builder}}, {{numerals:converter}}, {{numerals:table}}
  *               on a line of their own: the interactive numeral tools
+ *
+ * The Ixorian script (drawn by language.js, loaded only when a page needs it):
+ *   {{script:strokes}}, {{script:writer}}, {{script:consonants}}, {{script:vowels}}
+ *               on a line of their own: the script's charts and writing tool
  */
 (function () {
     "use strict";
@@ -79,7 +83,8 @@
         quote: /^\s*>/,
         listItem: /^(\s*)([-*+]|\d+\.)\s+(.*)$/,
         tableSeparator: /^\s*\|?\s*:?-{2,}:?\s*(\|\s*:?-{2,}:?\s*)*\|?\s*$/,
-        numeralTool: /^\s*\{\{numerals:(builder|converter|table)\}\}\s*$/
+        numeralTool: /^\s*\{\{numerals:(builder|converter|table)\}\}\s*$/,
+        scriptTool: /^\s*\{\{script:(strokes|writer|consonants|vowels)\}\}\s*$/
     };
 
     function isTableStart(lines, i) {
@@ -91,7 +96,7 @@
         const line = lines[i];
         return patterns.blank.test(line) || patterns.heading.test(line) ||
             patterns.rule.test(line) || patterns.quote.test(line) ||
-            patterns.listItem.test(line) || patterns.numeralTool.test(line) ||
+            patterns.listItem.test(line) || patterns.numeralTool.test(line) || patterns.scriptTool.test(line) ||
             isTableStart(lines, i);
     }
 
@@ -109,6 +114,9 @@
                 i++;
             } else if ((match = line.match(patterns.numeralTool))) {
                 html.push('<div class="ixn-tool ixn-' + match[1] + '" data-numerals="' + match[1] + '"></div>');
+                i++;
+            } else if ((match = line.match(patterns.scriptTool))) {
+                html.push('<div class="ixs-tool ixs-' + match[1] + '" data-script="' + match[1] + '"></div>');
                 i++;
             } else if ((match = line.match(patterns.heading))) {
                 const level = match[1].length;
@@ -246,14 +254,19 @@
             .catch(function () { /* the Index link still works without the menu */ });
     }
 
-    // Load numerals.js only on pages that show Ixorian numerals.
-    function loadNumerals(root) {
-        if (!root.querySelector(".ixn, [data-numerals]")) return;
-        if (window.IxoriaNumerals) { window.IxoriaNumerals.hydrate(root); return; }
+    // Load a page's extra drawing scripts only when its Markdown uses them.
+    const VERSION = "2026101902";
+    function loadExtra(root, selector, file, globalName) {
+        if (!root.querySelector(selector)) return;
+        if (window[globalName]) { window[globalName].hydrate(root); return; }
         const script = document.createElement("script");
-        script.src = new URL("numerals.js?v=20261019", siteRoot).href;
-        script.onload = function () { window.IxoriaNumerals.hydrate(root); };
+        script.src = new URL(file + "?v=" + VERSION, siteRoot).href;
+        script.onload = function () { window[globalName].hydrate(root); };
         document.head.appendChild(script);
+    }
+    function loadNumerals(root) {
+        loadExtra(root, ".ixn, [data-numerals]", "numerals.js", "IxoriaNumerals");
+        loadExtra(root, "[data-script]", "language.js", "IxorianScript");
     }
 
     function load() {

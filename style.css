@@ -212,6 +212,50 @@ main.atlas { max-width: 68ch; }
     .ixn-cell-value { font-size: 0.7rem; }
 }
 
+/* The Ixorian script (drawn by language.js) */
+.ixs-tool { margin: 1.5rem 0 2rem; }
+.ixs-pen { fill: none; stroke: currentColor; stroke-linecap: round; stroke-linejoin: round; }
+.ixs-pen.ixs-link { stroke: var(--accent); }
+.ixs-mark { fill: none; stroke: currentColor; stroke-linecap: round; stroke-linejoin: round; }
+.ixs-ruled { stroke: var(--rule); }
+.ixs-tool button, .ixs-tool input {
+    font: inherit; color: var(--ink); background: var(--paper);
+    border: 1px solid var(--rule); border-bottom-style: dashed;
+}
+.ixs-tool button { cursor: pointer; padding: 0.3rem 0.65rem; font-size: 0.9rem; }
+.ixs-tool button:hover { color: var(--accent); border-color: var(--accent); }
+.ixs-tool button[aria-pressed="true"] { color: var(--accent); border-color: var(--accent); background: var(--paper-deep); }
+.ixs-tool :focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+.ixs-tool code { color: var(--accent); font-family: inherit; }
+.ixs-soft { color: var(--ink-soft); }
+.ixs-tiles { display: grid; grid-template-columns: repeat(auto-fill, minmax(8rem, 1fr)); gap: 0.5rem; }
+.ixs-tile { border: 1px solid var(--rule); border-bottom-style: dashed; padding: 0.5rem 0.3rem; display: grid; justify-items: center; align-content: start; gap: 0.2rem; }
+.ixs-tile svg { height: 6rem; width: auto; max-width: 100%; }
+.ixs-name { font-size: 0.85rem; text-align: center; }
+.ixs-ex { font-size: 0.75rem; color: var(--ink-soft); text-align: center; line-height: 1.35; }
+.ixs-chart { display: grid; grid-template-columns: repeat(7, minmax(0, 1fr)); gap: 0.4rem; }
+.ixs-chart .ixs-tile svg { height: 5.5rem; }
+.ixs-vowels .ixs-tiles { grid-template-columns: repeat(6, minmax(0, 1fr)); }
+.ixs-strokes .ixs-tiles { grid-template-columns: repeat(4, minmax(0, 1fr)); }
+.ixs-writer { display: grid; gap: 0.6rem; }
+.ixs-writer label { color: var(--ink-soft); }
+.ixs-writer input { width: 100%; padding: 0.45rem 0.7rem; }
+.ixs-codes { font-size: 0.85rem; color: var(--ink-soft); margin: 0; }
+.ixs-warning { color: var(--accent); font-size: 0.9rem; min-height: 1.4em; margin: 0; }
+.ixs-buttons { display: flex; flex-wrap: wrap; gap: 0.4rem; align-items: center; }
+.ixs-gap { margin-left: 0.75rem; }
+.ixs-rendering { margin-top: 1rem; overflow-x: auto; }
+.ixs-line { display: flex; flex-wrap: wrap; gap: 0.6rem 1.6rem; align-items: flex-end; }
+.ixs-word { display: grid; justify-items: center; gap: 0.1rem; }
+.ixs-word svg { height: 9rem; width: auto; flex: none; }
+.ixs-code { font-size: 0.75rem; color: var(--ink-soft); }
+@media (max-width: 560px) {
+    .ixs-chart { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+    .ixs-word svg { height: 7rem; }
+    .ixs-tiles, .ixs-strokes .ixs-tiles { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+    .ixs-vowels .ixs-tiles { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+}
+
 /* Index: the menus become an open table of contents */
 .contents-container { display: grid; grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr)); gap: 0 3rem; }
 .contents-container > .contents { min-width: 0; }
