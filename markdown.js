@@ -13,6 +13,11 @@
  *   | tables | with a header row | --- horizontal rules
  *   *italic*  **bold**             line breaks: end a line with \ or two spaces
  *   \* \| \\  escaped characters
+ *
+ * Ixorian numerals (drawn by numerals.js, loaded only when a page needs it):
+ *   {{64:100}}  the number 100 in Ixorian digits, anywhere in the text
+ *   {{numerals:builder}}, {{numerals:converter}}, {{numerals:table}}
+ *               on a line of their own: the interactive numeral tools
  */
 (function () {
     "use strict";
@@ -40,6 +45,8 @@
         text = text.replace(/\n/g, " ");
         text = text.replace(/\*\*(?=\S)([\s\S]*?\S)\*\*/g, "<strong>$1</strong>");
         text = text.replace(/\*(?=\S)([\s\S]*?\S)\*/g, "<em>$1</em>");
+        // Ixorian numerals: {{64:100}} shows the number 100 in Ixorian digits.
+        text = text.replace(/\{\{64:(\d{1,15})\}\}/g, '<span class="ixn" data-value="$1">$1</span>');
         text = text.replace(/\u0000(\d+)\u0000/g, function (_, i) {
             return escapeHtml(escapes[Number(i)]);
         });
@@ -71,7 +78,8 @@
         rule: /^\s*(-{3,}|\*{3,})\s*$/,
         quote: /^\s*>/,
         listItem: /^(\s*)([-*+]|\d+\.)\s+(.*)$/,
-        tableSeparator: /^\s*\|?\s*:?-{2,}:?\s*(\|\s*:?-{2,}:?\s*)*\|?\s*$/
+        tableSeparator: /^\s*\|?\s*:?-{2,}:?\s*(\|\s*:?-{2,}:?\s*)*\|?\s*$/,
+        numeralTool: /^\s*\{\{numerals:(builder|converter|table)\}\}\s*$/
     };
 
     function isTableStart(lines, i) {
@@ -83,7 +91,8 @@
         const line = lines[i];
         return patterns.blank.test(line) || patterns.heading.test(line) ||
             patterns.rule.test(line) || patterns.quote.test(line) ||
-            patterns.listItem.test(line) || isTableStart(lines, i);
+            patterns.listItem.test(line) || patterns.numeralTool.test(line) ||
+            isTableStart(lines, i);
     }
 
     // Convert a block of Markdown text into HTML.
@@ -97,6 +106,9 @@
             let match;
 
             if (patterns.blank.test(line)) {
+                i++;
+            } else if ((match = line.match(patterns.numeralTool))) {
+                html.push('<div class="ixn-tool ixn-' + match[1] + '" data-numerals="' + match[1] + '"></div>');
                 i++;
             } else if ((match = line.match(patterns.heading))) {
                 const level = match[1].length;
@@ -234,6 +246,16 @@
             .catch(function () { /* the Index link still works without the menu */ });
     }
 
+    // Load numerals.js only on pages that show Ixorian numerals.
+    function loadNumerals(root) {
+        if (!root.querySelector(".ixn, [data-numerals]")) return;
+        if (window.IxoriaNumerals) { window.IxoriaNumerals.hydrate(root); return; }
+        const script = document.createElement("script");
+        script.src = new URL("numerals.js", siteRoot).href;
+        script.onload = function () { window.IxoriaNumerals.hydrate(root); };
+        document.head.appendChild(script);
+    }
+
     function load() {
         loadSectionMenu();
         const target = document.getElementById("content");
@@ -246,6 +268,7 @@
             })
             .then(function (markdown) {
                 target.innerHTML = render(markdown);
+                loadNumerals(target);
             })
             .catch(function () {
                 target.innerHTML = "<p>This page could not be loaded. Please try again later.</p>";

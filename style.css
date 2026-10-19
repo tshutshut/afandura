@@ -149,6 +149,55 @@ main.atlas { max-width: 68ch; }
 .map-frame { display: block; border: 1px solid var(--rule); }
 .map-frame img { display: block; width: 100%; height: auto; }
 
+/* Ixorian numerals (drawn by numerals.js) */
+.ixn-digit { display: block; overflow: visible; }
+.ixn-ink { fill: currentColor; }
+.ixn-ghost { fill: currentColor; opacity: 0.13; }
+.ixn { display: inline-flex; gap: 0.15em; height: 1.35em; vertical-align: -0.3em; }
+.ixn .ixn-digit { height: 100%; width: auto; }
+.ixn-tool { margin: 1.5rem 0 2rem; }
+.ixn-tool button, .ixn-tool input {
+    font: inherit;
+    color: var(--ink);
+    background: var(--paper);
+    border: 1px solid var(--rule);
+    border-bottom-style: dashed;
+}
+.ixn-tool button { cursor: pointer; padding: 0.35rem 0.75rem; font-size: 0.95rem; }
+.ixn-tool button:hover { color: var(--accent); border-color: var(--accent); }
+.ixn-tool button[aria-pressed="true"] { color: var(--accent); border-color: var(--accent); background: var(--paper-deep); }
+.ixn-tool :focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+.ixn-builder { display: grid; grid-template-columns: auto minmax(0, 1fr); gap: 1.5rem 2.5rem; align-items: center; }
+.ixn-builder-glyph { width: 9rem; }
+.ixn-hit { fill: transparent; cursor: pointer; }
+.ixn-slot:hover .ixn-ghost { opacity: 0.35; }
+.ixn-builder-value { font-size: 3rem; line-height: 1; margin: 0 0 0.5rem; font-variant-numeric: tabular-nums; }
+.ixn-builder-sum { color: var(--ink-soft); margin: 0 0 1rem; min-height: 1.6em; overflow-wrap: anywhere; }
+.ixn-toggles { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 0.4rem; max-width: 22rem; }
+.ixn-toggles button { display: flex; justify-content: space-between; gap: 0.5rem; text-align: left; }
+.ixn-pow { color: var(--ink-soft); font-variant-numeric: tabular-nums; }
+.ixn-toggles button[aria-pressed="true"] .ixn-pow { color: var(--accent); }
+.ixn-converter-input { display: flex; flex-wrap: wrap; gap: 0.5rem; align-items: center; }
+.ixn-converter-input label { color: var(--ink-soft); }
+.ixn-converter-input input { width: 12rem; max-width: 100%; padding: 0.35rem 0.6rem; font-variant-numeric: tabular-nums; }
+.ixn-converter-out { display: flex; flex-wrap: wrap; gap: 1.25rem 0.9rem; margin: 1.5rem 0 1rem; align-items: flex-start; }
+.ixn-place { display: grid; justify-items: center; gap: 0.4rem; }
+.ixn-place .ixn-digit { width: 3.4rem; }
+.ixn-place-label { font-size: 0.8rem; color: var(--ink-soft); font-variant-numeric: tabular-nums; text-align: center; line-height: 1.3; }
+.ixn-breakdown { color: var(--ink-soft); overflow-wrap: anywhere; font-variant-numeric: tabular-nums; }
+.ixn-table { display: grid; grid-template-columns: repeat(8, minmax(0, 1fr)); gap: 0.4rem; }
+.ixn-table .ixn-cell { display: grid; justify-items: center; gap: 0.3rem; padding: 0.6rem 0.2rem 0.4rem; }
+.ixn-cell .ixn-digit { width: 2.2rem; }
+.ixn-cell-value { font-size: 0.8rem; color: var(--ink-soft); font-variant-numeric: tabular-nums; }
+.ixn-cell[aria-current="true"] { border-color: var(--accent); background: var(--paper-deep); }
+.ixn-cell[aria-current="true"] .ixn-cell-value, .ixn-cell:hover .ixn-cell-value { color: var(--accent); }
+@media (max-width: 560px) {
+    .ixn-builder { grid-template-columns: 1fr; justify-items: start; }
+    .ixn-builder-glyph { width: 7.5rem; }
+    .ixn-table { grid-template-columns: repeat(4, minmax(0, 1fr)); }
+    .ixn-cell .ixn-digit { width: 2.4rem; }
+}
+
 /* Index: the menus become an open table of contents */
 .contents-container { display: grid; grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr)); gap: 0 3rem; }
 .contents-container > .contents { min-width: 0; }
