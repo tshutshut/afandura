@@ -167,14 +167,22 @@ main.atlas { max-width: 68ch; }
 .ixn-tool button:hover { color: var(--accent); border-color: var(--accent); }
 .ixn-tool button[aria-pressed="true"] { color: var(--accent); border-color: var(--accent); background: var(--paper-deep); }
 .ixn-tool :focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
-.ixn-builder { display: grid; grid-template-columns: auto minmax(0, 1fr); gap: 1.5rem 2.5rem; align-items: center; }
-.ixn-builder-glyph { width: 9rem; }
+.ixn-builder {
+    display: grid;
+    grid-template-columns: auto minmax(0, 1fr);
+    grid-template-areas: "glyph side" "glyph toggles";
+    gap: 0 2.5rem;
+    align-items: end;
+}
+.ixn-builder-glyph { grid-area: glyph; width: 9rem; align-self: center; }
+.ixn-builder-side { grid-area: side; }
+.ixn-toggles { grid-area: toggles; align-self: start; }
 .ixn-hit { fill: transparent; cursor: pointer; }
 .ixn-slot:hover .ixn-ghost { opacity: 0.35; }
 .ixn-builder-value { font-size: 3rem; line-height: 1; margin: 0 0 0.5rem; font-variant-numeric: tabular-nums; }
 .ixn-builder-sum { color: var(--ink-soft); margin: 0 0 1rem; min-height: 1.6em; overflow-wrap: anywhere; }
 .ixn-toggles { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 0.4rem; max-width: 22rem; }
-.ixn-toggles button { display: flex; justify-content: space-between; gap: 0.5rem; text-align: left; }
+.ixn-toggles button { display: flex; justify-content: space-between; gap: 0.5rem; text-align: left; white-space: nowrap; }
 .ixn-pow { color: var(--ink-soft); font-variant-numeric: tabular-nums; }
 .ixn-toggles button[aria-pressed="true"] .ixn-pow { color: var(--accent); }
 .ixn-converter-input { display: flex; flex-wrap: wrap; gap: 0.5rem; align-items: center; }
@@ -192,10 +200,16 @@ main.atlas { max-width: 68ch; }
 .ixn-cell[aria-current="true"] { border-color: var(--accent); background: var(--paper-deep); }
 .ixn-cell[aria-current="true"] .ixn-cell-value, .ixn-cell:hover .ixn-cell-value { color: var(--accent); }
 @media (max-width: 560px) {
-    .ixn-builder { grid-template-columns: 1fr; justify-items: start; }
-    .ixn-builder-glyph { width: 7.5rem; }
-    .ixn-table { grid-template-columns: repeat(4, minmax(0, 1fr)); }
-    .ixn-cell .ixn-digit { width: 2.4rem; }
+    .ixn-builder { grid-template-areas: "glyph side" "toggles toggles"; gap: 1.25rem 1.5rem; align-items: center; }
+    .ixn-builder-glyph { width: 5.5rem; }
+    .ixn-builder-value { font-size: 2.5rem; }
+    .ixn-builder-sum { margin: 0; }
+    .ixn-toggles { max-width: none; }
+    .ixn-toggles button { padding: 0.35rem 0.5rem; font-size: 0.85rem; }
+    .ixn-table { gap: 0.25rem; }
+    .ixn-table .ixn-cell { padding: 0.45rem 0 0.3rem; gap: 0.2rem; }
+    .ixn-cell .ixn-digit { width: 1.4rem; }
+    .ixn-cell-value { font-size: 0.7rem; }
 }
 
 /* Index: the menus become an open table of contents */

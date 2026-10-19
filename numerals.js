@@ -76,8 +76,8 @@
             '<div class="ixn-builder-glyph"></div>' +
             '<div class="ixn-builder-side">' +
             '<p class="ixn-builder-value" aria-live="polite"></p>' +
-            '<p class="ixn-builder-sum"></p>' +
-            '<div class="ixn-toggles" role="group" aria-label="Crossbars"></div></div>';
+            '<p class="ixn-builder-sum"></p></div>' +
+            '<div class="ixn-toggles" role="group" aria-label="Crossbars"></div>';
         var glyphBox = box.querySelector(".ixn-builder-glyph");
         var valueEl = box.querySelector(".ixn-builder-value");
         var sumEl = box.querySelector(".ixn-builder-sum");

@@ -251,7 +251,7 @@
         if (!root.querySelector(".ixn, [data-numerals]")) return;
         if (window.IxoriaNumerals) { window.IxoriaNumerals.hydrate(root); return; }
         const script = document.createElement("script");
-        script.src = new URL("numerals.js", siteRoot).href;
+        script.src = new URL("numerals.js?v=20261019", siteRoot).href;
         script.onload = function () { window.IxoriaNumerals.hydrate(root); };
         document.head.appendChild(script);
     }
