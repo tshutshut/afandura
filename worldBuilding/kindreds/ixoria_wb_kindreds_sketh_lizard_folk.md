@@ -1,6 +1,6 @@
 # The Sketh (Lizard Folk)
 
-The Sketh are the newest of the peoples of Ixoria. They came from beyond its shores between one and two centuries ago, from a land they rarely speak of and that few Ixorians could name. They have no homeland on the continent, no rulers and no council, and they answer to no one but themselves. Yet in almost every city, harbor and crossroads of Ixoria, wherever there is work to be done and money to be made, a Sketh can be found.
+The Sketh are the newest of the peoples of Ixoria. They came from beyond its shores a little over a century ago, during the reign of Alaric the Stern, the sixth Beacon, from a land they rarely speak of and that few Ixorians could name. They have no homeland on the continent, no rulers and no council, and they answer to no one but themselves. Yet in almost every city, harbor and crossroads of Ixoria, wherever there is work to be done and money to be made, a Sketh can be found.
 
 Their very name was not their own. Sketh was the word Ixorians used for them when they first arrived, and it was not meant kindly. The Sketh took it anyway, and today they wear it with something close to pride.
 
