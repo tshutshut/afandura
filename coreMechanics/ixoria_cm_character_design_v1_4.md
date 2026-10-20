@@ -44,7 +44,7 @@ Modifier Key:\
 | Owl Beastkin (Oshi) | − | + | − | ++ | + | = |  |
 | Crow Beastkin (Nyr) | − | + | − | + | ++ | = |  |
 | Frog Beastkin (Keluma) | −− | ++ | = | + | + | − |  |
-| Lizard Beastkin | = | + | ++ | = | − | − |  |
+| Lizard Beastkin (Sketh) | = | + | ++ | = | − | − |  |
 | Monkey Beastkin (Vishani) | − | ++ | − | = | + | + |  |
 
 ## Step 2 — Choose a Class
@@ -160,7 +160,7 @@ Natural AC represents the protection provided naturally by your character's body
 | Owl Beastkin (Oshi) | 5 |
 | Crow Beastkin (Nyr) | 5 |
 | Frog Beastkin (Keluma) | 5 |
-| Lizard Beastkin | 6 |
+| Lizard Beastkin (Sketh) | 6 |
 | Monkey Beastkin (Vishani) | 5 |
 
 ## Step 8 — Determine Magical Affinity
