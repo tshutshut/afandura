@@ -47,6 +47,30 @@ Modifier Key:\
 | Lizard Beastkin (Sketh) | = | + | ++ | = | − | − |  |
 | Monkey Beastkin (Vishani) | − | ++ | − | = | + | + |  |
 
+### Lingering Blood: Becoming an Ilie
+
+A character born into another race who becomes an Ilie (Tiefling) chooses, once and permanently, how much of their former body remains. This choice needs no approval from the Game Master: it is entirely up to the player.
+
+#### Full Ilie
+
+The character loses all traits of their birth race and takes the Ilie attribute modifiers and Natural AC.
+
+#### Lingering Blood
+
+The character keeps part of their birth race. For each attribute, take the average of the Ilie modifier and the birth-race modifier. If the result falls between two steps (for example −1, between − and =), round it towards the Ilie value. Natural AC is averaged the same way and rounded towards the Ilie value.
+
+This choice should match how the character looks: Lingering Blood suits someone who has kept much of their former body, such as fur, build or features.
+
+#### Example: Borru turned Ilie
+
+| | STR | AGI | END | PER | INT | CHA | Natural AC |
+|---|---|---|---|---|---|---|---|
+| Ilie | − | = | = | + | + | ++ | 5 |
+| Borru | + | −− | ++ | + | −− | = | 7 |
+| Lingering Blood | = | − | + | + | = | + | 6 |
+
+INT averages to −1, which falls between − and =, so it rounds towards the Ilie value (+) and becomes =.
+
 ## Step 2 — Choose a Class
 
 Choose a class for your character. Each class reflects a way of life, training, or outlook described in greater detail on the Classes page.
