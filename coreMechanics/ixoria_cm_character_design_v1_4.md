@@ -61,15 +61,15 @@ The character keeps part of their birth race. For each attribute, take the avera
 
 This choice should match how the character looks: Lingering Blood suits someone who has kept much of their former body, such as fur, build or features.
 
-#### Example: Borru turned Ilie
+#### Example: Keel turned Ilie
 
 | | STR | AGI | END | PER | INT | CHA | Natural AC |
 |---|---|---|---|---|---|---|---|
 | Ilie | − | = | = | + | + | ++ | 5 |
-| Borru | + | −− | ++ | + | −− | = | 7 |
-| Lingering Blood | = | − | + | + | = | + | 6 |
+| Keel | −− | + | − | = | ++ | = | 5 |
+| Lingering Blood | − | = | = | + | + | + | 5 |
 
-INT averages to −1, which falls between − and =, so it rounds towards the Ilie value (+) and becomes =.
+STR averages to −3, which falls between −− and −, so it rounds towards the Ilie value (−) and becomes −. AGI, END and INT also fall between two steps and round towards the Ilie value in the same way.
 
 ## Step 2 — Choose a Class
 
