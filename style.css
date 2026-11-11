@@ -400,36 +400,30 @@ main.atlas { max-width: 68ch; }
 /* Oxblood */
 :root[data-palette="oxblood"] { --paper:#251416; --paper-deep:#2F1A1D; --ink:#EADBC8; --ink-soft:#B39C92; --accent:#D98F7C; --rule:#4C3033; color-scheme:dark; }
 
-/* Session chronicle: a short summary on the left, the story on the right */
-main.session { max-width: 68ch; }
-.session-summary {
-    margin-bottom: 2.5rem;
-    padding: 1.25rem 1.25rem 0.5rem;
-    background: var(--paper-deep);
+/* Session chronicle: two folding blocks, the brief and then the story, across the page */
+main.session { max-width: none; }
+.session-block {
+    margin: 0 0 2rem;
     border: 1px solid var(--rule);
-    font-size: 0.9rem;
-    line-height: 1.5;
+    background: var(--paper-deep);
 }
-.session-summary h2 {
-    margin: 0 0 1rem;
-    padding-bottom: 0.5rem;
+.session-block > summary {
+    cursor: pointer;
+    padding: 0.8rem 1.5rem;
+    color: var(--accent);
+    font-weight: 700;
     font-size: 1.1rem;
-    border-bottom: 1px dashed var(--rule);
+    list-style: none;
 }
-.session-summary h3 { margin: 1.4rem 0 0.4rem; font-size: 0.95rem; }
-.session-summary h2 + h3 { margin-top: 0; }
-.session-summary ul { padding-left: 1.2em; margin-bottom: 1em; }
-.session-summary li { margin: 0.35em 0; }
-@media (min-width: 1000px) {
-    main.session { max-width: calc(68ch + 22rem); }
-    .session-layout {
-        display: grid;
-        grid-template-columns: minmax(16rem, 19rem) minmax(0, 68ch);
-        column-gap: 3rem;
-        align-items: start;
-    }
-    .session-summary { margin-bottom: 0; }
-}
+.session-block > summary::-webkit-details-marker { display: none; }
+.session-block > summary::before { content: "▸"; display: inline-block; width: 1.4em; }
+.session-block[open] > summary::before { content: "▾"; }
+.session-block > summary:hover, .session-block > summary:focus-visible { color: var(--ink); }
+.session-block[open] > summary { border-bottom: 1px dashed var(--rule); }
+.session-brief, .session-story { padding: 1.25rem 1.5rem 0.4rem; text-align: justify; hyphens: auto; }
+.session-brief ul { margin: 0 0 1em; padding-left: 1.4em; }
+.session-brief li { margin: 0.5em 0; }
+.session-head .session-date { font-size: 1.3rem; }
 
 /* Chronicles: a session's date sits at the right of its title, in lists and on the page */
 .session-head { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: baseline;

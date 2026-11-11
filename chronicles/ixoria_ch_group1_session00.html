@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Session 0 — Before the Names Are Called | Book of Ixoria</title>
-    <link rel="stylesheet" href="../style.css?v=2026111102">
+    <link rel="stylesheet" href="../style.css?v=2026111104">
 </head>
 
 <body>
@@ -20,10 +20,15 @@
 
         <!-- The summary lives in ixoria_ch_group1_session00_summary.md and the story in
              ixoria_ch_group1_session00_story.md. Edit those files to change this page. -->
-        <div class="session-layout">
-            <aside class="session-summary" data-source="ixoria_ch_group1_session00_summary.md" aria-label="Session summary"></aside>
-            <article class="session-story" data-source="ixoria_ch_group1_session00_story.md"></article>
-        </div>
+        <details class="session-block" open>
+            <summary>In Brief</summary>
+            <div class="session-brief" data-source="ixoria_ch_group1_session00_summary.md"></div>
+        </details>
+
+        <details class="session-block" open>
+            <summary>The Story</summary>
+            <div class="session-story" data-source="ixoria_ch_group1_session00_story.md"></div>
+        </details>
     </main>
 
     <script src="../markdown.js?v=2026111101"></script>
