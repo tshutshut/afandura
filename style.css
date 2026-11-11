@@ -428,11 +428,12 @@ main.session { max-width: 68ch; }
         column-gap: 3rem;
         align-items: start;
     }
-    .session-summary {
-        position: sticky;
-        top: 1.5rem;
-        max-height: calc(100vh - 3rem);
-        overflow-y: auto;
-        margin-bottom: 0;
-    }
+    .session-summary { margin-bottom: 0; }
 }
+
+/* Chronicles: a session's date sits at the right of its title, in lists and on the page */
+.session-head { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: baseline;
+    gap: 0.25rem 2rem; margin: 0 0 2rem; padding-bottom: 0.75rem; border-bottom: 3px double var(--ink); }
+.session-head h1 { margin: 0; padding: 0; border: 0; }
+.menu-level-2 > li > a.session-entry { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 0 2rem; }
+.session-date { color: var(--ink-soft); white-space: nowrap; }

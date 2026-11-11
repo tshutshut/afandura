@@ -1,49 +1,15 @@
 ## In Brief
 
-### The Company
-
-- Picea, an Ilie born Borru, new to Saltmere and looking for work.
-- Zorro-Ru, a Suli who sells fireworks and trinkets.
-- Zillard Verde, a Sketh sent by Orden College to find a magical vase.
-- Tetryl, a human who came to the city to heal his pigeon, Octo.
-- Valhir, a Borru fisherman who loves fish above all else.
-
-### What Happened
-
-- Picea read the Grey Cloaks' call for volunteers to investigate the inland roads and joined the line outside their hall.
-- Zillard and Zorro-Ru met at the gate and haggled over fireworks. No sale.
-- Tetryl was ignored by the guard. Rumbling Rick sent him to find a Borru in a straw hat.
-- Mira took Picea inside. Zorro-Ru followed, studied the map of grey pins and talked his way past the clerk.
-- Brannoch Mull took their names and sent them to the yard.
-- Mira drilled Picea and Zorro-Ru: rope, boulders, targets and sparring. She is far quicker than she looks.
-- Tetryl found Valhir with a well-aimed rock. It is now the stone of friendship.
-- Valhir fed fish entrails to the pigeon.
-- At the Flower Salt Mane, Toreb gave Valhir salt for free. Zillard caught up with them there.
-- Toreb knew nothing of the vase and suggested the Red Pilgrim temple.
-- Valhir wanted Zorro-Ru's fire to cook his fish, so the three went to the gate.
-- Picea and Zorro-Ru joined the Grey Cloaks. Each got a grey cloak, a cartwheel pin, a buckler, and a bow or a short sword.
-- Tetryl set Octo free.
-- Hurin, an Oshi of the Grey Cloaks, spoke in riddles to the newcomers and took notes on them, then left without a word.
-- Mira had the recruits swear her oath. Brannoch told her to stop.
-- Zillard joined the Grey Cloaks as well, mostly to follow Picea.
-
-### People Met
-
-- Mira, the cheerful young Grey Cloak.
-- Brannoch Mull, the weary Amdir officer of the hall.
-- Hurin, the silent Oshi clerk with the black notebook.
-- Toreb Saltwain, the Lion Folk salt merchant of the Brine Compact.
-- Rumbling Rick, the one-armed man who can still ride a horse.
-
-### The Grey Cloaks
-
-- Their proper name is the Wayguard Wardens.
-- Their emblem is a grey cartwheel with a shield at its hub, on dark green.
-- Their motto: "Watch, ward, and deliver."
-
-### Your Orders
-
-- A Red Pilgrim was found last night outside the walls, half dead.
-- He was taken from his caravan months ago, near another city, on its way to the first site of the Red Line.
-- He is now at Saltmere's Red temple.
-- Go there, speak with the Vowed who keeps the temple, and report back to Brannoch.
+1. Picea arrives in Saltmere looking for work, reads the Grey Cloaks' call for volunteers on the notice wall, and joins the line. Rumbling Rick talks to her about horses.
+2. At the gate, Zillard stops at Zorro-Ru's fireworks show. They haggle, neither trusts the other, and there is no sale. Zillard goes down to the market to find a Lion Folk said to have held the vase he is hunting.
+3. Tetryl asks the door guard where to find a healer for his injured pigeon and is ignored. Rick tells him to look for a Borru in a straw hat.
+4. Mira opens the door, takes names and sweeps Picea inside. Zorro-Ru follows out of curiosity, studies the map of grey pins and talks his way past the Stamper.
+5. Tetryl finds Valhir by throwing a rock at him. Valhir hands it back as the stone of friendship and feeds sea bass entrails to the pigeon. The two set off for the market.
+6. Brannoch Mull takes Picea's and Zorro-Ru's details, sends them to the yard and hints at a mission.
+7. Mira drills the two of them: rope, boulders, targets and sparring. She cheers everything and is far quicker than she looks.
+8. At the Flower Salt Mane, Toreb gives Valhir his salt for free after a tasting. Zillard arrives; Toreb knows nothing of the vase and points him to the Red Pilgrim temple. Valhir decides the Suli's fire will cook his fish, and the three head for the gate.
+9. Picea and Zorro-Ru are accepted as novices and given cloaks, pins, bucklers and a bow or a short sword. Tetryl sets Octo free. Zillard is smitten with Picea.
+10. Hurin, an Oshi of the Grey Cloaks, speaks in riddles to the newcomers and takes notes on them, then leaves without a word when Mira comes back.
+11. Mira has Picea and Zorro-Ru swear her oath. Brannoch storms out, silences everyone and barks the real motto: "Watch. Ward. Deliver."
+12. Brannoch asks the newcomers to join. Zillard says yes, to follow Picea. Valhir and Tetryl decline.
+13. The orders: a Red Pilgrim, taken from his caravan months ago near another city, was found half dead outside the walls last night. Go to the Red temple, speak with the Vowed who keeps it, and report back.
