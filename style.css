@@ -399,3 +399,40 @@ main.atlas { max-width: 68ch; }
 :root[data-palette="vault"] { --paper:#17201C; --paper-deep:#1E2A25; --ink:#DCD6C4; --ink-soft:#9DA394; --accent:#C8A55E; --rule:#36443D; color-scheme:dark; }
 /* Oxblood */
 :root[data-palette="oxblood"] { --paper:#251416; --paper-deep:#2F1A1D; --ink:#EADBC8; --ink-soft:#B39C92; --accent:#D98F7C; --rule:#4C3033; color-scheme:dark; }
+
+/* Session chronicle: a short summary on the left, the story on the right */
+main.session { max-width: 68ch; }
+.session-summary {
+    margin-bottom: 2.5rem;
+    padding: 1.25rem 1.25rem 0.5rem;
+    background: var(--paper-deep);
+    border: 1px solid var(--rule);
+    font-size: 0.9rem;
+    line-height: 1.5;
+}
+.session-summary h2 {
+    margin: 0 0 1rem;
+    padding-bottom: 0.5rem;
+    font-size: 1.1rem;
+    border-bottom: 1px dashed var(--rule);
+}
+.session-summary h3 { margin: 1.4rem 0 0.4rem; font-size: 0.95rem; }
+.session-summary h2 + h3 { margin-top: 0; }
+.session-summary ul { padding-left: 1.2em; margin-bottom: 1em; }
+.session-summary li { margin: 0.35em 0; }
+@media (min-width: 1000px) {
+    main.session { max-width: calc(68ch + 22rem); }
+    .session-layout {
+        display: grid;
+        grid-template-columns: minmax(16rem, 19rem) minmax(0, 68ch);
+        column-gap: 3rem;
+        align-items: start;
+    }
+    .session-summary {
+        position: sticky;
+        top: 1.5rem;
+        max-height: calc(100vh - 3rem);
+        overflow-y: auto;
+        margin-bottom: 0;
+    }
+}

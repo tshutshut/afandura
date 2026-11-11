@@ -3,7 +3,8 @@
  *
  * Every content page contains an element like
  *     <article id="content" data-source="page_name.md"></article>
- * This script fetches that Markdown file and renders it into the element,
+ * This script fetches that Markdown file and renders it into the element
+ * (a page may hold several such elements, each with its own file),
  * so each page's text only ever needs to be edited in its .md file.
  * It also adds a menu of the other pages in the same section of the index.
  *
@@ -178,7 +179,7 @@
     // ---- Section menu -------------------------------------------------
     // Next to the Index link, each page gets a menu listing the other pages
     // of its section (Kindreds, Myths...). Sections and their pages are read
-    // from index.html, so adding a page to the index adds it to the menu.
+    // from world.html, so adding a page there adds it to the menu.
 
     const siteRoot = new URL(".", document.currentScript ? document.currentScript.src : location.href);
 
@@ -245,7 +246,7 @@
     function loadSectionMenu() {
         const nav = document.querySelector('nav[aria-label="Page navigation"]');
         if (!nav || nav.querySelector(".branch-menu")) return;
-        fetch(new URL("index.html", siteRoot))
+        fetch(new URL("world.html", siteRoot))
             .then(function (response) {
                 if (!response.ok) throw new Error(response.status);
                 return response.text();
@@ -269,11 +270,7 @@
         loadExtra(root, "[data-script]", "language.js", "IxorianScript");
     }
 
-    function load() {
-        loadSectionMenu();
-        const target = document.getElementById("content");
-        if (!target || !target.dataset.source) return;
-
+    function loadInto(target) {
         fetch(target.dataset.source)
             .then(function (response) {
                 if (!response.ok) throw new Error(response.status);
@@ -286,6 +283,13 @@
             .catch(function () {
                 target.innerHTML = "<p>This page could not be loaded. Please try again later.</p>";
             });
+    }
+
+    // Every element with a data-source attribute is filled from its Markdown
+    // file, so a page can combine several files (a session's summary and story).
+    function load() {
+        loadSectionMenu();
+        document.querySelectorAll("main [data-source]").forEach(loadInto);
     }
 
     window.IxoriaMarkdown = { render: render };
