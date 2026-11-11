@@ -223,7 +223,7 @@
             const item = document.createElement("li");
             const a = document.createElement("a");
             a.href = url.href;
-            a.textContent = link.textContent.trim();
+            a.textContent = (link.dataset.menuLabel || link.textContent).trim();
             if (samePage(url, here)) a.setAttribute("aria-current", "page");
             item.appendChild(a);
             list.appendChild(item);

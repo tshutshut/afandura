@@ -420,8 +420,9 @@ main.session { max-width: none; }
 .session-block[open] > summary::before { content: "▾"; }
 .session-block > summary:hover, .session-block > summary:focus-visible { color: var(--ink); }
 .session-block[open] > summary { border-bottom: 1px dashed var(--rule); }
-.session-brief, .session-story { padding: 1.25rem 1.5rem 0.4rem; text-align: justify; hyphens: auto; }
-.session-brief ul { margin: 0 0 1em; padding-left: 1.4em; }
+.session-brief, .session-story { padding: 0.9rem 1.5rem 0.2rem; text-align: justify; hyphens: auto; }
+.session-brief ul { margin: 0 0 0.9em; padding-left: 1.4em; }
+.session-brief li:first-child { margin-top: 0; }
 .session-brief li { margin: 0.5em 0; }
 .session-head .session-date { font-size: 1.3rem; }
 
