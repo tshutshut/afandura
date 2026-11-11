@@ -179,7 +179,10 @@
     // ---- Section menu -------------------------------------------------
     // Next to the Index link, each page gets a menu listing the other pages
     // of its section (Kindreds, Myths...). Sections and their pages are read
-    // from world.html, so adding a page there adds it to the menu.
+    // from world.html, so adding a page there adds it to the menu. A page can
+    // read its menu from another contents page instead with
+    // <nav aria-label="Page navigation" data-menu-source="index.html">
+    // (the chronicles use their own index this way).
 
     const siteRoot = new URL(".", document.currentScript ? document.currentScript.src : location.href);
 
@@ -188,12 +191,12 @@
         return clean(a.pathname) === clean(b.pathname);
     }
 
-    function buildSectionMenu(nav, indexHtml) {
+    function buildSectionMenu(nav, indexHtml, base) {
         const doc = new DOMParser().parseFromString(indexHtml, "text/html");
         const here = new URL(location.href);
         let current = null;
         for (const link of doc.querySelectorAll(".menu a[href]")) {
-            if (samePage(new URL(link.getAttribute("href"), siteRoot), here)) { current = link; break; }
+            if (samePage(new URL(link.getAttribute("href"), base), here)) { current = link; break; }
         }
         if (!current) return;
 
@@ -216,7 +219,7 @@
         list.hidden = true;
 
         for (const link of section.querySelectorAll(".menu a[href]")) {
-            const url = new URL(link.getAttribute("href"), siteRoot);
+            const url = new URL(link.getAttribute("href"), base);
             const item = document.createElement("li");
             const a = document.createElement("a");
             a.href = url.href;
@@ -246,12 +249,15 @@
     function loadSectionMenu() {
         const nav = document.querySelector('nav[aria-label="Page navigation"]');
         if (!nav || nav.querySelector(".branch-menu")) return;
-        fetch(new URL("world.html", siteRoot))
+        const source = nav.dataset.menuSource
+            ? new URL(nav.dataset.menuSource, location.href)
+            : new URL("world.html", siteRoot);
+        fetch(source)
             .then(function (response) {
                 if (!response.ok) throw new Error(response.status);
                 return response.text();
             })
-            .then(function (html) { buildSectionMenu(nav, html); })
+            .then(function (html) { buildSectionMenu(nav, html, source); })
             .catch(function () { /* the Index link still works without the menu */ });
     }
 
