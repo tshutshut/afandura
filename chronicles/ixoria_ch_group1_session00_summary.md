@@ -2,7 +2,7 @@
 - At the gate, Zillard stops at Zorro-Ru's fireworks show. They haggle, neither trusts the other, and there is no sale. Zillard goes down to the market to find a Lion Folk said to have held the vase he is hunting.
 - Tetryl asks the door guard where to find a healer for his injured pigeon and is ignored. Rick tells him to look for a Borru in a straw hat.
 - Mira opens the door, takes names and sweeps Picea inside. Zorro-Ru follows out of curiosity, studies the map of grey pins and talks his way past the Stamper.
-- Tetryl finds Valhir by throwing a rock at him. Valhir hands it back as the stone of friendship and feeds sea bass entrails to the pigeon. The two set off for the market.
+- Tetryl stumbles upon Valhir and gets his attention by throwing a rock at him. They talk and get along. Valhir suggests feeding sea bass entrails to the pigeon, then hands Tetryl the rock he threw as the stone of friendship. The two set off for the market.
 - Brannoch Mull takes Picea's and Zorro-Ru's details, sends them to the yard and hints at a mission.
 - Mira drills the two of them: rope, boulders, targets and sparring. She cheers everything and is far quicker than she looks.
 - At the Flower Salt Mane, Toreb gives Valhir his salt for free after a tasting. Zillard arrives; Toreb knows nothing of the vase and points him to the Red Pilgrim temple. Valhir decides the Suli's fire will cook his fish, and the three head for the gate.
